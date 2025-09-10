@@ -5,13 +5,21 @@ This repository contains the JSON data files for the Synagamy fertility educatio
 ## Files
 
 - `data/Education_Topics.json` - Main education topics database containing 189 fertility-related topics with lay explanations, references, and related topics.
+- `data/CommonQuestions.json` - Frequently asked questions and answers about fertility treatments.
+- `data/infertility_info.json` - Information about different types of infertility and their causes.
+- `data/Pathways.json` - Treatment pathways and decision trees for fertility care.
+- `data/resources.json` - External resources, websites, and support organizations.
 
 ## Usage
 
 The JSON files can be accessed directly via GitHub's raw content URLs:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/fertility-data/main/data/Education_Topics.json
+https://raw.githubusercontent.com/rsterl14/fertility-data/main/data/Education_Topics.json
+https://raw.githubusercontent.com/rsterl14/fertility-data/main/data/CommonQuestions.json
+https://raw.githubusercontent.com/rsterl14/fertility-data/main/data/infertility_info.json
+https://raw.githubusercontent.com/rsterl14/fertility-data/main/data/Pathways.json
+https://raw.githubusercontent.com/rsterl14/fertility-data/main/data/resources.json
 ```
 
 ## Data Structure
