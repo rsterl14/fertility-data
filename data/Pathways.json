@@ -3113,10 +3113,9 @@
       "category": "IVF Cycles",
       "steps": [
         {
-          "stepNumber": 1,
-          "title": "Reactivating Care & Consultation",
           "overview": "Schedule a consultation with your fertility doctor to review your frozen embryos, discuss the transfer plan, and update any medical history. Your doctor will review embryo quality, recommend how many to transfer, and create a personalized medication protocol.",
-          "topic_ref": [
+          "step": "Reactivating Care & Consultation",
+          "topic_refs": [
             "Initial Consult",
             "Embryo",
             "Embryo Grading",
@@ -3124,10 +3123,9 @@
           ]
         },
         {
-          "stepNumber": 2,
-          "title": "Endometrial Preparation & Monitoring",
           "overview": "Take prescribed medications (typically estrogen and progesterone) to prepare your uterine lining for embryo implantation. Your clinic will monitor your lining thickness through ultrasounds to ensure optimal conditions for transfer.",
-          "topic_ref": [
+          "step": "Endometrial Preparation & Monitoring",
+          "topic_refs": [
             "Estrogen in Females",
             "Progesterone in Females",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -3135,20 +3133,18 @@
           ]
         },
         {
-          "stepNumber": 3,
-          "title": "Lining Check & Transfer Scheduling",
           "overview": "Once your uterine lining reaches the ideal thickness (usually 8mm+), your transfer date will be scheduled. You'll receive specific instructions about when to start progesterone support and what to do on transfer day.",
-          "topic_ref": [
+          "step": "Lining Check & Transfer Scheduling",
+          "topic_refs": [
             "Endometrium",
             "Progesterone in Females",
             "Frozen Embryo Transfer (FET)"
           ]
         },
         {
-          "stepNumber": 4,
-          "title": "Embryo Thaw & Transfer",
           "overview": "On transfer day, the embryology lab will thaw your embryo(s). The transfer procedure is quick and typically painless, similar to a pap smear. The embryo(s) are placed into your uterus using a thin catheter guided by ultrasound.",
-          "topic_ref": [
+          "step": "Embryo Thaw & Transfer",
+          "topic_refs": [
             "Embryo Cryopreservation",
             "Frozen Embryo Transfer (FET)",
             "Embryo",
@@ -3156,20 +3152,18 @@
           ]
         },
         {
-          "stepNumber": 5,
-          "title": "Luteal Support & Two-Week Wait",
           "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation. This is called the 'two-week wait' - the time between transfer and your pregnancy test. Follow all medication instructions carefully during this critical time.",
-          "topic_ref": [
+          "step": "Luteal Support & Two-Week Wait",
+          "topic_refs": [
             "Progesterone in Females",
             "Progesterone (Luteal Phase Support)",
             "Implantation"
           ]
         },
         {
-          "stepNumber": 6,
-          "title": "Pregnancy Testing & Follow-up",
           "overview": "Approximately 9-12 days after transfer, you'll have a blood test to check for pregnancy (beta hCG test). If positive, you'll continue medications and have repeat blood tests and ultrasounds. If negative, your doctor will discuss next steps.",
-          "topic_ref": [
+          "step": "Pregnancy Testing & Follow-up",
+          "topic_refs": [
             "Serum hCG Pregnancy Test",
             "Antral Follicle Count (AFC) Ultrasound"
           ]
@@ -3184,29 +3178,26 @@
       "category": "Using Frozen Materials",
       "steps": [
         {
-          "stepNumber": 1,
-          "title": "Reactivating Your Care & Consultation",
           "overview": "Schedule a consultation with your fertility doctor to discuss using your frozen eggs. Review your medical history, update any health changes since freezing, and discuss sperm source options. Your doctor will explain success rates based on your age at freezing and number of eggs available.",
-          "topic_ref": [
+          "step": "Reactivating Your Care & Consultation",
+          "topic_refs": [
             "Initial Consult",
             "Oocyte Cryopreservation (Egg Freezing)",
             "In Vitro Fertilization (IVF)"
           ]
         },
         {
-          "stepNumber": 2,
-          "title": "Partner & Sperm Source Selection",
           "overview": "Decide on your sperm source: partner sperm, donor sperm from a bank, or a known donor. If using partner sperm, your partner will provide a sample. If using donor sperm, you'll select a donor and complete necessary legal paperwork.",
-          "topic_ref": [
+          "step": "Partner & Sperm Source Selection",
+          "topic_refs": [
             "Donor Sperm IVF",
             "Semen Analysis"
           ]
         },
         {
-          "stepNumber": 3,
-          "title": "Egg Thaw & Fertilization (ICSI)",
           "overview": "The embryology lab will carefully thaw your frozen eggs. ICSI (intracytoplasmic sperm injection) is typically used to fertilize thawed eggs, as it has higher success rates than conventional fertilization. Your clinic will report how many eggs survived the thaw and were successfully fertilized.",
-          "topic_ref": [
+          "step": "Egg Thaw & Fertilization (ICSI)",
+          "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Fertilization",
@@ -3214,10 +3205,9 @@
           ]
         },
         {
-          "stepNumber": 4,
-          "title": "Embryo Development & Monitoring",
           "overview": "Fertilized eggs (now embryos) will be cultured in the lab for 3-6 days. The embryology team monitors their development and grades them for quality. You may choose to do genetic testing (PGT) on embryos before transfer.",
-          "topic_ref": [
+          "step": "Embryo Development & Monitoring",
+          "topic_refs": [
             "Embryo",
             "Embryo Grading",
             "Blastocyst",
@@ -3225,10 +3215,9 @@
           ]
         },
         {
-          "stepNumber": 5,
-          "title": "Endometrial Preparation & Embryo Transfer",
           "overview": "While embryos develop, you'll take medications to prepare your uterine lining. Once ready, one or more embryos will be transferred into your uterus in a quick, usually painless procedure. Any remaining quality embryos can be frozen for future use.",
-          "topic_ref": [
+          "step": "Endometrial Preparation & Embryo Transfer",
+          "topic_refs": [
             "Endometrium",
             "Estrogen in Females",
             "Progesterone in Females",
@@ -3236,10 +3225,9 @@
           ]
         },
         {
-          "stepNumber": 6,
-          "title": "Pregnancy Testing & Follow-up",
           "overview": "Continue taking progesterone support medications during the two-week wait. Approximately 9-12 days after transfer, you'll have a blood pregnancy test. If positive, you'll continue medications and have follow-up monitoring. If negative, your doctor will discuss next steps and remaining frozen materials.",
-          "topic_ref": [
+          "step": "Pregnancy Testing & Follow-up",
+          "topic_refs": [
             "Serum hCG Pregnancy Test",
             "Progesterone in Females"
           ]
@@ -3254,50 +3242,45 @@
       "category": "Using Frozen Materials",
       "steps": [
         {
-          "stepNumber": 1,
-          "title": "Reactivating Your Care & Consultation",
           "overview": "Schedule a consultation with your fertility doctor to discuss using your frozen sperm. Review your sperm analysis from the time of freezing, discuss treatment options (IUI vs IVF), and create a plan coordinated with your partner's cycle.",
-          "topic_ref": [
+          "step": "Reactivating Your Care & Consultation",
+          "topic_refs": [
             "Initial Consult",
             "Semen Analysis",
             "Sperm Cryopreservation"
           ]
         },
         {
-          "stepNumber": 2,
-          "title": "Treatment Selection & Partner Assessment",
           "overview": "Based on your partner's fertility evaluation and sperm quality, your doctor will recommend either IUI or IVF. IUI may be appropriate if your partner has open fallopian tubes and regular cycles. IVF may be recommended for more complex cases or lower sperm parameters.",
-          "topic_ref": [
+          "step": "Treatment Selection & Partner Assessment",
+          "topic_refs": [
             "Intrauterine Insemination (IUI)",
             "Anti-Mullerian Hormone (AMH) Test",
             "Initial Consult"
           ]
         },
         {
-          "stepNumber": 3,
-          "title": "Partner Cycle Coordination",
           "overview": "Your partner will begin cycle monitoring or ovarian stimulation depending on whether you're doing IUI or IVF. The clinic will track follicle development and coordinate the timing of sperm thaw with either insemination (IUI) or egg retrieval (IVF).",
-          "topic_ref": [
+          "step": "Partner Cycle Coordination",
+          "topic_refs": [
             "Ovarian Stimulation",
             "Follicle",
             "Ovulation Trigger (hCG/GnRH Agonist)"
           ]
         },
         {
-          "stepNumber": 4,
-          "title": "Sperm Thaw & Preparation",
           "overview": "On the day of your partner's IUI or egg retrieval, the lab will thaw your frozen sperm sample. The sperm will be washed and prepared for insemination or fertilization. The lab will assess post-thaw sperm quality and quantity.",
-          "topic_ref": [
+          "step": "Sperm Thaw & Preparation",
+          "topic_refs": [
             "Clinical Use of Banked Sperm",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Semen Analysis"
           ]
         },
         {
-          "stepNumber": 5,
-          "title": "Insemination or Fertilization",
           "overview": "For IUI: Prepared sperm is placed directly into your partner's uterus. For IVF: Sperm is used to fertilize eggs in the lab, typically using ICSI if sperm count is limited. Your clinic will guide you through the specific pathway you've chosen.",
-          "topic_ref": [
+          "step": "Insemination or Fertilization",
+          "topic_refs": [
             "Intrauterine Insemination (IUI)",
             "Fertilization",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
@@ -3305,10 +3288,9 @@
           ]
         },
         {
-          "stepNumber": 6,
-          "title": "Pregnancy Testing & Next Steps",
           "overview": "After the two-week wait, your partner will have a pregnancy test. If positive, continue with prenatal care. If negative, discuss next steps with your doctor, including whether you have additional frozen sperm samples for future attempts.",
-          "topic_ref": [
+          "step": "Pregnancy Testing & Next Steps",
+          "topic_refs": [
             "Serum hCG Pregnancy Test"
           ]
         }
@@ -3322,20 +3304,18 @@
       "category": "Treatment Transitions",
       "steps": [
         {
-          "stepNumber": 1,
-          "title": "Understanding Why IUI Didn't Work",
           "overview": "Failed IUI cycles don't mean you did anything wrong. Many factors affect IUI success, including timing, egg quality, sperm quality, and unknown factors. Your doctor will review your IUI cycles to identify any patterns and explain why IVF may offer better chances given your specific situation.",
-          "topic_ref": [
+          "step": "Understanding Why IUI Didn't Work",
+          "topic_refs": [
             "Intrauterine Insemination (IUI)",
             "In Vitro Fertilization (IVF)",
             "Initial Consult"
           ]
         },
         {
-          "stepNumber": 2,
-          "title": "Understanding IVF & What's Different",
           "overview": "IVF provides greater control and visibility than IUI. With IVF, fertilization happens in the lab where it can be monitored, embryos can be graded and tested, and the best embryo(s) are selected for transfer. Your doctor will explain how IVF addresses the limitations of IUI for your specific diagnosis.",
-          "topic_ref": [
+          "step": "Understanding IVF & What's Different",
+          "topic_refs": [
             "In Vitro Fertilization (IVF)",
             "Intrauterine Insemination (IUI)",
             "Embryo",
@@ -3343,16 +3323,14 @@
           ]
         },
         {
-          "stepNumber": 3,
-          "title": "Financial Planning & Insurance Review",
           "overview": "IVF is a significant financial investment. Meet with your clinic's financial counselor to understand costs, review insurance coverage, explore payment plans, and learn about medication assistance programs. Understanding the financial picture upfront helps you plan and reduces stress.",
-          "topic_ref": []
+          "step": "Financial Planning & Insurance Review",
+          "topic_refs": []
         },
         {
-          "stepNumber": 4,
-          "title": "IVF Consultation & Additional Testing",
           "overview": "Schedule an IVF consultation to create your personalized treatment plan. Your doctor may order additional testing such as updated hormone levels, antral follicle count, or genetic carrier screening. This is also the time to ask all your questions about the IVF process.",
-          "topic_ref": [
+          "step": "IVF Consultation & Additional Testing",
+          "topic_refs": [
             "Initial Consult",
             "Anti-Mullerian Hormone (AMH) Test",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -3360,20 +3338,18 @@
           ]
         },
         {
-          "stepNumber": 5,
-          "title": "Treatment Planning & Preparation",
           "overview": "Your care team will create a customized IVF protocol based on your age, ovarian reserve, and previous treatment response. You'll learn about your medication protocol, how to do injections, what to expect during monitoring appointments, and timeline for your cycle.",
-          "topic_ref": [
+          "step": "Treatment Planning & Preparation",
+          "topic_refs": [
             "Ovarian Stimulation",
             "Gonadotropins (FSH, hMG)",
             "Initial Consult"
           ]
         },
         {
-          "stepNumber": 6,
-          "title": "Beginning Your IVF Cycle",
           "overview": "Once you're ready emotionally and financially, and all testing is complete, you'll start your first IVF cycle. The clinic will coordinate timing with your menstrual cycle and walk you through each step. You'll transition to the appropriate IVF pathway based on your specific treatment plan.",
-          "topic_ref": [
+          "step": "Beginning Your IVF Cycle",
+          "topic_refs": [
             "In Vitro Fertilization (IVF)",
             "Initial Consult",
             "Ovarian Stimulation"
@@ -3389,10 +3365,9 @@
       "category": "Treatment Transitions",
       "steps": [
         {
-          "stepNumber": 1,
-          "title": "Understanding Your Options & Success Rates",
           "overview": "Meet with your doctor to discuss why donor eggs are being recommended and understand the success rates. Donor egg IVF typically has higher success rates because the eggs come from younger donors, but it represents a significant shift in your journey that deserves thoughtful consideration.",
-          "topic_ref": [
+          "step": "Understanding Your Options & Success Rates",
+          "topic_refs": [
             "Donor Egg IVF",
             "In Vitro Fertilization (IVF)",
             "Oocyte (Egg Cell)",
@@ -3400,43 +3375,38 @@
           ]
         },
         {
-          "stepNumber": 2,
-          "title": "Choosing: Known vs Anonymous Donor",
           "overview": "You'll need to decide between using an anonymous donor from an agency/bank, or a known donor (friend or family member). Each option has different medical, legal, emotional, and logistical considerations. Your clinic can help you understand the pros and cons of each approach.",
-          "topic_ref": [
+          "step": "Choosing: Known vs Anonymous Donor",
+          "topic_refs": [
             "Donor Egg IVF",
             "Donor Selection & Counseling"
           ]
         },
         {
-          "stepNumber": 3,
-          "title": "Financial Planning & Cost Review",
           "overview": "Donor egg IVF involves additional costs beyond standard IVF, including donor compensation, agency fees, legal contracts, and sometimes donor medications. Meet with a financial counselor to understand all costs and explore financing options. Some insurance plans provide limited coverage.",
-          "topic_ref": []
+          "step": "Financial Planning & Cost Review",
+          "topic_refs": []
         },
         {
-          "stepNumber": 4,
-          "title": "Legal Consultation & Contracts",
           "overview": "Donor egg arrangements require legal contracts to establish parental rights and outline all parties' responsibilities. You'll work with a reproductive attorney to ensure proper documentation, whether using a known or anonymous donor. This step protects everyone involved.",
-          "topic_ref": [
+          "step": "Legal Consultation & Contracts",
+          "topic_refs": [
             "Legal & Ethics in Third-Party Reproduction"
           ]
         },
         {
-          "stepNumber": 5,
-          "title": "Donor Selection & Matching",
           "overview": "If using an anonymous donor, you'll review donor profiles including physical characteristics, medical history, education, and sometimes photos or personal essays. If using a known donor, they'll undergo medical and psychological screening. Take time to find the right match for your family.",
-          "topic_ref": [
+          "step": "Donor Selection & Matching",
+          "topic_refs": [
             "Donor Selection & Counseling",
             "Genetic Counseling",
             "Initial Consult"
           ]
         },
         {
-          "stepNumber": 6,
-          "title": "Medical Coordination & Cycle Planning",
           "overview": "Once your donor is selected and all legal/medical clearances are complete, your clinic will coordinate the cycle. The donor will undergo ovarian stimulation while you prepare your uterine lining. Timing is carefully orchestrated so embryos can be transferred to you fresh or frozen for later use.",
-          "topic_ref": [
+          "step": "Medical Coordination & Cycle Planning",
+          "topic_refs": [
             "Ovarian Stimulation",
             "Endometrium",
             "Frozen Embryo Transfer (FET)"
@@ -3452,30 +3422,27 @@
       "category": "Gender Transition",
       "steps": [
         {
-          "stepNumber": 1,
-          "title": "Initial Consultation & Timeline Planning",
           "overview": "Meet with a fertility doctor experienced in transgender care to discuss egg freezing before testosterone. You'll review the timeline, process, and how to coordinate with your gender-affirming care plan. The goal is to preserve fertility while minimizing delays to your transition.",
-          "topic_ref": [
+          "step": "Initial Consultation & Timeline Planning",
+          "topic_refs": [
             "Initial Consult",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Before Gender-Affirming Hormone Therapy or Surgery"
           ]
         },
         {
-          "stepNumber": 2,
-          "title": "Coordination with Gender-Affirming Care Team",
           "overview": "Your fertility clinic will coordinate with your endocrinologist or gender care provider to ensure the egg freezing cycle doesn't interfere with your transition plans. If you've already started testosterone, you may need to temporarily pause it before the egg freezing cycle.",
-          "topic_ref": [
+          "step": "Coordination with Gender-Affirming Care Team",
+          "topic_refs": [
             "Before Gender-Affirming Hormone Therapy or Surgery",
             "Testosterone",
             "Initial Consult"
           ]
         },
         {
-          "stepNumber": 3,
-          "title": "Pre-Treatment Fertility Assessment",
           "overview": "Complete fertility testing to assess your ovarian reserve and overall reproductive health. This includes bloodwork (AMH, FSH, estradiol) and an ultrasound to count follicles. These tests determine your expected response to ovarian stimulation medications.",
-          "topic_ref": [
+          "step": "Pre-Treatment Fertility Assessment",
+          "topic_refs": [
             "Anti-Mullerian Hormone (AMH) Test",
             "Follicle Stimulating Hormone (FSH) Test",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -3483,10 +3450,9 @@
           ]
         },
         {
-          "stepNumber": 4,
-          "title": "Ovarian Stimulation & Monitoring",
           "overview": "Take injectable fertility medications to stimulate your ovaries to produce multiple eggs in one cycle. You'll have frequent monitoring appointments (ultrasounds and bloodwork) to track follicle growth. The stimulation phase typically lasts 10-14 days.",
-          "topic_ref": [
+          "step": "Ovarian Stimulation & Monitoring",
+          "topic_refs": [
             "Ovarian Stimulation",
             "Gonadotropins (FSH, hMG)",
             "Follicle",
@@ -3494,27 +3460,24 @@
           ]
         },
         {
-          "stepNumber": 5,
-          "title": "Egg Retrieval Procedure",
           "overview": "When follicles are mature, you'll have the egg retrieval procedure under light sedation. A doctor uses ultrasound guidance to collect eggs from your ovaries through the vaginal wall. The procedure takes about 20-30 minutes, and you'll go home the same day.",
-          "topic_ref": [
+          "step": "Egg Retrieval Procedure",
+          "topic_refs": [
             "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam"
           ]
         },
         {
-          "stepNumber": 6,
-          "title": "Egg Freezing & Long-Term Storage",
           "overview": "Eggs are immediately frozen using vitrification (flash-freezing) and stored in liquid nitrogen. You'll receive a report on how many mature eggs were frozen. Eggs can remain frozen indefinitely. The clinic will discuss storage fees and annual contracts.",
-          "topic_ref": [
+          "step": "Egg Freezing & Long-Term Storage",
+          "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)"
           ]
         },
         {
-          "stepNumber": 7,
-          "title": "Proceeding with Gender Transition",
           "overview": "After recovery from egg retrieval (typically 1-2 weeks), you can proceed with starting or resuming testosterone therapy and other gender-affirming treatments. Your eggs are safely stored and can be used in the future if you decide to pursue biological parenthood.",
-          "topic_ref": [
+          "step": "Proceeding with Gender Transition",
+          "topic_refs": [
             "Before Gender-Affirming Hormone Therapy or Surgery",
             "Testosterone"
           ]
