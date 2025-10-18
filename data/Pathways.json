@@ -855,7 +855,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the iui with partner sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -896,10 +895,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Wait approximately two weeks after the IUI, then return for a blood pregnancy test. Your doctor will discuss next steps based on the results, whether continuing treatment or transitioning to prenatal care.",
           "topic_refs": [
-            "Sperm Cryopreservation",
-            "Clinical Use of Banked Sperm",
-            "Intrauterine Insemination (IUI)",
-            "In Vitro Fertilization (IVF)"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -915,7 +911,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the iui with donor sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -966,10 +961,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Wait approximately two weeks after the IUI, then return for a blood pregnancy test. Your doctor will discuss next steps based on the results, whether continuing treatment or transitioning to prenatal care.",
           "topic_refs": [
-            "Sperm Cryopreservation",
-            "Clinical Use of Banked Sperm",
-            "Intrauterine Insemination (IUI)",
-            "In Vitro Fertilization (IVF)"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -985,7 +977,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with own eggs & partner sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -1026,9 +1017,9 @@
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
+            "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte Pickup (OPU)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
@@ -1038,8 +1029,8 @@
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Semen",
-            "Embryo",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -1067,9 +1058,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -1085,7 +1074,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with personal eggs & donor sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -1112,11 +1100,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Sperm Cryopreservation",
+            "Clinical Use of Banked Sperm"
           ]
         }
       ]
@@ -1165,11 +1152,11 @@
           "topic_refs": [
             "Fertilization",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-            "Embryo",
             "Blastocyst",
             "Embryo Grading",
             "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -1185,9 +1172,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -1202,11 +1187,10 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the double donation ivf process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Sperm Cryopreservation",
+            "Initial Consult",
             "Genetic Counseling",
             "Donor Selection & Counseling",
             "Saline Infusion Sonohysterography (SIS)",
-            "Initial Consult",
             "Referral to a Fertility Center",
             "Infectious Disease Screening (Female)",
             "Infectious Disease Screening (Male)",
@@ -1250,9 +1234,9 @@
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
+            "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte Pickup (OPU)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
@@ -1262,8 +1246,8 @@
             "Fertilization",
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-            "Embryo",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -1286,6 +1270,16 @@
             "Progesterone (Luteal Phase Support)",
             "Serum hCG Pregnancy Test"
           ]
+        },
+        {
+          "step": "Pregnancy Testing & Follow-up",
+          "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
+          "topic_refs": [
+            "Serum hCG Pregnancy Test",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Emotional Impact & Support"
+          ]
         }
       ]
     },
@@ -1299,10 +1293,10 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the reciprocal ivf process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Initial Consult",
             "Genetic Counseling",
             "Antral Follicle Count (AFC) Ultrasound",
             "Saline Infusion Sonohysterography (SIS)",
-            "Initial Consult",
             "Infectious Disease Screening (Female)",
             "Referral to a Fertility Center",
             "Anti-Mullerian Hormone (AMH) Test"
@@ -1346,9 +1340,9 @@
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
             "Oocyte Pickup (OPU)",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte (Egg Cell)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
@@ -1389,10 +1383,8 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Progesterone (Luteal Phase Support)",
-            "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
             "Serum hCG Pregnancy Test",
-            "Antral Follicle Count (AFC) Ultrasound"
+            "Progesterone (Luteal Phase Support)"
           ]
         }
       ]
@@ -1407,12 +1399,11 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with gestational carrier (surrogacy) process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Initial Consult",
             "Embryo Grading",
-            "Embryo Cryopreservation",
             "Genetic Counseling",
             "Antral Follicle Count (AFC) Ultrasound",
             "Surrogacy (Gestational Carrier)",
-            "Initial Consult",
             "Infectious Disease Screening (Female)",
             "Hysterosalpingogram (HSG)",
             "Legal & Ethics in Third-Party Reproduction"
@@ -1452,10 +1443,9 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
-            "Progesterone in Females",
-            "Antral Follicle Count (AFC) Ultrasound",
-            "Serum hCG Pregnancy Test"
+            "Progesterone in Females"
           ]
         }
       ]
@@ -1471,7 +1461,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -1505,12 +1494,12 @@
         },
         {
           "step": "Freezing & Storage",
-          "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
+          "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees. When you're ready to use your frozen sperm for fertility treatment (IUI or IVF), contact the clinic to schedule a consultation to determine the best treatment approach.",
           "topic_refs": [
             "Sperm Cryopreservation",
+            "Testicular Tissue Cryopreservation",
             "Clinical Use of Banked Sperm",
             "Sperm Preparation (Density Gradient / Swim-Up)",
-            "Testicular Tissue Cryopreservation",
             "Semen Analysis",
             "Legal & Ethics in Third-Party Reproduction"
           ]
@@ -1528,7 +1517,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the egg freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Ovarian Stimulation",
-            "Oocyte Cryopreservation (Egg Freezing)",
             "Anti-Mullerian Hormone (AMH)",
             "Antral Follicle Count (AFC) Ultrasound",
             "Prepubertal Fertility Preservation",
@@ -1575,8 +1563,8 @@
           "step": "Freezing & Storage",
           "overview": "Eggs are immediately frozen using vitrification, an ultra-rapid freezing technique that prevents ice crystal formation and maximizes egg survival rates. Each egg is carefully frozen and stored in liquid nitrogen at -196\u00b0C where they can remain viable for many years. You'll receive a report on how many mature eggs were successfully frozen. Storage consent forms and annual fees ensure your eggs remain safely preserved until you're ready to use them.",
           "topic_refs": [
-            "Ovarian Stimulation",
             "Oocyte Cryopreservation (Egg Freezing)",
+            "Ovarian Stimulation",
             "Anti-Mullerian Hormone (AMH)",
             "Oocyte (Egg Cell)",
             "Legal & Ethics in Third-Party Reproduction",
@@ -1585,11 +1573,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen eggs safely. Eggs can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen eggs to try for pregnancy, contact the clinic to schedule a consultation. You'll then go through the egg thawing, fertilization (with partner or donor sperm), and embryo transfer process to attempt pregnancy using your preserved fertility.",
           "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Clinical Use of Banked Eggs"
           ]
         }
       ]
@@ -1605,7 +1592,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo freezing with partner process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Ovarian Stimulation",
-            "Embryo Cryopreservation",
             "Anti-Mullerian Hormone (AMH)",
             "Antral Follicle Count (AFC) Ultrasound",
             "2-Cell Embryo",
@@ -1638,10 +1624,10 @@
         },
         {
           "step": "Freezing & Storage",
-          "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
+          "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future Frozen Embryo Transfer (FET) cycles. When you're ready to attempt pregnancy, contact the clinic to schedule an FET consultation.",
           "topic_refs": [
-            "Ovarian Stimulation",
             "Embryo Cryopreservation",
+            "Ovarian Stimulation",
             "Anti-Mullerian Hormone (AMH)",
             "2-Cell Embryo",
             "Legal & Ethics in Third-Party Reproduction",
@@ -1661,7 +1647,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo freezing with donor sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -1692,10 +1677,10 @@
         },
         {
           "step": "Freezing & Storage",
-          "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
+          "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future Frozen Embryo Transfer (FET) cycles. When you're ready to attempt pregnancy, contact the clinic to schedule an FET consultation.",
           "topic_refs": [
-            "Ovarian Stimulation",
             "Embryo Cryopreservation",
+            "Ovarian Stimulation",
             "Anti-Mullerian Hormone (AMH)",
             "2-Cell Embryo",
             "Legal & Ethics in Third-Party Reproduction",
@@ -1749,7 +1734,7 @@
         },
         {
           "step": "Emergency Freezing & Storage",
-          "overview": "Eggs or embryos are immediately frozen using vitrification and stored securely. All storage documentation is completed efficiently to avoid delaying cancer treatment.",
+          "overview": "Your eggs, sperm, or embryos are immediately frozen using vitrification and stored securely. All storage documentation is expedited so you can return to cancer treatment without delay. Your frozen materials will remain safe indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the appropriate pathway (FET for embryos, egg thawing and fertilization for eggs, or IUI/IVF for sperm) when the time is right.",
           "topic_refs": [
             "Embryo Cryopreservation",
             "Oocyte Cryopreservation (Egg Freezing)",
@@ -1757,7 +1742,8 @@
             "Oocyte (Egg Cell)",
             "Before Cancer Treatment (Oncofertility)",
             "Legal & Ethics in Third-Party Reproduction",
-            "Embryo"
+            "Embryo",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -1772,7 +1758,6 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ovarian tissue cryopreservation process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Ovarian Tissue Cryopreservation",
             "Initial Consult",
             "Prepubertal Fertility Preservation",
             "Before Cancer Treatment (Oncofertility)"
@@ -1804,24 +1789,19 @@
           "step": "Freezing & Storage",
           "overview": "Eggs are assessed for maturity and quality. Mature eggs are immediately flash-frozen using vitrification (ultra-rapid freezing) to maximize survival rates when thawed in the future.",
           "topic_refs": [
-            "Before Cancer Treatment (Oncofertility)",
             "Sperm Cryopreservation",
-            "Legal & Ethics in Third-Party Reproduction",
             "Ovarian Tissue Cryopreservation",
+            "Before Cancer Treatment (Oncofertility)",
+            "Legal & Ethics in Third-Party Reproduction",
             "Oocyte (Egg Cell)"
           ]
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen ovarian tissue safely. The tissue will remain in cryogenic storage until you're ready to use it. When you've completed your medical treatment and are ready to pursue fertility, contact the clinic to discuss ovarian tissue transplantation or egg maturation options. Your doctor will assess the best approach for using your preserved tissue based on advances in reproductive medicine and your individual circumstances.",
           "topic_refs": [
             "Ovarian Tissue Cryopreservation",
-            "Prepubertal Fertility Preservation",
-            "Before Cancer Treatment (Oncofertility)",
-            "Legal & Ethics in Third-Party Reproduction",
-            "Embryo",
-            "Sperm Cryopreservation",
-            "Oocyte (Egg Cell)"
+            "Before Cancer Treatment (Oncofertility)"
           ]
         }
       ]
@@ -1836,9 +1816,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the prepubertal fertility preservation process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Ovarian Tissue Cryopreservation",
             "Initial Consult",
-            "Testicular Tissue Cryopreservation",
             "Prepubertal Fertility Preservation",
             "Before Cancer Treatment (Oncofertility)"
           ]
@@ -1880,14 +1858,12 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials (sperm or ovarian tissue) safely. These materials will remain in cryogenic storage until you're ready to use them for family building. When you reach adulthood and are ready to pursue fertility, contact the clinic to discuss using your preserved materials. For frozen sperm, you'll go through IUI or IVF. For ovarian tissue, you'll discuss transplantation or egg maturation options based on advances in reproductive medicine.",
           "topic_refs": [
-            "Before Cancer Treatment (Oncofertility)",
-            "Legal & Ethics in Third-Party Reproduction",
+            "Ovarian Tissue Cryopreservation",
+            "Testicular Tissue Cryopreservation",
             "Prepubertal Fertility Preservation",
-            "Embryo",
-            "Sperm Cryopreservation",
-            "Oocyte (Egg Cell)"
+            "Before Cancer Treatment (Oncofertility)"
           ]
         }
       ]
@@ -1902,9 +1878,8 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the anonymous embryo donation cycle process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Embryo Grading",
-            "Embryo Cryopreservation",
             "Initial Consult",
+            "Embryo Grading",
             "Infectious Disease Screening (Female)",
             "Legal & Ethics in Third-Party Reproduction"
           ]
@@ -1932,10 +1907,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -1950,10 +1922,9 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the directed embryo donation cycle process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Embryo Grading",
-            "Embryo Cryopreservation",
-            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
             "Initial Consult",
+            "Embryo Grading",
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
             "Infectious Disease Screening (Female)",
             "Infectious Disease Screening (Male)",
             "Legal & Ethics in Third-Party Reproduction"
@@ -1972,10 +1943,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -1991,7 +1959,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the frozen egg ivf - partner sperm with icsi process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -2029,28 +1996,27 @@
           "overview": "Your doctor performs an egg retrieval procedure to collect the mature eggs from your ovaries. Under light sedation, a thin needle is guided by ultrasound through the vaginal wall to gently aspirate eggs from each follicle. This procedure typically takes 15-30 minutes and allows us to retrieve multiple eggs in one cycle, maximizing your chances for successful fertilization.",
           "topic_refs": [
             "Oocyte Pickup (OPU)",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte (Egg Cell)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
           "step": "Freezing & Storage",
           "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
           "topic_refs": [
+            "Oocyte Cryopreservation (Egg Freezing)",
             "Oocyte (Egg Cell)",
             "Zygote",
-            "Zona Pellucida",
-            "Oocyte Cryopreservation (Egg Freezing)"
+            "Zona Pellucida"
           ]
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Sperm Cryopreservation",
+            "Clinical Use of Banked Sperm"
           ]
         }
       ]
@@ -2066,7 +2032,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the frozen egg ivf - donor sperm with icsi process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -2102,28 +2067,27 @@
           "overview": "Your doctor performs an egg retrieval procedure to collect the mature eggs from your ovaries. Under light sedation, a thin needle is guided by ultrasound through the vaginal wall to gently aspirate eggs from each follicle. This procedure typically takes 15-30 minutes and allows us to retrieve multiple eggs in one cycle, maximizing your chances for successful fertilization.",
           "topic_refs": [
             "Oocyte Pickup (OPU)",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte (Egg Cell)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
           "step": "Freezing & Storage",
           "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
           "topic_refs": [
+            "Oocyte Cryopreservation (Egg Freezing)",
             "Oocyte (Egg Cell)",
             "Zygote",
-            "Zona Pellucida",
-            "Oocyte Cryopreservation (Egg Freezing)"
+            "Zona Pellucida"
           ]
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Sperm Cryopreservation",
+            "Clinical Use of Banked Sperm"
           ]
         }
       ]
@@ -2138,11 +2102,11 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the donor egg ivf with icsi process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Initial Consult",
             "Human Chorionic Gonadotropin (hCG)",
             "Zygote",
             "Zona Pellucida",
             "Referral to a Fertility Center",
-            "Initial Consult",
             "Serum hCG Pregnancy Test",
             "Infectious Disease Screening (Male)",
             "Semen Analysis"
@@ -2178,8 +2142,8 @@
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Zygote",
             "Fertilization",
-            "Embryo",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -2210,9 +2174,7 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -2228,7 +2190,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm freezing (non-cancer) process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -2262,8 +2223,8 @@
           "step": "Freezing & Storage",
           "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
           "topic_refs": [
-            "Before Cancer Treatment (Oncofertility)",
             "Sperm Cryopreservation",
+            "Before Cancer Treatment (Oncofertility)",
             "Varicocele",
             "Y Chromosome Microdeletion",
             "Semen Analysis",
@@ -2274,12 +2235,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
             "Sperm Cryopreservation",
-            "Clinical Use of Banked Sperm",
-            "Intrauterine Insemination (IUI)",
-            "In Vitro Fertilization (IVF)"
+            "Clinical Use of Banked Sperm"
           ]
         }
       ]
@@ -2294,9 +2253,8 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the elective egg freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Initial Consult",
+            "Antral Follicle Count (AFC) Ultrasound",
             "Advanced Maternal Age (AMA)",
             "Referral to a Fertility Center",
             "Follicle",
@@ -2335,9 +2293,9 @@
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
+            "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte Pickup (OPU)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
@@ -2353,11 +2311,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen eggs safely. Eggs can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen eggs to try for pregnancy, contact the clinic to schedule a consultation. You'll then go through the egg thawing, fertilization (with partner or donor sperm), and embryo transfer process to attempt pregnancy using your preserved fertility.",
           "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Clinical Use of Banked Eggs"
           ]
         }
       ]
@@ -2372,8 +2329,8 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the medical egg freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Antral Follicle Count (AFC) Ultrasound",
             "Initial Consult",
+            "Antral Follicle Count (AFC) Ultrasound",
             "Referral to a Fertility Center",
             "Prepubertal Fertility Preservation",
             "Anti-Mullerian Hormone (AMH) Test",
@@ -2413,9 +2370,9 @@
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
             "Before Cancer Treatment (Oncofertility)",
+            "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl",
-            "Oocyte Pickup (OPU)"
+            "OPU Drug - Fentanyl"
           ]
         },
         {
@@ -2432,11 +2389,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen eggs safely. Eggs can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen eggs to try for pregnancy, contact the clinic to schedule a consultation. You'll then go through the egg thawing, fertilization (with partner or donor sperm), and embryo transfer process to attempt pregnancy using your preserved fertility.",
           "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Clinical Use of Banked Eggs"
           ]
         }
       ]
@@ -2452,7 +2408,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the gender transition - sperm preservation process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -2487,20 +2442,18 @@
           "step": "Freezing & Storage",
           "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
           "topic_refs": [
+            "Sperm Cryopreservation",
             "Semen Analysis",
             "Testosterone",
-            "Sperm Cryopreservation",
             "Sperm"
           ]
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
             "Sperm Cryopreservation",
-            "Clinical Use of Banked Sperm",
-            "Intrauterine Insemination (IUI)",
-            "In Vitro Fertilization (IVF)"
+            "Clinical Use of Banked Sperm"
           ]
         }
       ]
@@ -2516,7 +2469,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm preservation - on testosterone process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -2538,9 +2490,9 @@
             "Semen Analysis",
             "Initial Consult",
             "Before Gender-Affirming Hormone Therapy or Surgery",
-            "Embryo",
             "Fertilization",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -2551,6 +2503,16 @@
             "Embryo",
             "Endometrium",
             "Progesterone (Luteal Phase Support)"
+          ]
+        },
+        {
+          "step": "Pregnancy Testing & Follow-up",
+          "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
+          "topic_refs": [
+            "Serum hCG Pregnancy Test",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -2566,7 +2528,6 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm preservation - on estrogen process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
             "Initial Consult",
-            "Sperm Cryopreservation",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
           ]
@@ -2598,9 +2559,9 @@
             "Semen Analysis",
             "Initial Consult",
             "Before Gender-Affirming Hormone Therapy or Surgery",
-            "Embryo",
             "Fertilization",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -2611,6 +2572,16 @@
             "Embryo",
             "Endometrium",
             "Progesterone (Luteal Phase Support)"
+          ]
+        },
+        {
+          "step": "Pregnancy Testing & Follow-up",
+          "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
+          "topic_refs": [
+            "Serum hCG Pregnancy Test",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -2656,8 +2627,8 @@
           "step": "Emergency Freezing & Storage",
           "overview": "Your sperm sample is analyzed for count, motility, and morphology to assess quality. The sample is then divided into multiple vials and frozen using a controlled-rate freezing process or vitrification to preserve sperm viability. Frozen sperm is stored in liquid nitrogen tanks at -196\u00b0C where it can remain viable indefinitely. You'll complete storage consent forms and arrange for annual storage fees to keep your samples safely preserved for future use.",
           "topic_refs": [
-            "Azoospermia",
             "Sperm Cryopreservation",
+            "Azoospermia",
             "Clinical Use of Banked Sperm",
             "Recreational Drugs & Fertility",
             "Sperm Preparation (Density Gradient / Swim-Up)",
@@ -2672,11 +2643,12 @@
         },
         {
           "step": "Return to Cancer Treatment",
-          "overview": "Coordinate with your oncology team to begin cancer treatment immediately. Your fertility specialist will provide information about using your preserved fertility after cancer treatment is complete.",
+          "overview": "Once your fertility preservation is complete, you can proceed immediately with your cancer treatment without delay. Your fertility specialist coordinates with your oncology team to ensure a smooth transition and confirms that all preserved materials are safely stored. Your frozen eggs, sperm, or embryos will remain viable indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the next steps when the time is right.",
           "topic_refs": [
             "Before Cancer Treatment (Oncofertility)",
             "Clinical Use of Banked Sperm",
-            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)"
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -2691,12 +2663,11 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the excess embryo freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Initial Consult",
             "Embryo Grading",
-            "Embryo Cryopreservation",
             "Genetic Counseling",
             "Donor Egg IVF",
             "Donor Selection & Counseling",
-            "Initial Consult",
             "Blastocyst Culture",
             "Embryo"
           ]
@@ -2718,11 +2689,11 @@
           "step": "Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
-            "Embryo Grading",
             "Sperm Cryopreservation",
             "Embryo Cryopreservation",
-            "Genetic Counseling",
             "Oocyte Cryopreservation (Egg Freezing)",
+            "Embryo Grading",
+            "Genetic Counseling",
             "Initial Consult",
             "Blastocyst Culture",
             "Embryo"
@@ -2730,12 +2701,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen embryos safely. Embryos can remain frozen indefinitely while maintaining viability. When you're ready to attempt pregnancy with your frozen embryos, contact the clinic to schedule a consultation for a Frozen Embryo Transfer (FET) cycle. Your doctor will create a personalized protocol to prepare your uterine lining, thaw your embryo(s), and perform the transfer procedure.",
           "topic_refs": [
             "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Frozen Embryo Transfer (FET)"
           ]
         }
       ]
@@ -2789,10 +2758,10 @@
           "step": "Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
-            "Embryo Grading",
             "Sperm Cryopreservation",
             "Embryo Cryopreservation",
             "Oocyte Cryopreservation (Egg Freezing)",
+            "Embryo Grading",
             "Blastocyst Culture",
             "Blastocyst - Trophectoderm (TE)",
             "Embryo"
@@ -2800,12 +2769,10 @@
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen embryos safely. Embryos can remain frozen indefinitely while maintaining viability. When you're ready to attempt pregnancy with your frozen embryos, contact the clinic to schedule a consultation for a Frozen Embryo Transfer (FET) cycle. Your doctor will create a personalized protocol to prepare your uterine lining, thaw your embryo(s), and perform the transfer procedure.",
           "topic_refs": [
             "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Frozen Embryo Transfer (FET)"
           ]
         }
       ]
@@ -2820,10 +2787,10 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the medical embryo freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Initial Consult",
             "Progesterone Test",
             "Genetic Counseling",
             "Mullerian Anomalies",
-            "Initial Consult",
             "Ovarian Hyperstimulation Syndrome (OHSS)",
             "Endometriosis"
           ]
@@ -2843,21 +2810,19 @@
           "step": "Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
-            "Embryo Grading",
             "Sperm Cryopreservation",
             "Embryo Cryopreservation",
             "Oocyte Cryopreservation (Egg Freezing)",
+            "Embryo Grading",
             "Ovarian Hyperstimulation Syndrome (OHSS)"
           ]
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen embryos safely. Embryos can remain frozen indefinitely while maintaining viability. When you're ready to attempt pregnancy with your frozen embryos, contact the clinic to schedule a consultation for a Frozen Embryo Transfer (FET) cycle. Your doctor will create a personalized protocol to prepare your uterine lining, thaw your embryo(s), and perform the transfer procedure.",
           "topic_refs": [
             "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Frozen Embryo Transfer (FET)"
           ]
         }
       ]
@@ -2872,8 +2837,8 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo banking for future siblings process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Antral Follicle Count (AFC) Ultrasound",
             "Initial Consult",
+            "Antral Follicle Count (AFC) Ultrasound",
             "Advanced Maternal Age (AMA)",
             "Semen Analysis",
             "Anti-Mullerian Hormone (AMH) Test"
@@ -2903,19 +2868,17 @@
           "step": "Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
+            "Oocyte Cryopreservation (Egg Freezing)",
             "Semen Analysis",
-            "Anti-Mullerian Hormone (AMH) Test",
-            "Oocyte Cryopreservation (Egg Freezing)"
+            "Anti-Mullerian Hormone (AMH) Test"
           ]
         },
         {
           "step": "Storage Planning & Follow-up",
-          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen materials safely. This planning ensures your eggs, sperm, or embryos remain properly stored for future use, and you understand your options for how long to store them and what to do with them in various scenarios.",
+          "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen embryos safely. Embryos can remain frozen indefinitely while maintaining viability. When you're ready to attempt pregnancy with your frozen embryos, contact the clinic to schedule a consultation for a Frozen Embryo Transfer (FET) cycle. Your doctor will create a personalized protocol to prepare your uterine lining, thaw your embryo(s), and perform the transfer procedure.",
           "topic_refs": [
             "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Frozen Embryo Transfer (FET)"
           ]
         }
       ]
@@ -2968,9 +2931,9 @@
           "overview": "Eggs are immediately frozen using vitrification, an ultra-rapid freezing technique that prevents ice crystal formation and maximizes egg survival rates. Each egg is carefully frozen and stored in liquid nitrogen at -196\u00b0C where they can remain viable for many years. You'll receive a report on how many mature eggs were successfully frozen. Storage consent forms and annual fees ensure your eggs remain safely preserved until you're ready to use them.",
           "topic_refs": [
             "Sperm Cryopreservation",
-            "Ovulation",
             "Embryo Cryopreservation",
             "Oocyte Cryopreservation (Egg Freezing)",
+            "Ovulation",
             "Initial Consult",
             "Before Cancer Treatment (Oncofertility)",
             "Embryo"
@@ -2978,7 +2941,7 @@
         },
         {
           "step": "Return to Cancer Treatment",
-          "overview": "Coordinate with your oncology team to begin cancer treatment immediately. Your fertility specialist will provide information about using your preserved fertility after cancer treatment is complete.",
+          "overview": "Once your fertility preservation is complete, you can proceed immediately with your cancer treatment without delay. Your fertility specialist coordinates with your oncology team to ensure a smooth transition and confirms that all preserved materials are safely stored. Your frozen eggs, sperm, or embryos will remain viable indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the next steps when the time is right.",
           "topic_refs": [
             "Before Cancer Treatment (Oncofertility)",
             "Emotional Impact & Support"
@@ -3024,8 +2987,8 @@
           "step": "Emergency Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
-            "Embryo Grading",
             "Embryo Cryopreservation",
+            "Embryo Grading",
             "Clomiphene Citrate Protocol",
             "Initial Consult",
             "Semen Analysis",
@@ -3037,10 +3000,11 @@
         },
         {
           "step": "Return to Cancer Treatment",
-          "overview": "Coordinate with your oncology team to begin cancer treatment immediately. Your fertility specialist will provide information about using your preserved fertility after cancer treatment is complete.",
+          "overview": "Once your fertility preservation is complete, you can proceed immediately with your cancer treatment without delay. Your fertility specialist coordinates with your oncology team to ensure a smooth transition and confirms that all preserved materials are safely stored. Your frozen eggs, sperm, or embryos will remain viable indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the next steps when the time is right.",
           "topic_refs": [
             "Frozen Embryo Transfer (FET)",
-            "Before Cancer Treatment (Oncofertility)"
+            "Before Cancer Treatment (Oncofertility)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -3087,17 +3051,17 @@
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Initial Consult",
             "Microfluidic Sperm Selection",
-            "Embryo",
             "Fertilization",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
           "step": "Emergency Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
-            "Embryo Grading",
             "Embryo Cryopreservation",
+            "Embryo Grading",
             "Clomiphene Citrate Protocol",
             "Blastocyst Culture",
             "Before Cancer Treatment (Oncofertility)",
@@ -3107,7 +3071,7 @@
         },
         {
           "step": "Return to Cancer Treatment",
-          "overview": "Coordinate with your oncology team to begin cancer treatment immediately. Your fertility specialist will provide information about using your preserved fertility after cancer treatment is complete.",
+          "overview": "Once your fertility preservation is complete, you can proceed immediately with your cancer treatment without delay. Your fertility specialist coordinates with your oncology team to ensure a smooth transition and confirms that all preserved materials are safely stored. Your frozen eggs, sperm, or embryos will remain viable indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the next steps when the time is right.",
           "topic_refs": [
             "Before Cancer Treatment (Oncofertility)",
             "Emotional Impact & Support"
@@ -3161,8 +3125,8 @@
           "topic_refs": [
             "Sperm Cryopreservation",
             "Ovarian Tissue Cryopreservation",
-            "Follicle Stimulating Hormone (FSH) Test",
             "Testicular Tissue Cryopreservation",
+            "Follicle Stimulating Hormone (FSH) Test",
             "Sperm Retrieval Techniques",
             "Before Cancer Treatment (Oncofertility)",
             "Embryo",
@@ -3171,11 +3135,12 @@
         },
         {
           "step": "Return to Cancer Treatment",
-          "overview": "Coordinate with your oncology team to begin cancer treatment immediately. Your fertility specialist will provide information about using your preserved fertility after cancer treatment is complete.",
+          "overview": "Once your fertility preservation is complete, you can proceed immediately with your cancer treatment without delay. Your fertility specialist coordinates with your oncology team to ensure a smooth transition and confirms that all preserved materials are safely stored. Your frozen eggs, sperm, or embryos will remain viable indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the next steps when the time is right.",
           "topic_refs": [
             "Testicular Tissue Cryopreservation",
             "Prepubertal Fertility Preservation",
-            "Ovarian Tissue Cryopreservation"
+            "Ovarian Tissue Cryopreservation",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -3245,10 +3210,7 @@
           "overview": "Approximately 9-12 days after transfer, you'll have a blood test to check for pregnancy (beta hCG test). If positive, you'll continue medications and have repeat blood tests and ultrasounds. If negative, your doctor will discuss next steps.",
           "step": "Pregnancy Testing & Follow-up",
           "topic_refs": [
-            "Embryo Cryopreservation",
-            "Embryo",
-            "Frozen Embryo Transfer (FET)",
-            "Initial Consult"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -3315,9 +3277,7 @@
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "step": "Pregnancy Testing & Follow-up",
           "topic_refs": [
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte (Egg Cell)",
-            "In Vitro Fertilization (IVF)"
+            "Serum hCG Pregnancy Test"
           ]
         }
       ]
@@ -3377,8 +3337,8 @@
             "Intrauterine Insemination (IUI)",
             "Fertilization",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-            "Embryo",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Embryo"
           ]
         },
         {
@@ -3387,8 +3347,7 @@
           "topic_refs": [
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
-            "Implantation",
-            "Semen Analysis"
+            "Implantation"
           ]
         }
       ]
@@ -3449,12 +3408,13 @@
           ]
         },
         {
-          "overview": "Once you're ready emotionally and financially, and all testing is complete, you'll start your first IVF cycle. The clinic will coordinate timing with your menstrual cycle and walk you through each step. You'll transition to the appropriate IVF pathway based on your specific treatment plan.",
+          "overview": "Once you're ready emotionally and financially, and all testing is complete, you'll start your first IVF cycle. Your clinic will coordinate timing with your menstrual cycle and provide detailed instructions for your specific protocol. You'll follow one of the standard IVF pathways depending on your situation (own eggs with partner sperm, donor sperm, etc.). The IVF process typically includes ovarian stimulation, egg retrieval, fertilization, embryo development, and transfer, taking 4-6 weeks from start to pregnancy test. Your care team will walk you through each step with renewed hope and a treatment approach designed to overcome the challenges you faced with IUI.",
           "step": "Beginning Your IVF Cycle",
           "topic_refs": [
             "In Vitro Fertilization (IVF)",
-            "Initial Consult",
-            "Ovarian Stimulation"
+            "Ovarian Stimulation",
+            "Oocyte Pickup (OPU)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -3513,13 +3473,13 @@
           ]
         },
         {
-          "overview": "Once your donor is selected and all legal/medical clearances are complete, your clinic will coordinate the cycle. The donor will undergo ovarian stimulation while you prepare your uterine lining. Timing is carefully orchestrated so embryos can be transferred to you fresh or frozen for later use.",
-          "step": "Medical Coordination & Cycle Planning",
+          "overview": "Once your donor is selected and all legal/medical clearances are complete, you'll begin the donor egg IVF cycle following the 'IVF With Donor Eggs' pathway. If using fresh donor eggs, your clinic will coordinate your endometrial preparation with your donor's ovarian stimulation. If using frozen donor eggs, you'll start medications to prepare your uterine lining while the clinic thaws and fertilizes the eggs. You'll then proceed through embryo development, transfer, and pregnancy testing. Your care team will guide you through each remaining step of your donor egg journey, providing both medical and emotional support.",
+          "step": "Beginning Your Donor Egg Cycle",
           "topic_refs": [
-            "Ovarian Stimulation",
-            "Endometrium",
-            "Frozen Embryo Transfer (FET)",
-            "Donor Selection & Counseling"
+            "Donor Egg IVF",
+            "Endometrial Preparation for FET",
+            "In Vitro Fertilization (IVF)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -3536,7 +3496,6 @@
           "step": "Initial Consultation & Timeline Planning",
           "topic_refs": [
             "Initial Consult",
-            "Oocyte Cryopreservation (Egg Freezing)",
             "Before Gender-Affirming Hormone Therapy or Surgery"
           ]
         },
