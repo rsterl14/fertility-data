@@ -123,6 +123,15 @@
               "subtitle": "Eggs from known donor",
               "icon": "person.badge.plus",
               "next_question": "directed_donor_egg_type"
+            },
+            {
+              "id": "reciprocal_ivf",
+              "title": "Reciprocal IVF (Partner's Eggs)",
+              "subtitle": "One partner provides eggs, other carries",
+              "icon": "heart.circle",
+              "path_ids": [
+                "reciprocal_ivf"
+              ]
             }
           ]
         },
@@ -206,7 +215,9 @@
               "title": "Donor Sperm",
               "subtitle": "Using donor sperm",
               "icon": "drop.fill",
-              "next_question": "ivf_pgt_testing"
+              "path_ids": [
+                "donor_sperm_ivf"
+              ]
             }
           ]
         },
@@ -220,14 +231,18 @@
               "title": "Partner Sperm",
               "subtitle": "Using sperm from your partner",
               "icon": "person.2",
-              "next_question": "ivf_pgt_testing"
+              "path_ids": [
+                "ivf_frozen_oocytes_partner_icsi"
+              ]
             },
             {
               "id": "donor_sperm_frozen",
               "title": "Donor Sperm",
               "subtitle": "Using donor sperm",
               "icon": "drop.fill",
-              "next_question": "ivf_pgt_testing"
+              "path_ids": [
+                "ivf_frozen_oocytes_donor_icsi"
+              ]
             }
           ]
         },
@@ -241,14 +256,18 @@
               "title": "Partner Sperm",
               "subtitle": "Partner sperm with donor eggs (ICSI required)",
               "icon": "person.2",
-              "next_question": "ivf_pgt_testing"
+              "path_ids": [
+                "donor_oocytes"
+              ]
             },
             {
               "id": "donor_sperm_donor_eggs",
               "title": "Donor Sperm",
               "subtitle": "Double donation (donor eggs + sperm, ICSI required)",
               "icon": "square.stack.3d.up",
-              "next_question": "ivf_pgt_testing"
+              "path_ids": [
+                "double_donation"
+              ]
             }
           ]
         },
@@ -368,7 +387,7 @@
               "subtitle": "I will carry the pregnancy myself",
               "icon": "figure.stand",
               "path_ids": [
-                "ivf_self_carry"
+                "ivf_own_eggs_partner"
               ]
             },
             {
@@ -377,7 +396,7 @@
               "subtitle": "A surrogate will carry the pregnancy",
               "icon": "figure.2.and.child.holdinghands",
               "path_ids": [
-                "ivf_gestational_surrogate"
+                "gestational_carrier"
               ]
             }
           ]
@@ -530,7 +549,7 @@
               "subtitle": "Partner won't be available during treatment",
               "icon": "airplane",
               "path_ids": [
-                "male_sperm_freezing_partner"
+                "elective_sperm_freezing"
               ]
             },
             {
@@ -539,7 +558,7 @@
               "subtitle": "Low sperm count or quality concerns",
               "icon": "exclamationmark.triangle",
               "path_ids": [
-                "male_sperm_freezing_medical"
+                "elective_sperm_freezing"
               ]
             },
             {
@@ -548,7 +567,7 @@
               "subtitle": "Preserving before permanent sterilization",
               "icon": "scissors",
               "path_ids": [
-                "male_sperm_freezing_vasectomy"
+                "elective_sperm_freezing"
               ]
             }
           ]
@@ -564,7 +583,7 @@
               "subtitle": "Preserving for future family planning",
               "icon": "calendar",
               "path_ids": [
-                "female_oocyte_freezing_social"
+                "elective_egg_freezing"
               ]
             },
             {
@@ -573,7 +592,7 @@
               "subtitle": "Delaying childbearing for professional goals",
               "icon": "graduationcap",
               "path_ids": [
-                "female_oocyte_freezing_career"
+                "elective_egg_freezing"
               ]
             },
             {
@@ -582,7 +601,7 @@
               "subtitle": "Preserving while looking for the right partner",
               "icon": "person",
               "path_ids": [
-                "female_oocyte_freezing_single"
+                "elective_egg_freezing"
               ]
             },
             {
@@ -834,7 +853,73 @@
               "subtitle": "Sperm preservation",
               "icon": "figure.stand.line.dotted.figure.stand",
               "path_ids": [
-                "male_sperm_freezing_medical"
+                "elective_sperm_freezing"
+              ]
+            }
+          ]
+        }
+      ],
+      "paths": []
+    },
+    {
+      "id": "using_frozen",
+      "title": "Using Frozen Materials",
+      "description": "Ready to use eggs, embryos, or sperm you previously froze",
+      "icon": "snowflake.circle",
+      "questions": [
+        {
+          "id": "frozen_material_type",
+          "question": "What frozen materials are you ready to use?",
+          "description": "Select the type of frozen materials you want to use for treatment",
+          "options": [
+            {
+              "id": "frozen_embryos",
+              "title": "Frozen Embryos",
+              "subtitle": "Transfer previously frozen embryos",
+              "icon": "square.stack.3d.up",
+              "path_ids": [
+                "frozen_embryo_transfer"
+              ]
+            },
+            {
+              "id": "frozen_eggs",
+              "title": "Frozen Eggs",
+              "subtitle": "Use eggs you previously froze",
+              "icon": "circle.dashed",
+              "next_question": "frozen_eggs_sperm_source"
+            },
+            {
+              "id": "frozen_sperm",
+              "title": "Frozen Sperm",
+              "subtitle": "Use sperm you previously froze",
+              "icon": "drop.fill",
+              "path_ids": [
+                "using_frozen_sperm"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "frozen_eggs_sperm_source",
+          "question": "What sperm source will you use with your frozen eggs?",
+          "description": "Your frozen eggs will be thawed and fertilized",
+          "options": [
+            {
+              "id": "partner_sperm_frozen_eggs",
+              "title": "Partner Sperm",
+              "subtitle": "Fertilize with partner sperm",
+              "icon": "person.2",
+              "path_ids": [
+                "ivf_frozen_oocytes_partner_icsi"
+              ]
+            },
+            {
+              "id": "donor_sperm_frozen_eggs",
+              "title": "Donor Sperm",
+              "subtitle": "Fertilize with donor sperm",
+              "icon": "person.3",
+              "path_ids": [
+                "ivf_frozen_oocytes_donor_icsi"
               ]
             }
           ]
