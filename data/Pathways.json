@@ -939,9 +939,15 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the iui with partner sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
+            "Infectious Disease Screening (Female)",
             "Semen Analysis",
-            "Infectious Disease Screening (Male)"
+            "Infectious Disease Screening (Male)",
+            "Hysterosalpingogram (HSG)",
+            "Fallopian Tubes",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
@@ -958,30 +964,40 @@
           "step": "Cycle Monitoring & Medication",
           "overview": "Your clinic tracks your cycle through monitoring appointments (ultrasounds and bloodwork) to determine the optimal timing for your procedure. If using medications, you'll take fertility drugs to stimulate egg development and receive a trigger shot when follicles are mature. This monitoring ensures eggs are retrieved or insemination occurs at exactly the right time for the best chance of success.",
           "topic_refs": [
+            "Ovarian Stimulation",
             "Menstrual Cycle Overview",
             "Ovulation",
             "Follicle",
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Clomiphene Citrate (Clomid/Serophene)",
-            "Letrozole (Femara)"
+            "Letrozole (Femara)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test"
           ]
         },
         {
           "step": "Sperm Preparation & IUI Procedure",
           "overview": "On the day of your IUI procedure, sperm is collected from your partner (fresh sample) or thawed from a donor/cryopreserved sample. The lab then prepares the sperm through a washing and concentration process that separates the healthiest, most motile sperm from seminal fluid. This prepared sperm is then placed directly into your uterus through a thin catheter in a quick, painless intrauterine insemination (IUI) procedure, bypassing the cervix and giving sperm a head start toward the egg.",
           "topic_refs": [
+            "Sperm",
             "Cervix",
             "Semen",
             "Uterus",
             "Sperm Preparation (Density Gradient / Swim-Up)",
-            "Intrauterine Insemination (IUI)"
+            "Intrauterine Insemination (IUI)",
+            "Fallopian Tubes"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Wait approximately two weeks after the IUI, then return for a blood pregnancy test. Your doctor will discuss next steps based on the results, whether continuing treatment or transitioning to prenatal care.",
           "topic_refs": [
-            "Serum hCG Pregnancy Test"
+            "Fertilization",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Serum hCG Pregnancy Test",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -996,7 +1012,12 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the iui with donor sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Initial Consult"
+            "Referral to a Fertility Center",
+            "Initial Consult",
+            "Hysterosalpingogram (HSG)",
+            "Fallopian Tubes",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
@@ -1022,31 +1043,41 @@
           "step": "Cycle Monitoring & Medication",
           "overview": "Your clinic tracks your cycle through monitoring appointments (ultrasounds and bloodwork) to determine the optimal timing for your procedure. If using medications, you'll take fertility drugs to stimulate egg development and receive a trigger shot when follicles are mature. This monitoring ensures eggs are retrieved or insemination occurs at exactly the right time for the best chance of success.",
           "topic_refs": [
+            "Ovarian Stimulation",
             "Menstrual Cycle Overview",
             "Ovulation",
             "Follicle",
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Clomiphene Citrate (Clomid/Serophene)",
-            "Letrozole (Femara)"
+            "Letrozole (Femara)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test"
           ]
         },
         {
           "step": "Sperm Preparation & IUI Procedure",
           "overview": "On the day of your IUI procedure, sperm is collected from your partner (fresh sample) or thawed from a donor/cryopreserved sample. The lab then prepares the sperm through a washing and concentration process that separates the healthiest, most motile sperm from seminal fluid. This prepared sperm is then placed directly into your uterus through a thin catheter in a quick, painless intrauterine insemination (IUI) procedure, bypassing the cervix and giving sperm a head start toward the egg.",
           "topic_refs": [
+            "Sperm",
             "Sperm Cryopreservation",
             "Cervix",
             "Uterus",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Intrauterine Insemination (IUI)",
-            "Donor Selection & Counseling"
+            "Donor Selection & Counseling",
+            "Fallopian Tubes"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Wait approximately two weeks after the IUI, then return for a blood pregnancy test. Your doctor will discuss next steps based on the results, whether continuing treatment or transitioning to prenatal care.",
           "topic_refs": [
-            "Serum hCG Pregnancy Test"
+            "Fertilization",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Serum hCG Pregnancy Test",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -1061,15 +1092,24 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with own eggs & partner sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
+            "Infectious Disease Screening (Female)",
             "Semen Analysis",
-            "Infectious Disease Screening (Male)"
+            "Infectious Disease Screening (Male)",
+            "Anti-Mullerian Hormone (AMH) Test",
+            "Follicle Stimulating Hormone (FSH) Test",
+            "Saline Infusion Sonohysterography (SIS)",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
           "step": "Treatment Planning & Cycle Start",
           "overview": "Your doctor selects the best medication protocol for your situation. Complete baseline ultrasound and bloodwork to confirm you are ready to start. Learn how to administer your fertility medications.",
           "topic_refs": [
+            "In Vitro Fertilization (IVF)",
+            "Ovarian Stimulation",
             "GnRH Antagonist Protocol",
             "GnRH Agonist Protocol",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -1081,6 +1121,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Antral Follicle Count (AFC) Ultrasound",
             "GnRH Agonists",
             "Estradiol (E2) Blood Test",
@@ -1088,7 +1129,10 @@
             "Gonadotropins (FSH, hMG)",
             "Oocyte (Egg Cell)",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
@@ -1105,6 +1149,9 @@
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
           ]
@@ -1113,39 +1160,61 @@
           "step": "Fertilization",
           "overview": "Sperm is collected and prepared. Mature eggs are fertilized using conventional IVF (mixing sperm and eggs together). The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
+            "Sperm",
+            "Sperm Preparation (Density Gradient / Swim-Up)",
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Semen",
             "Oocyte (Egg Cell)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
           "step": "Embryo Development & Assessment",
           "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop and reach optimal transfer stage. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. This observation period helps identify which embryos have the best developmental potential. You may also choose genetic testing (PGT) during this time.",
           "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
+            "Blastocyst",
             "Embryo Grading",
             "Blastocyst Culture",
             "Time-Lapse Embryo Imaging",
-            "Embryo"
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
+            "Embryo Biopsy Techniques"
           ]
         },
         {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
-            "Frozen Embryo Transfer (FET)",
+            "Embryo",
             "Embryo Grading",
             "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
-            "Progesterone (Luteal Phase Support)"
+            "Implantation",
+            "Progesterone (Luteal Phase Support)",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -1160,7 +1229,11 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with personal eggs & donor sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Initial Consult"
+            "Referral to a Fertility Center",
+            "Initial Consult",
+            "Saline Infusion Sonohysterography (SIS)",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
@@ -1202,10 +1275,14 @@
           "step": "Initial Consultation & Donor Selection",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with donor eggs process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Donor Egg IVF",
             "Donor Selection & Counseling",
-            "Legal & Ethics in Third-Party Reproduction"
+            "Legal & Ethics in Third-Party Reproduction",
+            "Saline Infusion Sonohysterography (SIS)",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
@@ -1234,29 +1311,44 @@
           "step": "Fertilization & Embryo Development",
           "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop and reach optimal transfer stage. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. This observation period helps identify which embryos have the best developmental potential. You may also choose genetic testing (PGT) during this time.",
           "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
             "Blastocyst",
             "Embryo Grading",
             "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
-            "Embryo"
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Embryo Biopsy Techniques"
           ]
         },
         {
           "step": "Embryo Transfer",
           "overview": "One or more embryos are transferred to your uterus in a quick, painless procedure guided by ultrasound. Any remaining quality embryos can be frozen for future use. You'll continue progesterone support medications after transfer.",
           "topic_refs": [
-            "Frozen Embryo Transfer (FET)",
+            "Embryo Transfer",
             "Embryo",
             "Progesterone (Luteal Phase Support)",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "topic_refs": [
+            "Fertilization",
+            "Progesterone (Luteal Phase Support)",
             "Serum hCG Pregnancy Test",
             "Implantation",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Human Chorionic Gonadotropin (hCG)"
           ]
         }
       ]
@@ -1271,20 +1363,24 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the double donation ivf process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Genetic Counseling",
             "Donor Selection & Counseling",
             "Saline Infusion Sonohysterography (SIS)",
-            "Referral to a Fertility Center",
             "Infectious Disease Screening (Female)",
             "Infectious Disease Screening (Male)",
-            "Legal & Ethics in Third-Party Reproduction"
+            "Legal & Ethics in Third-Party Reproduction",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
           "step": "Treatment Planning & Cycle Start",
           "overview": "Your doctor selects the best medication protocol for your situation. Complete baseline ultrasound and bloodwork to confirm you are ready to start. Learn how to administer your fertility medications.",
           "topic_refs": [
+            "In Vitro Fertilization (IVF)",
+            "Ovarian Stimulation",
             "Donor Egg IVF",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -1296,6 +1392,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Endometrial Preparation for FET",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Progesterone (Luteal Phase Support)",
@@ -1303,7 +1400,11 @@
             "Gonadotropins (FSH, hMG)",
             "Antral Follicle Count (AFC) Ultrasound",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Estradiol (E2) Blood Test",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
@@ -1321,6 +1422,9 @@
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
           ]
@@ -1329,41 +1433,60 @@
           "step": "Fertilization",
           "overview": "Sperm is collected and prepared. Mature eggs are fertilized using conventional IVF (mixing sperm and eggs together). The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
+            "Sperm",
             "Fertilization",
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Oocyte (Egg Cell)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
           "step": "Embryo Development & Assessment",
           "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop and reach optimal transfer stage. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. This observation period helps identify which embryos have the best developmental potential. You may also choose genetic testing (PGT) during this time.",
           "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
+            "Blastocyst",
             "Embryo Grading",
             "Blastocyst Culture",
-            "Embryo"
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
+            "Embryo Biopsy Techniques"
           ]
         },
         {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
-            "Frozen Embryo Transfer (FET)",
+            "Embryo",
+            "Embryo Transfer",
             "Endometrial Preparation for FET",
             "Progesterone (Luteal Phase Support)",
             "Serum hCG Pregnancy Test",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Human Chorionic Gonadotropin (hCG)"
           ]
         }
       ]
@@ -1378,19 +1501,23 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the reciprocal ivf process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Genetic Counseling",
             "Antral Follicle Count (AFC) Ultrasound",
             "Saline Infusion Sonohysterography (SIS)",
             "Infectious Disease Screening (Female)",
-            "Referral to a Fertility Center",
-            "Anti-Mullerian Hormone (AMH) Test"
+            "Anti-Mullerian Hormone (AMH) Test",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
           "step": "Treatment Planning & Cycle Start",
           "overview": "Your doctor selects the best medication protocol for your situation. Complete baseline ultrasound and bloodwork to confirm you are ready to start. Learn how to administer your fertility medications.",
           "topic_refs": [
+            "In Vitro Fertilization (IVF)",
+            "Ovarian Stimulation",
             "Donor Selection & Counseling",
             "GnRH Antagonist Protocol",
             "GnRH Agonist Protocol",
@@ -1403,6 +1530,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Progesterone in Females",
             "Endometrial Preparation for FET",
             "Estrogen in Females",
@@ -1410,7 +1538,11 @@
             "Antral Follicle Count (AFC) Ultrasound",
             "Oocyte (Egg Cell)",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Estradiol (E2) Blood Test",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
@@ -1427,6 +1559,8 @@
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
             "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
@@ -1436,41 +1570,61 @@
           "step": "Fertilization",
           "overview": "Sperm is collected and prepared. Mature eggs are fertilized using conventional IVF (mixing sperm and eggs together). The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
+            "Sperm",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Oocyte Pickup (OPU)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
           "step": "Embryo Development & Assessment",
           "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop and reach optimal transfer stage. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. This observation period helps identify which embryos have the best developmental potential. You may also choose genetic testing (PGT) during this time.",
           "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
+            "Blastocyst",
             "Embryo Grading",
             "Blastocyst Culture",
-            "Embryo"
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
+            "Embryo Biopsy Techniques"
           ]
         },
         {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
+            "Embryo",
             "Endometrial Preparation for FET",
             "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
             "Progesterone (Luteal Phase Support)",
             "Progesterone in Females",
             "Serum hCG Pregnancy Test",
             "Estrogen in Females",
-            "Frozen Embryo Transfer (FET)",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
-            "Progesterone (Luteal Phase Support)"
+            "Implantation",
+            "Progesterone (Luteal Phase Support)",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -1485,6 +1639,7 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ivf with gestational carrier (surrogacy) process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Embryo Grading",
             "Genetic Counseling",
@@ -1492,13 +1647,16 @@
             "Surrogacy (Gestational Carrier)",
             "Infectious Disease Screening (Female)",
             "Hysterosalpingogram (HSG)",
-            "Legal & Ethics in Third-Party Reproduction"
+            "Legal & Ethics in Third-Party Reproduction",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
           "step": "Treatment Planning & Cycle Start",
           "overview": "Your doctor selects the best medication protocol for your situation. Complete baseline ultrasound and bloodwork to confirm you are ready to start. Learn how to administer your fertility medications.",
           "topic_refs": [
+            "Ovarian Stimulation",
             "Frozen Embryo Transfer (FET)",
             "Endometrial Preparation for FET",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -1510,32 +1668,49 @@
           "step": "Ovarian Stimulation & Monitoring",
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
+            "Ovarian Stimulation",
+            "Follicle",
             "Antral Follicle Count (AFC) Ultrasound",
             "Estrogen in Females",
             "Endometrial Preparation for FET",
             "Gonadotropins (FSH, hMG)",
             "Oocyte (Egg Cell)",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Estradiol (E2) Blood Test",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
-            "Frozen Embryo Transfer (FET)",
+            "Embryo",
+            "Embryo Transfer",
             "Estrogen in Females",
             "Endometrial Preparation for FET",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
+            "Implantation",
             "Progesterone (Luteal Phase Support)",
-            "Progesterone in Females"
+            "Progesterone in Females",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -1550,6 +1725,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
@@ -1591,7 +1767,9 @@
             "Clinical Use of Banked Sperm",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Semen Analysis",
-            "Legal & Ethics in Third-Party Reproduction"
+            "Legal & Ethics in Third-Party Reproduction",
+            "Intrauterine Insemination (IUI)",
+            "In Vitro Fertilization (IVF)"
           ]
         }
       ]
@@ -1606,6 +1784,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the egg freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Ovarian Stimulation",
             "Anti-Mullerian Hormone (AMH)",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -1629,6 +1808,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Antral Follicle Count (AFC) Ultrasound",
             "Human Chorionic Gonadotropin (hCG) Trigger",
@@ -1640,14 +1820,20 @@
             "Luteinizing Hormone (LH) in Females",
             "Gonadotropins (FSH, hMG)",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Zygote"
           ]
         },
         {
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam"
           ]
         },
@@ -1668,7 +1854,10 @@
           "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen eggs safely. Eggs can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen eggs to try for pregnancy, contact the clinic to schedule a consultation. You'll then go through the egg thawing, fertilization (with partner or donor sperm), and embryo transfer process to attempt pregnancy using your preserved fertility.",
           "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte Cryopreservation (Egg Freezing)"
+            "In Vitro Fertilization (IVF)",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
+            "Embryo Transfer",
+            "Zygote"
           ]
         }
       ]
@@ -1683,6 +1872,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo freezing with partner process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Ovarian Stimulation",
             "Anti-Mullerian Hormone (AMH)",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -1719,11 +1909,8 @@
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future Frozen Embryo Transfer (FET) cycles. When you're ready to attempt pregnancy, contact the clinic to schedule an FET consultation.",
           "topic_refs": [
             "Embryo Cryopreservation",
-            "Ovarian Stimulation",
-            "Anti-Mullerian Hormone (AMH)",
-            "2-Cell Embryo",
             "Legal & Ethics in Third-Party Reproduction",
-            "Semen Analysis"
+            "Frozen Embryo Transfer (FET)"
           ]
         }
       ]
@@ -1738,6 +1925,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo freezing with donor sperm process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult"
           ]
         },
@@ -1769,10 +1957,8 @@
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future Frozen Embryo Transfer (FET) cycles. When you're ready to attempt pregnancy, contact the clinic to schedule an FET consultation.",
           "topic_refs": [
             "Embryo Cryopreservation",
-            "Ovarian Stimulation",
-            "Anti-Mullerian Hormone (AMH)",
-            "2-Cell Embryo",
-            "Legal & Ethics in Third-Party Reproduction"
+            "Legal & Ethics in Third-Party Reproduction",
+            "Frozen Embryo Transfer (FET)"
           ]
         }
       ]
@@ -1799,6 +1985,7 @@
           "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Antral Follicle Count (AFC) Ultrasound",
             "Human Chorionic Gonadotropin (hCG) Trigger",
             "GnRH Agonists",
@@ -1814,7 +2001,10 @@
           "step": "Emergency Egg/Sperm Collection",
           "overview": "Priority scheduling for egg retrieval (under sedation) or sperm collection (in private room). Same-day processing to minimize time before starting cancer treatment.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Semen Analysis",
+            "Ovaries",
+            "Follicle",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "OPU Drug - Midazolam",
             "Oocyte (Egg Cell)"
@@ -1824,6 +2014,7 @@
           "step": "Emergency Freezing & Storage",
           "overview": "Your eggs, sperm, or embryos are immediately frozen using vitrification and stored securely. All storage documentation is expedited so you can return to cancer treatment without delay. Your frozen materials will remain safe indefinitely in storage. After you've completed cancer treatment and recovery, and when you're ready to build your family, contact the fertility clinic to schedule a consultation about using your preserved fertility. The clinic will guide you through the appropriate pathway (FET for embryos, egg thawing and fertilization for eggs, or IUI/IVF for sperm) when the time is right.",
           "topic_refs": [
+            "Sperm",
             "Embryo Cryopreservation",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Anti-Mullerian Hormone (AMH)",
@@ -1831,7 +2022,8 @@
             "Before Cancer Treatment (Oncofertility)",
             "Legal & Ethics in Third-Party Reproduction",
             "Embryo",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Zygote"
           ]
         }
       ]
@@ -1846,6 +2038,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the ovarian tissue cryopreservation process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Prepubertal Fertility Preservation",
             "Before Cancer Treatment (Oncofertility)"
@@ -1870,7 +2063,8 @@
             "Semen Analysis",
             "Sperm Cryopreservation",
             "Semen",
-            "Sperm"
+            "Sperm",
+            "Zygote"
           ]
         },
         {
@@ -1904,6 +2098,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the prepubertal fertility preservation process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Prepubertal Fertility Preservation",
             "Before Cancer Treatment (Oncofertility)"
@@ -1926,9 +2121,11 @@
           "step": "Sperm Collection",
           "overview": "Your partner provides a sperm sample (or donor sperm is thawed) which is then processed in the lab to select the healthiest, most motile sperm. This preparation process, called washing and concentration, separates the best sperm from seminal fluid and debris, increasing the chances of successful fertilization or insemination.",
           "topic_refs": [
+            "Sperm",
             "Sperm Retrieval Techniques",
             "Testicular Tissue Cryopreservation",
-            "Prepubertal Fertility Preservation"
+            "Prepubertal Fertility Preservation",
+            "Zygote"
           ]
         },
         {
@@ -1966,6 +2163,7 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the anonymous embryo donation cycle process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Embryo Grading",
             "Infectious Disease Screening (Female)",
@@ -1986,18 +2184,29 @@
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
+            "Embryo",
             "Frozen Embryo Transfer (FET)",
             "Estradiol (E2) Blood Test",
             "Endometrial Preparation for FET",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
-            "Progesterone (Luteal Phase Support)"
+            "Implantation",
+            "Progesterone (Luteal Phase Support)",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -2012,6 +2221,7 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the directed embryo donation cycle process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Embryo Grading",
             "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
@@ -2024,18 +2234,29 @@
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
+            "Embryo",
             "Frozen Embryo Transfer (FET)",
             "Estradiol (E2) Blood Test",
             "Endometrial Preparation for FET",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
-            "Progesterone (Luteal Phase Support)"
+            "Implantation",
+            "Progesterone (Luteal Phase Support)",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -2050,9 +2271,13 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the frozen egg ivf - partner sperm with icsi process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Semen Analysis",
-            "Infectious Disease Screening (Male)"
+            "Infectious Disease Screening (Male)",
+            "Saline Infusion Sonohysterography (SIS)",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
@@ -2073,6 +2298,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Embryo Grading",
+            "Follicle",
             "Ovarian Stimulation",
             "Endometrium",
             "Blastocyst Culture",
@@ -2083,17 +2309,27 @@
             "Oocyte (Egg Cell)",
             "Menstrual Cycle Overview",
             "Ovulation",
-            "Gonadotropins (FSH, hMG)"
+            "Gonadotropins (FSH, hMG)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
           "step": "Egg Retrieval",
           "overview": "Your doctor performs an egg retrieval procedure to collect the mature eggs from your ovaries. Under light sedation, a thin needle is guided by ultrasound through the vaginal wall to gently aspirate eggs from each follicle. This procedure typically takes 15-30 minutes and allows us to retrieve multiple eggs in one cycle, maximizing your chances for successful fertilization.",
           "topic_refs": [
+            "Sperm",
+            "Sperm Preparation (Density Gradient / Swim-Up)",
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
             "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl"
+            "OPU Drug - Fentanyl",
+            "Zygote"
           ]
         },
         {
@@ -2126,7 +2362,11 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the frozen egg ivf - donor sperm with icsi process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
-            "Initial Consult"
+            "Referral to a Fertility Center",
+            "Initial Consult",
+            "Saline Infusion Sonohysterography (SIS)",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
@@ -2145,6 +2385,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Embryo Grading",
+            "Follicle",
             "Ovarian Stimulation",
             "Endometrium",
             "Blastocyst Culture",
@@ -2155,17 +2396,27 @@
             "Oocyte (Egg Cell)",
             "Menstrual Cycle Overview",
             "Ovulation",
-            "Gonadotropins (FSH, hMG)"
+            "Gonadotropins (FSH, hMG)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
           "step": "Egg Retrieval",
           "overview": "Your doctor performs an egg retrieval procedure to collect the mature eggs from your ovaries. Under light sedation, a thin needle is guided by ultrasound through the vaginal wall to gently aspirate eggs from each follicle. This procedure typically takes 15-30 minutes and allows us to retrieve multiple eggs in one cycle, maximizing your chances for successful fertilization.",
           "topic_refs": [
+            "Sperm",
+            "Sperm Preparation (Density Gradient / Swim-Up)",
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
             "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
-            "OPU Drug - Fentanyl"
+            "OPU Drug - Fentanyl",
+            "Zygote"
           ]
         },
         {
@@ -2198,18 +2449,22 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the donor egg ivf with icsi process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Human Chorionic Gonadotropin (hCG)",
             "Zygote",
             "Zona Pellucida",
-            "Referral to a Fertility Center",
-            "Serum hCG Pregnancy Test"
+            "Serum hCG Pregnancy Test",
+            "Saline Infusion Sonohysterography (SIS)",
+            "Thyroid Disorders",
+            "Prolactin"
           ]
         },
         {
           "step": "Treatment Planning & Cycle Start",
           "overview": "Your doctor selects the best medication protocol for your situation. Complete baseline ultrasound and bloodwork to confirm you are ready to start. Learn how to administer your fertility medications.",
           "topic_refs": [
+            "Ovarian Stimulation",
             "Legal & Ethics in Third-Party Reproduction",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -2221,19 +2476,26 @@
           "step": "Ovarian Stimulation & Monitoring",
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
+            "Ovarian Stimulation",
+            "Follicle",
             "Estrogen in Females",
             "Endometrial Preparation for FET",
             "Antral Follicle Count (AFC) Ultrasound",
             "Gonadotropins (FSH, hMG)",
             "Oocyte (Egg Cell)",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Estradiol (E2) Blood Test",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test",
+            "Zygote"
           ]
         },
         {
           "step": "Fertilization",
           "overview": "Sperm is collected and prepared. Mature eggs are fertilized using ICSI (injecting one sperm into each egg). The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
+            "Sperm",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Semen",
             "Sperm Preparation (Density Gradient / Swim-Up)",
@@ -2247,31 +2509,49 @@
           "step": "Embryo Development & Assessment",
           "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop and reach optimal transfer stage. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. This observation period helps identify which embryos have the best developmental potential. You may also choose genetic testing (PGT) during this time.",
           "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
+            "Blastocyst",
             "Embryo Grading",
             "Blastocyst Culture",
-            "Embryo"
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
+            "Embryo Biopsy Techniques"
           ]
         },
         {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
-            "Frozen Embryo Transfer (FET)",
+            "Embryo Transfer",
             "Embryo Grading",
             "Endometrium",
             "Estradiol (E2) Blood Test",
             "Blastocyst",
             "Endometrial Preparation for FET",
             "Estrogen in Females",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
-            "Progesterone (Luteal Phase Support)"
+            "Implantation",
+            "Progesterone (Luteal Phase Support)",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -2286,6 +2566,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm freezing (non-cancer) process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
@@ -2335,7 +2616,9 @@
           "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
             "Sperm Cryopreservation",
-            "Clinical Use of Banked Sperm"
+            "Clinical Use of Banked Sperm",
+            "Intrauterine Insemination (IUI)",
+            "In Vitro Fertilization (IVF)"
           ]
         }
       ]
@@ -2350,10 +2633,10 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the elective egg freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Antral Follicle Count (AFC) Ultrasound",
             "Advanced Maternal Age (AMA)",
-            "Referral to a Fertility Center",
             "Follicle",
             "Estradiol (E2) Blood Test",
             "Anti-Mullerian Hormone (AMH) Test"
@@ -2376,6 +2659,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Antral Follicle Count (AFC) Ultrasound",
             "Human Chorionic Gonadotropin (hCG) Trigger",
             "Ovulation Trigger (hCG/GnRH Agonist)",
@@ -2383,14 +2667,20 @@
             "Estradiol (E2) Blood Test",
             "GnRH Antagonists",
             "Gonadotropins (FSH, hMG)",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Zygote"
           ]
         },
         {
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
           ]
@@ -2411,7 +2701,10 @@
           "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen eggs safely. Eggs can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen eggs to try for pregnancy, contact the clinic to schedule a consultation. You'll then go through the egg thawing, fertilization (with partner or donor sperm), and embryo transfer process to attempt pregnancy using your preserved fertility.",
           "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte Cryopreservation (Egg Freezing)"
+            "In Vitro Fertilization (IVF)",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
+            "Embryo Transfer",
+            "Zygote"
           ]
         }
       ]
@@ -2426,9 +2719,9 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the medical egg freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Antral Follicle Count (AFC) Ultrasound",
-            "Referral to a Fertility Center",
             "Prepubertal Fertility Preservation",
             "Anti-Mullerian Hormone (AMH) Test",
             "Before Cancer Treatment (Oncofertility)",
@@ -2452,6 +2745,7 @@
           "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Gonadotropins (FSH, hMG)",
             "GnRH Antagonists",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -2461,14 +2755,20 @@
             "Anti-Mullerian Hormone (AMH) Test",
             "Oocyte Pickup (OPU)",
             "Menstrual Cycle Overview",
-            "Ovulation"
+            "Ovulation",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Zygote"
           ]
         },
         {
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Before Cancer Treatment (Oncofertility)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
@@ -2491,7 +2791,10 @@
           "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen eggs safely. Eggs can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen eggs to try for pregnancy, contact the clinic to schedule a consultation. You'll then go through the egg thawing, fertilization (with partner or donor sperm), and embryo transfer process to attempt pregnancy using your preserved fertility.",
           "topic_refs": [
             "Oocyte Cryopreservation (Egg Freezing)",
-            "Oocyte Cryopreservation (Egg Freezing)"
+            "In Vitro Fertilization (IVF)",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
+            "Embryo Transfer",
+            "Zygote"
           ]
         }
       ]
@@ -2506,6 +2809,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the gender transition - sperm preservation process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
@@ -2552,7 +2856,9 @@
           "overview": "You'll complete storage consent forms and arrange payment for ongoing storage fees to maintain your frozen sperm samples safely. Your sperm can remain frozen indefinitely while maintaining viability. When you're ready to use your frozen sperm for fertility treatment (IUI, IVF, or ICI), contact the clinic to schedule a consultation. At that time, your doctor will help you select the best treatment approach based on your partner's fertility status and your family-building goals.",
           "topic_refs": [
             "Sperm Cryopreservation",
-            "Clinical Use of Banked Sperm"
+            "Clinical Use of Banked Sperm",
+            "Intrauterine Insemination (IUI)",
+            "In Vitro Fertilization (IVF)"
           ]
         }
       ]
@@ -2567,6 +2873,7 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm preservation - on testosterone process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
@@ -2586,12 +2893,14 @@
           "step": "Fertilization",
           "overview": "Sperm is collected and prepared. Mature eggs are fertilized using conventional IVF (mixing sperm and eggs together). The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
+            "Sperm",
             "Initial Consult",
             "Semen Analysis",
             "Before Gender-Affirming Hormone Therapy or Surgery",
             "Fertilization",
             "Oocyte (Egg Cell)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
@@ -2602,17 +2911,26 @@
             "Embryo",
             "Endometrium",
             "Progesterone (Luteal Phase Support)",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Clinical Use of Banked Sperm",
+            "Intrauterine Insemination (IUI)",
+            "In Vitro Fertilization (IVF)"
           ]
         }
       ]
@@ -2627,6 +2945,7 @@
           "step": "Initial Consultation & Testing",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the sperm preservation - on estrogen process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Semen Analysis",
             "Infectious Disease Screening (Male)"
@@ -2647,7 +2966,11 @@
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
           ]
@@ -2656,12 +2979,14 @@
           "step": "Fertilization",
           "overview": "Sperm is collected and prepared. Mature eggs are fertilized using conventional IVF (mixing sperm and eggs together). The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
+            "Sperm",
             "Initial Consult",
             "Semen Analysis",
             "Before Gender-Affirming Hormone Therapy or Surgery",
             "Fertilization",
             "Oocyte (Egg Cell)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
@@ -2672,17 +2997,26 @@
             "Embryo",
             "Endometrium",
             "Progesterone (Luteal Phase Support)",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Clinical Use of Banked Sperm",
+            "Intrauterine Insemination (IUI)",
+            "In Vitro Fertilization (IVF)"
           ]
         }
       ]
@@ -2712,14 +3046,19 @@
             "Sperm",
             "Semen",
             "Sperm Retrieval Techniques",
-            "Testicular Sperm Extraction (TESE/micro-TESE)"
+            "Testicular Sperm Extraction (TESE/micro-TESE)",
+            "Zygote"
           ]
         },
         {
           "step": "Emergency Egg/Sperm Collection",
           "overview": "Priority scheduling for semen collection in a private room. Same-day processing and cryopreservation to minimize time before starting cancer treatment.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Semen Analysis",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "Before Cancer Treatment (Oncofertility)",
             "Sperm Cryopreservation"
           ]
@@ -2764,6 +3103,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the excess embryo freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Embryo Grading",
             "Genetic Counseling",
@@ -2820,6 +3160,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo freezing for genetic testing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Embryo Grading",
             "Genetic Counseling",
             "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
@@ -2848,11 +3189,13 @@
           "step": "Sperm Collection",
           "overview": "Partner provides a semen sample through ejaculation in a private collection room on the same day as egg retrieval. The sample is analyzed and prepared for fertilization.",
           "topic_refs": [
+            "Sperm",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Assisted Hatching",
             "Embryo Biopsy Techniques",
             "Fertilization",
-            "Oocyte Pickup (OPU)"
+            "Oocyte Pickup (OPU)",
+            "Zygote"
           ]
         },
         {
@@ -2888,6 +3231,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the medical embryo freezing process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Progesterone Test",
             "Genetic Counseling",
@@ -2938,6 +3282,7 @@
           "step": "Initial Consultation & Assessment",
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the embryo banking for future siblings process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Antral Follicle Count (AFC) Ultrasound",
             "Advanced Maternal Age (AMA)",
@@ -2960,9 +3305,11 @@
           "step": "Sperm Collection",
           "overview": "Partner provides a semen sample through ejaculation in a private collection room on the same day as egg retrieval. The sample is analyzed and prepared for fertilization.",
           "topic_refs": [
+            "Sperm",
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-            "Oocyte Pickup (OPU)"
+            "Oocyte Pickup (OPU)",
+            "Zygote"
           ]
         },
         {
@@ -3006,20 +3353,25 @@
           "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Letrozole (Femara)",
             "Embryo Cryopreservation",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Antral Follicle Count (AFC) Ultrasound",
             "GnRH Agonists",
             "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Before Cancer Treatment (Oncofertility)"
+            "Before Cancer Treatment (Oncofertility)",
+            "Estradiol (E2) Blood Test"
           ]
         },
         {
           "step": "Emergency Egg/Sperm Collection",
           "overview": "Priority scheduling for egg retrieval under sedation. Same-day processing to minimize time before starting cancer treatment.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Semen Analysis",
+            "Ovaries",
+            "Follicle",
             "Sperm Cryopreservation",
             "Semen",
             "Sperm",
@@ -3072,6 +3424,7 @@
           "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Letrozole (Femara)",
             "GnRH Antagonist Protocol",
             "GnRH Agonists",
@@ -3081,7 +3434,9 @@
             "Fertilization - Conventional Insemination",
             "GnRH Agonist Protocol",
             "Embryo",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test"
           ]
         },
         {
@@ -3131,6 +3486,7 @@
           "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
           "topic_refs": [
             "Ovarian Stimulation",
+            "Follicle",
             "Letrozole (Femara)",
             "GnRH Antagonist Protocol",
             "GnRH Agonists",
@@ -3138,13 +3494,16 @@
             "Blastocyst Culture",
             "Before Cancer Treatment (Oncofertility)",
             "Embryo",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test"
           ]
         },
         {
           "step": "Fertilization (if creating embryos)",
           "overview": "If creating embryos, eggs are fertilized using partner or donor sperm. Fertilization is confirmed the next day.",
           "topic_refs": [
+            "Sperm",
             "Initial Consult",
             "Donor Sperm IVF",
             "Genetic Counseling",
@@ -3153,7 +3512,8 @@
             "Microfluidic Sperm Selection",
             "Fertilization",
             "Oocyte (Egg Cell)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
@@ -3201,17 +3561,23 @@
           "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
           "topic_refs": [
             "Before Cancer Treatment (Oncofertility)",
+            "Follicle",
             "Ovarian Tissue Cryopreservation",
             "Gonadotropins (FSH, hMG)",
             "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test"
           ]
         },
         {
           "step": "Emergency Egg/Sperm Collection",
           "overview": "Priority scheduling for egg retrieval under sedation. Same-day processing to minimize time before starting cancer treatment.",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Semen Analysis",
+            "Ovaries",
+            "Follicle",
             "Sperm Cryopreservation",
             "Semen",
             "Sperm",
@@ -3293,7 +3659,13 @@
           "topic_refs": [
             "Embryo Cryopreservation",
             "Frozen Embryo Transfer (FET)",
-            "Embryo"
+            "Embryo",
+            "Uterus",
+            "Cervix",
+            "Endometrium",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
@@ -3312,7 +3684,12 @@
           "overview": "Approximately 9-12 days after transfer, you'll have a blood test to check for pregnancy (beta hCG test). If positive, you'll continue medications and have repeat blood tests and ultrasounds. If negative, your doctor will discuss next steps.",
           "step": "Pregnancy Testing & Follow-up",
           "topic_refs": [
-            "Serum hCG Pregnancy Test"
+            "Fertilization",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Serum hCG Pregnancy Test",
+            "Human Chorionic Gonadotropin (hCG)",
+            "Emotional Impact & Support"
           ]
         }
       ]
@@ -3346,41 +3723,59 @@
           "overview": "The embryology lab will carefully thaw your frozen eggs. ICSI (intracytoplasmic sperm injection) is typically used to fertilize thawed eggs, as it has higher success rates than conventional fertilization. Your clinic will report how many eggs survived the thaw and were successfully fertilized.",
           "step": "Egg Thaw & Fertilization (ICSI)",
           "topic_refs": [
+            "Sperm",
             "Oocyte Cryopreservation (Egg Freezing)",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Fertilization",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
           "overview": "Fertilized eggs (now embryos) will be cultured in the lab for 3-6 days. The embryology team monitors their development and grades them for quality. You may choose to do genetic testing (PGT) on embryos before transfer.",
           "step": "Embryo Development & Monitoring",
           "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
             "Embryo",
             "Embryo Grading",
             "Blastocyst",
-            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)"
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Embryo Biopsy Techniques"
           ]
         },
         {
           "overview": "While embryos develop, you'll take medications to prepare your uterine lining. Once ready, one or more embryos will be transferred into your uterus in a quick, usually painless procedure. Any remaining quality embryos can be frozen for future use.",
           "step": "Endometrial Preparation & Embryo Transfer",
           "topic_refs": [
+            "Embryo",
             "Endometrium",
             "Estrogen in Females",
             "Progesterone in Females",
             "Frozen Embryo Transfer (FET)",
             "Gonadotropins (FSH, hMG)",
-            "Embryo Cryopreservation"
+            "Embryo Cryopreservation",
+            "Uterus",
+            "Cervix",
+            "Progesterone (Luteal Phase Support)",
+            "Implantation",
+            "Assisted Hatching"
           ]
         },
         {
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "step": "Pregnancy Testing & Follow-up",
           "topic_refs": [
+            "Fertilization",
+            "Progesterone (Luteal Phase Support)",
             "Serum hCG Pregnancy Test",
             "Implantation",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Human Chorionic Gonadotropin (hCG)"
           ]
         }
       ]
@@ -3426,32 +3821,38 @@
           "overview": "On the day of your partner's IUI or egg retrieval, the lab will thaw your frozen sperm sample. The sperm will be washed and prepared for insemination or fertilization. The lab will assess post-thaw sperm quality and quantity.",
           "step": "Sperm Thaw & Preparation",
           "topic_refs": [
+            "Sperm",
             "Clinical Use of Banked Sperm",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Semen Analysis",
             "Fertilization",
-            "Oocyte Pickup (OPU)"
+            "Oocyte Pickup (OPU)",
+            "Zygote"
           ]
         },
         {
           "overview": "For IUI: Prepared sperm is placed directly into your partner's uterus. For IVF: Sperm is used to fertilize eggs in the lab, typically using ICSI if sperm count is limited. Your clinic will guide you through the specific pathway you've chosen.",
           "step": "Insemination or Fertilization",
           "topic_refs": [
+            "Sperm",
             "Intrauterine Insemination (IUI)",
             "Fertilization",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Oocyte (Egg Cell)",
-            "Embryo"
+            "Embryo",
+            "Zygote"
           ]
         },
         {
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "step": "Pregnancy Testing & Next Steps",
           "topic_refs": [
+            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Human Chorionic Gonadotropin (hCG)"
           ]
         }
       ]
@@ -3478,10 +3879,12 @@
           "overview": "IVF provides greater control and visibility than IUI, which is why your doctor recommends this next step. With IVF, fertilization happens in the lab where it can be observed and documented, embryos can be graded and tested for genetic issues, and the best embryo(s) are selected for transfer. This increased control helps address the factors that may have prevented success with IUI, improving your chances of pregnancy and allowing your doctor to identify and overcome specific fertility challenges.",
           "step": "Understanding IVF & What's Different",
           "topic_refs": [
+            "Sperm",
             "In Vitro Fertilization (IVF)",
             "Intrauterine Insemination (IUI)",
             "Embryo",
-            "Embryo Grading"
+            "Embryo Grading",
+            "Zygote"
           ]
         },
         {
@@ -3506,6 +3909,7 @@
           "overview": "Your care team will create a customized IVF protocol based on your age, ovarian reserve, and previous treatment response. You'll learn about your medication protocol, how to do injections, what to expect during monitoring appointments, and timeline for your cycle.",
           "step": "Treatment Planning & Preparation",
           "topic_refs": [
+            "In Vitro Fertilization (IVF)",
             "Initial Consult",
             "Ovarian Stimulation",
             "Gonadotropins (FSH, hMG)"
@@ -3515,10 +3919,12 @@
           "overview": "Once you're ready emotionally and financially, and all testing is complete, you'll start your first IVF cycle. Your clinic will coordinate timing with your menstrual cycle and provide detailed instructions for your specific protocol. You'll follow one of the standard IVF pathways depending on your situation (own eggs with partner sperm, donor sperm, etc.). The IVF process typically includes ovarian stimulation, egg retrieval, fertilization, embryo development, and transfer, taking 4-6 weeks from start to pregnancy test. Your care team will walk you through each step with renewed hope and a treatment approach designed to overcome the challenges you faced with IUI.",
           "step": "Beginning Your IVF Cycle",
           "topic_refs": [
+            "Sperm",
             "In Vitro Fertilization (IVF)",
             "Ovarian Stimulation",
             "Oocyte Pickup (OPU)",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Zygote"
           ]
         }
       ]
@@ -3580,10 +3986,12 @@
           "overview": "Once your donor is selected and all legal/medical clearances are complete, you'll begin the donor egg IVF cycle following the 'IVF With Donor Eggs' pathway. If using fresh donor eggs, your clinic will coordinate your endometrial preparation with your donor's ovarian stimulation. If using frozen donor eggs, you'll start medications to prepare your uterine lining while the clinic thaws and fertilizes the eggs. You'll then proceed through embryo development, transfer, and pregnancy testing. Your care team will guide you through each remaining step of your donor egg journey, providing both medical and emotional support.",
           "step": "Beginning Your Donor Egg Cycle",
           "topic_refs": [
+            "Sperm",
             "Donor Egg IVF",
             "Endometrial Preparation for FET",
             "In Vitro Fertilization (IVF)",
-            "Emotional Impact & Support"
+            "Emotional Impact & Support",
+            "Zygote"
           ]
         }
       ]
@@ -3599,6 +4007,7 @@
           "overview": "You'll have an initial consultation with your fertility specialist to discuss your goals, review your medical history, and create a personalized treatment plan. This appointment allows your doctor to understand your situation, explain the egg freezing for transgender men process, discuss success rates specific to your age and diagnosis, and answer all your questions. You'll also complete required fertility testing to assess your reproductive health and determine the best approach.",
           "step": "Initial Consultation & Timeline Planning",
           "topic_refs": [
+            "Referral to a Fertility Center",
             "Initial Consult",
             "Before Gender-Affirming Hormone Therapy or Surgery"
           ]
@@ -3633,14 +4042,21 @@
             "Follicle",
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Antral Follicle Count (AFC) Ultrasound",
-            "Oocyte (Egg Cell)"
+            "Oocyte (Egg Cell)",
+            "Estradiol (E2) Blood Test",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Zygote"
           ]
         },
         {
           "overview": "When follicles are mature, you'll have the egg retrieval procedure under light sedation. A doctor uses ultrasound guidance to collect eggs from your ovaries through the vaginal wall. The procedure takes about 20-30 minutes, and you'll go home the same day.",
           "step": "Egg Retrieval Procedure",
           "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam"
           ]
         },
