@@ -995,7 +995,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Wait approximately two weeks after the IUI, then return for a blood pregnancy test. Your doctor will discuss next steps based on the results, whether continuing treatment or transitioning to prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
             "Serum hCG Pregnancy Test",
@@ -1079,7 +1078,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Wait approximately two weeks after the IUI, then return for a blood pregnancy test. Your doctor will discuss next steps based on the results, whether continuing treatment or transitioning to prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
             "Serum hCG Pregnancy Test",
@@ -1216,7 +1214,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -1367,7 +1364,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -1421,8 +1417,14 @@
         },
         {
           "step": "Fertilization & Embryo Development",
-          "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop and reach optimal transfer stage. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. This observation period helps identify which embryos have the best developmental potential. You may also choose genetic testing (PGT) during this time.",
+          "overview": "Partner sperm is collected and prepared (or donor sperm is thawed). Donor eggs are fertilized using conventional IVF or ICSI. The next day, the embryologist checks fertilization success. Fertilized eggs (now embryos) are then cultured in the lab for 3-6 days. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for transfer. You may also choose genetic testing (PGT) during this time.",
           "topic_refs": [
+            "Sperm",
+            "Semen",
+            "Sperm Preparation (Density Gradient / Swim-Up)",
+            "Oocyte (Egg Cell)",
+            "Fertilization - Conventional Insemination",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Zygote",
             "2-Cell Embryo",
             "4-Cell Embryo",
@@ -1455,7 +1457,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "topic_refs": [
-            "Fertilization",
             "Progesterone (Luteal Phase Support)",
             "Serum hCG Pregnancy Test",
             "Implantation",
@@ -1574,7 +1575,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Continue taking progesterone and any other prescribed medications to support potential implantation during the two-week wait. Approximately 9-12 days after embryo transfer, you'll return for a blood pregnancy test (beta hCG). If positive, you'll continue medications to support early pregnancy and have follow-up ultrasounds to confirm heartbeat before graduating to regular prenatal care. If negative, your doctor will discuss next steps, including whether to try another cycle or explore other options.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
@@ -1712,7 +1712,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "The carrying partner continues progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then she returns for a blood pregnancy test. If pregnant, she will have early monitoring ultrasounds before graduating to regular prenatal care. Both partners share in the emotional journey of pregnancy.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -1866,7 +1865,6 @@
           "overview": "The gestational carrier continues progesterone supplementation. Wait 9-14 days after transfer, then she returns for a blood pregnancy test. If pregnant, she will have early monitoring ultrasounds and continue medications to support early pregnancy until graduating to regular prenatal care. You coordinate with your carrier throughout the pregnancy.",
           "topic_refs": [
             "Surrogacy (Gestational Carrier)",
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -2528,7 +2526,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -2589,7 +2586,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -2631,17 +2627,6 @@
           ]
         },
         {
-          "step": "Endometrial Preparation",
-          "overview": "Take estrogen and progesterone medications to prepare your uterine lining for embryo implantation. Your clinic monitors lining thickness through ultrasound to ensure optimal conditions for embryo transfer.",
-          "topic_refs": [
-            "Endometrial Preparation for FET",
-            "Estrogen in Females",
-            "Progesterone in Females",
-            "Endometrium",
-            "Estradiol (E2) Blood Test"
-          ]
-        },
-        {
           "step": "Egg Thawing & Fertilization",
           "overview": "Your frozen eggs are carefully thawed using a warming protocol. Partner sperm is collected and prepared. Due to zona pellucida hardening from freezing, ICSI (injecting one sperm directly into each egg) is used to fertilize the thawed eggs. The next day, the embryologist checks how many eggs survived thawing and fertilized successfully.",
           "topic_refs": [
@@ -2677,6 +2662,17 @@
           ]
         },
         {
+          "step": "Endometrial Preparation",
+          "overview": "While your embryos develop, you'll take estrogen and progesterone medications to prepare your uterine lining for embryo implantation. Your clinic monitors lining thickness through ultrasounds to ensure optimal conditions for transfer. The timing is coordinated so your lining is ready when your embryos reach the optimal stage for transfer.",
+          "topic_refs": [
+            "Endometrial Preparation for FET",
+            "Estrogen in Females",
+            "Progesterone in Females",
+            "Endometrium",
+            "Estradiol (E2) Blood Test"
+          ]
+        },
+        {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
@@ -2696,7 +2692,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Continue progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -2744,17 +2739,6 @@
           ]
         },
         {
-          "step": "Endometrial Preparation",
-          "overview": "Take estrogen and progesterone medications to prepare your uterine lining for embryo implantation. Your clinic monitors lining thickness through ultrasound to ensure optimal conditions for embryo transfer.",
-          "topic_refs": [
-            "Endometrial Preparation for FET",
-            "Estrogen in Females",
-            "Progesterone in Females",
-            "Endometrium",
-            "Estradiol (E2) Blood Test"
-          ]
-        },
-        {
           "step": "Egg Thawing & Fertilization",
           "overview": "Your frozen eggs are carefully thawed using a warming protocol. Donor sperm is thawed and prepared. Due to zona pellucida hardening from freezing, ICSI (injecting one sperm directly into each egg) is used to fertilize the thawed eggs. The next day, the embryologist checks how many eggs survived thawing and fertilized successfully.",
           "topic_refs": [
@@ -2790,6 +2774,17 @@
           ]
         },
         {
+          "step": "Endometrial Preparation",
+          "overview": "While your embryos develop, you'll take estrogen and progesterone medications to prepare your uterine lining for embryo implantation. Your clinic monitors lining thickness through ultrasounds to ensure optimal conditions for transfer. The timing is coordinated so your lining is ready when your embryos reach the optimal stage for transfer.",
+          "topic_refs": [
+            "Endometrial Preparation for FET",
+            "Estrogen in Females",
+            "Progesterone in Females",
+            "Endometrium",
+            "Estradiol (E2) Blood Test"
+          ]
+        },
+        {
           "step": "Embryo Transfer",
           "overview": "Your doctor selects the best quality embryo(s) and transfers it into your uterus using a thin catheter under ultrasound guidance. This is a quick, painless procedure. Any remaining good-quality embryos are frozen for future use.",
           "topic_refs": [
@@ -2809,7 +2804,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Continue progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -2927,7 +2921,6 @@
           "step": "Pregnancy Testing & Follow-up",
           "overview": "Begin progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then return for a blood pregnancy test. If pregnant, you will have early monitoring ultrasounds before graduating to regular prenatal care.",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Implantation",
             "Progesterone (Luteal Phase Support)",
@@ -4191,7 +4184,6 @@
           "overview": "Approximately 9-12 days after transfer, you'll have a blood test to check for pregnancy (beta hCG test). If positive, you'll continue medications and have repeat blood tests and ultrasounds. If negative, your doctor will discuss next steps.",
           "step": "Pregnancy Testing & Follow-up",
           "topic_refs": [
-            "Fertilization",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
             "Serum hCG Pregnancy Test",
@@ -4282,7 +4274,6 @@
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "step": "Pregnancy Testing & Follow-up",
           "topic_refs": [
-            "Fertilization",
             "Progesterone (Luteal Phase Support)",
             "Serum hCG Pregnancy Test",
             "Implantation",
@@ -4358,7 +4349,6 @@
           "overview": "After the two-week wait, you'll return for a blood pregnancy test (beta hCG) to determine if embryo implantation was successful. This blood test is more accurate than home urine tests and can detect pregnancy earlier. If positive, you'll continue medications to support early pregnancy and have follow-up monitoring. If negative, your doctor will discuss next steps and any adjustments for future cycles.",
           "step": "Pregnancy Testing & Next Steps",
           "topic_refs": [
-            "Fertilization",
             "Serum hCG Pregnancy Test",
             "Progesterone (Luteal Phase Support)",
             "Implantation",
