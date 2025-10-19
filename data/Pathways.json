@@ -980,14 +980,14 @@
         },
         {
           "step": "Sperm Preparation & IUI Procedure",
-          "overview": "On the day of your IUI procedure, sperm is collected from your partner (fresh sample) or thawed from a donor/cryopreserved sample. The lab then prepares the sperm through a washing and concentration process that separates the healthiest, most motile sperm from seminal fluid. This prepared sperm is then placed directly into your uterus through a thin catheter in a quick, painless intrauterine insemination (IUI) procedure, bypassing the cervix and giving sperm a head start toward the egg.",
+          "overview": "On the day of your IUI procedure, your partner provides a fresh sperm sample. The lab then prepares the sperm through a washing and concentration process that separates the healthiest, most motile sperm from seminal fluid. This prepared sperm is then placed directly into your uterus through a thin catheter in a quick, painless procedure, bypassing the cervix and giving sperm a head start toward the egg in your fallopian tube.",
           "topic_refs": [
             "Sperm",
-            "Cervix",
             "Semen",
-            "Uterus",
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Intrauterine Insemination (IUI)",
+            "Uterus",
+            "Cervix",
             "Fallopian Tubes"
           ]
         },
@@ -1147,7 +1147,8 @@
           "topic_refs": [
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Human Chorionic Gonadotropin (hCG) Trigger",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Follicle"
           ]
         },
         {
@@ -1297,7 +1298,8 @@
           "topic_refs": [
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Human Chorionic Gonadotropin (hCG) Trigger",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Follicle"
           ]
         },
         {
@@ -1320,7 +1322,6 @@
             "Sperm Preparation (Density Gradient / Swim-Up)",
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-            "Semen",
             "Oocyte (Egg Cell)",
             "Embryo",
             "Zygote",
@@ -1414,7 +1415,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Oocyte (Egg Cell)",
             "Implantation"
           ]
@@ -1517,7 +1517,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test",
             "Implantation"
           ]
@@ -1640,7 +1639,8 @@
           "topic_refs": [
             "Human Chorionic Gonadotropin (hCG) Trigger",
             "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Follicle"
           ]
         },
         {
@@ -1792,7 +1792,8 @@
           "topic_refs": [
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Human Chorionic Gonadotropin (hCG) Trigger",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Follicle"
           ]
         },
         {
@@ -1965,7 +1966,7 @@
         },
         {
           "step": "Ovarian Stimulation & Monitoring",
-          "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Having multiple eggs increases the chances of successful fertilization and embryo development. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
+          "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs instead of the single egg released in a natural cycle. Freezing multiple eggs provides more options for your future family building. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
           "topic_refs": [
             "Ovarian Stimulation",
             "Follicle",
@@ -1982,15 +1983,25 @@
           ]
         },
         {
+          "step": "Trigger Shot",
+          "overview": "When your eggs are mature (follicles reach 17-20mm), you will receive a precisely-timed trigger shot to complete final egg maturation. Egg retrieval is scheduled exactly 35-36 hours later.",
+          "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Human Chorionic Gonadotropin (hCG) Trigger",
+            "Oocyte (Egg Cell)",
+            "Follicle"
+          ]
+        },
+        {
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
-            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
             "Ovaries",
             "Follicle",
             "Oocyte (Egg Cell)",
-            "OPU Drug - Midazolam"
+            "OPU Drug - Midazolam",
+            "OPU Drug - Fentanyl"
           ]
         },
         {
@@ -2083,7 +2094,8 @@
           "topic_refs": [
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Human Chorionic Gonadotropin (hCG) Trigger",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Follicle"
           ]
         },
         {
@@ -2216,7 +2228,8 @@
           "topic_refs": [
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Human Chorionic Gonadotropin (hCG) Trigger",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Follicle"
           ]
         },
         {
@@ -2490,7 +2503,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test",
             "Implantation"
           ]
@@ -2552,7 +2564,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test",
             "Implantation"
           ]
@@ -2627,7 +2638,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test"
           ]
         },
@@ -2741,7 +2751,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test"
           ]
         },
@@ -2859,7 +2868,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test",
             "Implantation"
           ]
@@ -3037,10 +3045,19 @@
           ]
         },
         {
+          "step": "Trigger Shot",
+          "overview": "When your eggs are mature (follicles reach 17-20mm), you will receive a precisely-timed trigger shot to complete final egg maturation. Egg retrieval is scheduled exactly 35-36 hours later.",
+          "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Human Chorionic Gonadotropin (hCG) Trigger",
+            "Oocyte (Egg Cell)",
+            "Follicle"
+          ]
+        },
+        {
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
-            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
             "Ovaries",
             "Follicle",
@@ -3121,15 +3138,23 @@
           ]
         },
         {
+          "step": "Trigger Shot",
+          "overview": "When your eggs are mature (follicles reach 17-20mm), you will receive a precisely-timed trigger shot to complete final egg maturation. Egg retrieval is scheduled exactly 35-36 hours later.",
+          "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Human Chorionic Gonadotropin (hCG) Trigger",
+            "Oocyte (Egg Cell)",
+            "Follicle"
+          ]
+        },
+        {
           "step": "Egg Retrieval",
           "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes, followed by 1-2 hours of recovery time.",
           "topic_refs": [
-            "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Before Cancer Treatment (Oncofertility)",
+            "Oocyte Pickup (OPU)",
             "Ovaries",
             "Follicle",
             "Oocyte (Egg Cell)",
-            "Oocyte Pickup (OPU)",
             "OPU Drug - Midazolam",
             "OPU Drug - Fentanyl"
           ]
@@ -3387,27 +3412,15 @@
           ]
         },
         {
-          "step": "Sperm Collection & Preparation",
-          "overview": "Your partner provides a sperm sample (or donor sperm is thawed) which is then processed in the lab to select the healthiest, most motile sperm. This preparation process, called washing and concentration, separates the best sperm from seminal fluid and debris, increasing the chances of successful fertilization or insemination.",
+          "step": "Emergency Sperm Collection",
+          "overview": "Priority scheduling for semen collection in a private room. If ejaculation is not possible due to medical conditions, surgical sperm extraction (TESE) may be performed. Same-day processing to minimize time before starting cancer treatment.",
           "topic_refs": [
-            "Semen Analysis",
             "Sperm",
             "Semen",
-            "Sperm Retrieval Techniques",
-            "Testicular Sperm Extraction (TESE/micro-TESE)"
-          ]
-        },
-        {
-          "step": "Emergency Egg/Sperm Collection",
-          "overview": "Priority scheduling for semen collection in a private room. Same-day processing and cryopreservation to minimize time before starting cancer treatment.",
-          "topic_refs": [
-            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Semen Analysis",
-            "Ovaries",
-            "Follicle",
-            "Oocyte (Egg Cell)",
-            "Before Cancer Treatment (Oncofertility)",
-            "Sperm Cryopreservation"
+            "Sperm Retrieval Techniques",
+            "Testicular Sperm Extraction (TESE/micro-TESE)",
+            "Before Cancer Treatment (Oncofertility)"
           ]
         },
         {
@@ -3525,26 +3538,85 @@
             "Infectious Disease Screening (Female)",
             "Infectious Disease Screening (Male)",
             "Genetic Counseling",
-            "Embryo",
-            "Sperm Cryopreservation",
-            "Oocyte (Egg Cell)"
+            "Legal & Ethics in Third-Party Reproduction",
+            "In Vitro Fertilization (IVF)"
           ]
         },
         {
-          "step": "Sperm Collection",
-          "overview": "Partner provides a semen sample through ejaculation in a private collection room on the same day as egg retrieval. The sample is analyzed and prepared for fertilization.",
+          "step": "Ovarian Stimulation & Monitoring",
+          "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
+          "topic_refs": [
+            "Ovarian Stimulation",
+            "Follicle",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test",
+            "Gonadotropins (FSH, hMG)",
+            "Oocyte (Egg Cell)",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test"
+          ]
+        },
+        {
+          "step": "Trigger Shot",
+          "overview": "When your eggs are mature (follicles reach 17-20mm), you will receive a precisely-timed trigger shot to complete final egg maturation. Egg retrieval is scheduled exactly 35-36 hours later.",
+          "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Human Chorionic Gonadotropin (hCG) Trigger",
+            "Oocyte (Egg Cell)",
+            "Follicle"
+          ]
+        },
+        {
+          "step": "Egg Retrieval",
+          "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
+          "topic_refs": [
+            "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
+            "OPU Drug - Midazolam",
+            "OPU Drug - Fentanyl"
+          ]
+        },
+        {
+          "step": "Fertilization",
+          "overview": "Partner sperm is collected and prepared. Mature eggs are fertilized using conventional IVF or ICSI. The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
             "Sperm",
+            "Semen",
+            "Semen Analysis",
             "Sperm Preparation (Density Gradient / Swim-Up)",
-            "Assisted Hatching",
-            "Embryo Biopsy Techniques",
-            "Fertilization",
-            "Oocyte Pickup (OPU)"
+            "Fertilization - Conventional Insemination",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
+            "Oocyte (Egg Cell)",
+            "Embryo",
+            "Zygote"
           ]
         },
         {
-          "step": "Freezing & Storage",
-          "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
+          "step": "Embryo Development & Genetic Testing Biopsy",
+          "overview": "Fertilized eggs (now embryos) are cultured in the lab for 5-6 days until they reach blastocyst stage. The embryology team monitors their growth daily and grades their quality. On day 5 or 6, a few cells are removed from each embryo (trophectoderm biopsy) and sent to a genetics lab for testing. This biopsy does not harm the embryo's ability to develop into a baby.",
+          "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
+            "Blastocyst",
+            "Embryo Grading",
+            "Blastocyst Culture",
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)",
+            "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
+            "Embryo Biopsy Techniques",
+            "PGT-Polygenic",
+            "PGT-Complete",
+            "Preimplantation Genetic Testing for Structural Rearrangements (PGT-SR)"
+          ]
+        },
+        {
+          "step": "Embryo Freezing While Awaiting Results",
+          "overview": "All biopsied embryos are frozen using vitrification immediately after biopsy to preserve their quality while the genetic testing lab analyzes the biopsy samples. This typically takes 1-2 weeks. Freezing allows time for comprehensive genetic analysis without compromising embryo viability. You'll complete storage consent forms and receive results detailing which embryos are genetically normal and suitable for transfer.",
           "topic_refs": [
             "Embryo Cryopreservation",
             "Vitrification",
@@ -3643,25 +3715,82 @@
           "step": "Medical Clearance & Consent",
           "overview": "You'll complete required infectious disease screening and sign informed consent documents to ensure you understand the treatment process and risks. These screenings protect both you and any future pregnancy, while the consent process ensures you're making fully informed decisions. This is a required step before proceeding with any fertility treatment.",
           "topic_refs": [
-            "Embryo Grading",
-            "Genetic Counseling",
-            "Embryo",
-            "Sperm Cryopreservation",
-            "Oocyte (Egg Cell)"
+            "Infectious Disease Screening (Female)",
+            "Infectious Disease Screening (Male)",
+            "Legal & Ethics in Third-Party Reproduction",
+            "In Vitro Fertilization (IVF)",
+            "Embryo Cryopreservation"
           ]
         },
         {
-          "step": "Sperm Collection",
-          "overview": "Partner provides a semen sample through ejaculation in a private collection room on the same day as egg retrieval. The sample is analyzed and prepared for fertilization.",
+          "step": "Ovarian Stimulation & Monitoring",
+          "overview": "You'll take daily fertility medication injections (gonadotropins) for 8-12 days to stimulate your ovaries to produce multiple eggs. You'll attend frequent monitoring appointments (every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels, allowing your doctor to adjust medication dosages for optimal egg development.",
+          "topic_refs": [
+            "Ovarian Stimulation",
+            "Follicle",
+            "Antral Follicle Count (AFC) Ultrasound",
+            "Estradiol (E2) Blood Test",
+            "Gonadotropins (FSH, hMG)",
+            "Oocyte (Egg Cell)",
+            "Ovarian Hyperstimulation Syndrome (OHSS)",
+            "Progesterone Test"
+          ]
+        },
+        {
+          "step": "Trigger Shot",
+          "overview": "When your eggs are mature (follicles reach 17-20mm), you will receive a precisely-timed trigger shot to complete final egg maturation. Egg retrieval is scheduled exactly 35-36 hours later.",
+          "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Human Chorionic Gonadotropin (hCG) Trigger",
+            "Oocyte (Egg Cell)",
+            "Follicle"
+          ]
+        },
+        {
+          "step": "Egg Retrieval",
+          "overview": "Under light sedation, your doctor uses ultrasound guidance to retrieve eggs from your ovaries through a thin needle. The procedure takes 15-30 minutes. You will rest in recovery for 1-2 hours before going home.",
+          "topic_refs": [
+            "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
+            "OPU Drug - Midazolam",
+            "OPU Drug - Fentanyl"
+          ]
+        },
+        {
+          "step": "Fertilization",
+          "overview": "Partner sperm is collected and prepared. Mature eggs are fertilized using conventional IVF or ICSI. The next day, the embryologist checks to see how many eggs fertilized successfully.",
           "topic_refs": [
             "Sperm",
+            "Semen",
+            "Semen Analysis",
+            "Sperm Preparation (Density Gradient / Swim-Up)",
             "Fertilization - Conventional Insemination",
             "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)",
+            "Embryo",
+            "Zygote"
           ]
         },
         {
-          "step": "Freezing & Storage",
+          "step": "Embryo Development",
+          "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop. The embryology team monitors their growth daily and grades their quality to help select the best embryo(s) for your future family.",
+          "topic_refs": [
+            "Zygote",
+            "2-Cell Embryo",
+            "4-Cell Embryo",
+            "Morula",
+            "Blastocyst",
+            "Embryo Grading",
+            "Blastocyst Culture",
+            "Embryo",
+            "Blastocyst - Inner Cell Mass (ICM)",
+            "Blastocyst - Trophectoderm (TE)"
+          ]
+        },
+        {
+          "step": "Embryo Freezing & Banking",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
             "Embryo Cryopreservation",
@@ -3700,33 +3829,33 @@
         },
         {
           "step": "Expedited Ovarian Stimulation",
-          "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
+          "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot given when follicles are mature.",
           "topic_refs": [
             "Ovarian Stimulation",
             "Follicle",
+            "Oocyte (Egg Cell)",
+            "Gonadotropins (FSH, hMG)",
             "Letrozole (Femara)",
-            "Embryo Cryopreservation",
-            "Oocyte Cryopreservation (Egg Freezing)",
-            "Antral Follicle Count (AFC) Ultrasound",
+            "GnRH Antagonist Protocol",
             "GnRH Agonists",
             "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Oocyte Cryopreservation (Egg Freezing)",
             "Before Cancer Treatment (Oncofertility)",
+            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test"
           ]
         },
         {
-          "step": "Emergency Egg/Sperm Collection",
-          "overview": "Priority scheduling for egg retrieval under sedation. Same-day processing to minimize time before starting cancer treatment.",
+          "step": "Emergency Egg Retrieval",
+          "overview": "Priority scheduling for egg retrieval under sedation. The procedure takes 15-30 minutes. Same-day processing to minimize time before starting cancer treatment.",
           "topic_refs": [
-            "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Semen Analysis",
+            "Oocyte Pickup (OPU)",
             "Ovaries",
             "Follicle",
-            "Sperm Cryopreservation",
-            "Semen",
-            "Sperm",
+            "Oocyte (Egg Cell)",
             "OPU Drug - Midazolam",
-            "Oocyte (Egg Cell)"
+            "OPU Drug - Fentanyl",
+            "Before Cancer Treatment (Oncofertility)"
           ]
         },
         {
@@ -3770,26 +3899,51 @@
         },
         {
           "step": "Expedited Ovarian Stimulation",
-          "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
+          "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot given when follicles are mature.",
           "topic_refs": [
             "Ovarian Stimulation",
             "Follicle",
+            "Oocyte (Egg Cell)",
+            "Gonadotropins (FSH, hMG)",
             "Letrozole (Femara)",
             "GnRH Antagonist Protocol",
             "GnRH Agonists",
             "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Blastocyst Culture",
             "Before Cancer Treatment (Oncofertility)",
-            "Fertilization - Conventional Insemination",
-            "GnRH Agonist Protocol",
-            "Embryo",
-            "Oocyte (Egg Cell)",
             "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test"
           ]
         },
         {
-          "step": "Emergency Freezing & Storage",
+          "step": "Emergency Egg Retrieval",
+          "overview": "Priority scheduling for egg retrieval under sedation. The procedure takes 15-30 minutes. Same-day processing to minimize time before starting cancer treatment.",
+          "topic_refs": [
+            "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
+            "OPU Drug - Midazolam",
+            "OPU Drug - Fentanyl",
+            "Before Cancer Treatment (Oncofertility)"
+          ]
+        },
+        {
+          "step": "Emergency Fertilization",
+          "overview": "Partner sperm is collected and prepared. Eggs are fertilized using conventional IVF or ICSI. Fertilization is checked the next day.",
+          "topic_refs": [
+            "Sperm",
+            "Semen Analysis",
+            "Sperm Preparation (Density Gradient / Swim-Up)",
+            "Fertilization - Conventional Insemination",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
+            "Oocyte (Egg Cell)",
+            "Embryo",
+            "Zygote",
+            "Before Cancer Treatment (Oncofertility)"
+          ]
+        },
+        {
+          "step": "Emergency Embryo Freezing & Storage",
           "overview": "Embryos are frozen using vitrification at either day 3 (cleavage stage) or day 5-6 (blastocyst stage) of development. This ultra-rapid freezing technique preserves embryo quality for future use. You'll complete storage consent forms specifying how long to store embryos, annual storage fees, and what should happen to embryos in various scenarios. Frozen embryos can be stored indefinitely and thawed for future frozen embryo transfer (FET) cycles.",
           "topic_refs": [
             "Embryo Cryopreservation",
@@ -3831,38 +3985,50 @@
           ]
         },
         {
-          "step": "Expedited Ovarian Stimulation",
-          "overview": "Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot when ready.",
+          "step": "Donor Selection & Expedited Stimulation",
+          "overview": "Rapidly select a sperm donor from the sperm bank. Start fertility medications immediately using a \"random-start\" protocol (can begin any day of your cycle). Daily monitoring to optimize egg development while minimizing delays to your cancer treatment. Trigger shot given when follicles are mature.",
           "topic_refs": [
+            "Donor Selection & Counseling",
             "Ovarian Stimulation",
             "Follicle",
+            "Oocyte (Egg Cell)",
+            "Gonadotropins (FSH, hMG)",
             "Letrozole (Femara)",
             "GnRH Antagonist Protocol",
             "GnRH Agonists",
             "Ovulation Trigger (hCG/GnRH Agonist)",
-            "Blastocyst Culture",
             "Before Cancer Treatment (Oncofertility)",
-            "Embryo",
-            "Oocyte (Egg Cell)",
             "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test"
           ]
         },
         {
-          "step": "Fertilization (if creating embryos)",
-          "overview": "If creating embryos, eggs are fertilized using partner or donor sperm. Fertilization is confirmed the next day.",
+          "step": "Emergency Egg Retrieval",
+          "overview": "Priority scheduling for egg retrieval under sedation. The procedure takes 15-30 minutes. Same-day processing to minimize time before starting cancer treatment.",
+          "topic_refs": [
+            "Oocyte Pickup (OPU)",
+            "Ovaries",
+            "Follicle",
+            "Oocyte (Egg Cell)",
+            "OPU Drug - Midazolam",
+            "OPU Drug - Fentanyl",
+            "Before Cancer Treatment (Oncofertility)"
+          ]
+        },
+        {
+          "step": "Emergency Fertilization",
+          "overview": "Donor sperm is thawed and prepared. Eggs are fertilized using conventional IVF or ICSI. Fertilization is checked the next day.",
           "topic_refs": [
             "Sperm",
-            "Initial Consult",
-            "Donor Sperm IVF",
-            "Genetic Counseling",
+            "Sperm Cryopreservation",
             "Donor Selection & Counseling",
             "Sperm Preparation (Density Gradient / Swim-Up)",
-            "Microfluidic Sperm Selection",
-            "Fertilization",
+            "Fertilization - Conventional Insemination",
+            "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
             "Oocyte (Egg Cell)",
             "Embryo",
-            "Zygote"
+            "Zygote",
+            "Before Cancer Treatment (Oncofertility)"
           ]
         },
         {
@@ -3980,7 +4146,6 @@
             "Estrogen in Females",
             "Progesterone in Females",
             "Endometrium",
-            "Antral Follicle Count (AFC) Ultrasound",
             "Estradiol (E2) Blood Test",
             "Progesterone (Luteal Phase Support)",
             "Frozen Embryo Transfer (FET)",
@@ -4058,8 +4223,11 @@
           "overview": "You'll decide on your sperm source - partner sperm, donor sperm from a bank, or a known donor - as this determines the genetic makeup of your future child. If using partner sperm, your partner will provide a fresh sample or you may already have sperm frozen. If using donor sperm, you'll select a donor and complete necessary legal paperwork. This decision-making step ensures you have the sperm source secured before thawing your precious frozen eggs, as eggs must be used immediately once thawed.",
           "step": "Partner & Sperm Source Selection",
           "topic_refs": [
+            "Sperm",
+            "Semen Analysis",
+            "Donor Selection & Counseling",
             "Donor Sperm IVF",
-            "Semen Analysis"
+            "Sperm Cryopreservation"
           ]
         },
         {
@@ -4159,7 +4327,7 @@
             "Follicle",
             "Ovulation Trigger (hCG/GnRH Agonist)",
             "Sperm",
-            "Oocyte Pickup (OPU)"
+            "Oocyte (Egg Cell)"
           ]
         },
         {
@@ -4381,7 +4549,6 @@
             "Ovarian Stimulation",
             "Gonadotropins (FSH, hMG)",
             "Follicle",
-            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Antral Follicle Count (AFC) Ultrasound",
             "Oocyte (Egg Cell)",
             "Estradiol (E2) Blood Test",
@@ -4389,10 +4556,19 @@
           ]
         },
         {
+          "overview": "When your eggs are mature (follicles reach 17-20mm), you will receive a precisely-timed trigger shot to complete final egg maturation. Egg retrieval is scheduled exactly 35-36 hours later.",
+          "step": "Trigger Shot",
+          "topic_refs": [
+            "Ovulation Trigger (hCG/GnRH Agonist)",
+            "Human Chorionic Gonadotropin (hCG) Trigger",
+            "Oocyte (Egg Cell)",
+            "Follicle"
+          ]
+        },
+        {
           "overview": "When follicles are mature, you'll have the egg retrieval procedure under light sedation. A doctor uses ultrasound guidance to collect eggs from your ovaries through the vaginal wall. The procedure takes about 20-30 minutes, and you'll go home the same day.",
           "step": "Egg Retrieval Procedure",
           "topic_refs": [
-            "Ovulation Trigger (hCG/GnRH Agonist)",
             "Oocyte Pickup (OPU)",
             "Ovaries",
             "Follicle",
