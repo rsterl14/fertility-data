@@ -1,249 +1,157 @@
 [
   {
     "question": "What is the difference between IVF and ICSI?",
-    "short_answer": "In regular IVF, sperm and eggs are mixed together in a dish and the sperm enters the egg naturally. With ICSI, an embryologist uses a tiny needle to place a single sperm directly inside each egg.",
-    "detailed_answer": "Think of regular IVF like a natural meeting - thousands of sperm are placed with each egg, and one must find its way in on its own. The egg chooses the winning sperm through natural selection. With ICSI (intracytoplasmic sperm injection), the embryologist carefully selects a single healthy-looking sperm and injects it directly through the egg's outer shell, bypassing all natural barriers.\n\nICSI is recommended when there are sperm challenges like low count, poor movement, or abnormal shape. It's also used when previous IVF attempts showed poor fertilization, when using frozen or surgically-retrieved sperm, or when fertilizing previously frozen eggs (since freezing hardens the egg's shell). ICSI doesn't guarantee fertilization, but it gives sperm the best possible chance when natural fertilization might not work. Your doctor will recommend the best approach based on your specific semen analysis results and treatment history.",
-    "tags": ["IVF", "ICSI", "Male factor", "Fertilization", "Lab procedures"],
+    "short_answer": "In conventional IVF, eggs and sperm are mixed together in a dish so sperm can fertilize eggs naturally. With ICSI, an embryologist injects a single sperm directly into each egg using a tiny needle.",
+    "detailed_answer": "Conventional IVF (in vitro fertilization) allows natural fertilization by placing thousands of sperm with each egg in a laboratory dish, letting one sperm attach and enter on its own. ICSI (intracytoplasmic sperm injection) is more hands-on - a specially trained embryologist selects one sperm and injects it directly through the egg's outer shell.\n\nRecent research shows that ICSI's role in severe male factor infertility is well established. However, for couples without male factor issues, using ICSI routinely isn't supported by evidence. A 2022 review examining multiple studies found that fertilization rates, embryo development, pregnancy rates, and live birth outcomes are comparable between conventional IVF and ICSI when sperm parameters are normal. Despite this, ICSI represents approximately 75% of cycles in the USA and Europe, and 85% in Latin America - regardless of whether male factor is present.\n\nICSI is specifically recommended when you have: severe low sperm count or poor motility, complete fertilization failure in a previous IVF cycle, antisperm antibodies, surgically retrieved sperm (like from TESE procedure), or when using previously frozen eggs (since freezing hardens the egg shell). The technique adds approximately $1,500 to IVF costs.\n\nFor couples without these specific indications, conventional IVF remains a solid, evidence-based option that's less invasive and less expensive while providing comparable outcomes. Both ASRM and ESHRE guidelines recommend ICSI only for confirmed male factor infertility.",
+    "tags": ["IVF", "ICSI", "Male factor infertility", "Fertilization methods", "Lab procedures"],
     "related_topics": [
       "In Vitro Fertilization (IVF)",
       "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
       "Fertilization - Conventional Insemination",
       "Sperm",
       "Oocyte (Egg Cell)",
-      "Semen Analysis"
+      "Semen Analysis",
+      "Oligospermia",
+      "Azoospermia"
     ],
     "reference": [
-      "https://doi.org/10.1093/humupd/dmaa035",
-      "https://doi.org/10.1016/j.fertnstert.2020.08.1414",
-      "https://doi.org/10.1093/humrep/deab232"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9572455/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8769186/"
     ]
   },
   {
     "question": "How many embryos should we transfer?",
-    "short_answer": "Most patients under 38 should transfer only one high-quality embryo to avoid the serious risks of twins. Your doctor will personalize this based on your age, embryo quality, and medical history.",
-    "detailed_answer": "Single embryo transfer is now the gold standard for most patients, especially when you have a good-quality day-5 or day-6 embryo (blastocyst). While it might seem like transferring two embryos would double your chances, it actually increases your risk of twins, which brings serious health complications for both you and the babies - including premature birth, low birth weight, and pregnancy complications like preeclampsia and gestational diabetes.\n\nYour clinic follows guidelines from organizations like ASRM that recommend transfer numbers based on your age, embryo quality, and whether you've had success or challenges in past cycles. For patients over 40 or those with lower-quality embryos, your doctor might recommend transferring two. The goal is always a healthy singleton pregnancy - one baby at a time is safest for everyone. If you have extra good-quality embryos, they'll be frozen for future attempts, giving you more chances without the risks of multiples.",
-    "tags": ["Embryo transfer", "Single embryo transfer", "Twins", "Safety", "Pregnancy risks"],
+    "short_answer": "For most patients under 38 with good-quality embryos, transferring one embryo (single embryo transfer or SET) is recommended to avoid the serious health risks of twins while maintaining good pregnancy rates.",
+    "detailed_answer": "This is one of the most important decisions in IVF, and recent research strongly supports single embryo transfer (SET) for most patients. A 2022 systematic review analyzing 85 studies found that SET dramatically lowered multiple pregnancy rates (odds ratio 0.05, 95% CI: 0.04–0.06), meaning twins occurred in only about 5% of SET cases compared to much higher rates with double embryo transfer.\n\nWhile SET slightly decreased live birth probability per single transfer cycle (OR = 0.78, 95% CI: 0.71–0.85) compared to transferring two embryos, cumulative live birth rates become comparable when considering multiple SET cycles. Most importantly, multiple pregnancies from double embryo transfer carried substantial complications. SET recipients experienced significantly lower rates of cesarean delivery (OR = 0.64), preterm birth (OR = 0.25), low birth weight (OR = 0.20), and neonatal intensive care admission (OR = 0.30).\n\nHowever, recommendations are personalized based on your situation. In women aged 40 and older, differences between SET and double transfer become insignificant for both live birth and multiple pregnancy rates (LBR: OR = 0.87, 95% CI: 0.54–1.40, P = 0.565). When good-quality embryos are available, research shows no significant difference in live birth rates between one high-quality embryo versus two mixed-quality embryos (OR = 0.99, 95% CI: 0.77–1.27) - quality matters more than quantity.\n\nASRM's 2021 guidelines specifically recommend single embryo transfer for women under 38 with favorable prognosis, and strongly recommend it for all gestational carrier cycles. Your doctor will consider your age, embryo quality and availability, previous transfer outcomes, and medical history. The goal is a healthy singleton pregnancy - the safest outcome for both you and your baby.",
+    "tags": ["Embryo transfer", "Single embryo transfer", "SET", "Twin prevention", "Multiple pregnancy", "Safety"],
     "related_topics": [
       "Embryo Transfer",
+      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
       "Blastocyst",
       "Embryo Grading",
       "Frozen Embryo Transfer (FET)",
       "Embryo Cryopreservation",
-      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)"
+      "Advanced Maternal Age (AMA)"
     ],
     "reference": [
-      "https://doi.org/10.1016/j.fertnstert.2021.02.019",
-      "https://doi.org/10.1093/humrep/deaa182",
-      "https://doi.org/10.1016/j.fertnstert.2020.09.140"
+      "https://rbej.biomedcentral.com/articles/10.1186/s12958-022-00899-1",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/guidance-on-the-limits-to-the-number-of-embryos-to-transfer-a---committee-opinion-2021/"
     ]
   },
   {
-    "question": "What is a blastocyst and why does it matter?",
-    "short_answer": "A blastocyst is an embryo that has developed for 5-6 days in the lab and has formed two distinct cell types - the inner group that will become the baby and the outer layer that will become the placenta.",
-    "detailed_answer": "When an egg is fertilized, it starts as a single cell and begins dividing. By day 3, it's typically 6-8 cells. By day 5 or 6, if development continues well, it transforms into a blastocyst - a more complex structure with about 100-200 cells organized into two parts. The inner cell mass will form the actual baby, while the trophectoderm (outer layer) will become the placenta and support structures.\n\nWhy does this matter for you? Blastocysts that reach this stage have shown they have good developmental potential - they've passed several critical checkpoints. Transferring or freezing at the blastocyst stage allows your medical team to select embryos that are most likely to lead to pregnancy. Not all embryos make it to blastocyst stage, which can feel disappointing, but this natural selection process helps identify the strongest embryos. If your embryos don't reach blastocyst, your doctor will discuss why this happened and what adjustments might help in future cycles.",
-    "tags": ["Embryo development", "Blastocyst", "Embryo quality", "Day 5 transfer"],
+    "question": "What is a blastocyst?",
+    "short_answer": "A blastocyst is a day 5 or day 6 embryo that has developed two distinct cell types: an inner cell mass (which becomes the baby) and a trophectoderm (which becomes the placenta), along with a fluid-filled cavity.",
+    "detailed_answer": "After fertilization, embryos undergo several days of cell divisions. By day 5 or 6, successful embryos form blastocysts - a more advanced developmental stage where cells have organized into specialized structures. The inner cell mass (ICM) will develop into the fetus, while the outer layer called trophectoderm (TE) forms the placenta and facilitates implantation into the uterine lining. A fluid-filled cavity called the blastocoel expands within the embryo.\n\nRecent 2024 research has shown that trophectoderm quality is the strongest predictor of pregnancy success. When TE grade declined from A to C, live birth rates dropped from 37.9% to 18.3%, with an adjusted odds ratio of 1.370 (p=0.002). The TE's importance reflects its critical role in producing prostaglandins that facilitate implantation and mediating embryo-endometrium interaction. Interestingly, when choosing between blastocysts, a BA-graded embryo (ICM grade B, TE grade A) showed better outcomes (40.9% live birth) than an AB-graded embryo (32.1% live birth).\n\nBlastocysts are graded using the Gardner scale, which evaluates expansion status (1-6, with higher numbers indicating more expansion), inner cell mass quality (A-C, with A being best), and trophectoderm quality (A-C). A top-quality blastocyst might be graded 5AA or 6AA, while 5AB, 5BA, or 5BB are also considered high-quality. These grades help predict which embryos have the best chance of leading to pregnancy, though even average-graded blastocysts can result in healthy babies.\n\nBlastocysts typically reach full expansion approximately 116 hours after fertilization, with Day 5 blastocysts generally showing superior implantation rates compared to Day 6 blastocysts.",
+    "tags": ["Blastocyst", "Embryo development", "ICM", "Trophectoderm", "Embryo stages"],
     "related_topics": [
       "Blastocyst",
-      "Blastocyst Culture",
       "Blastocyst - Inner Cell Mass (ICM)",
       "Blastocyst - Trophectoderm (TE)",
+      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
       "Embryo Grading",
-      "Zygote",
-      "2-Cell Embryo",
-      "4-Cell Embryo",
-      "Morula"
+      "Embryo Development",
+      "In Vitro Fertilization (IVF)"
     ],
     "reference": [
-      "https://doi.org/10.1093/humrep/der251",
-      "https://doi.org/10.1016/j.fertnstert.2018.09.032",
-      "https://doi.org/10.1093/humupd/dmz010"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11595274/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8244376/"
     ]
   },
   {
     "question": "Will PGT-A (genetic testing) improve my chances of getting pregnant?",
-    "short_answer": "PGT-A helps identify embryos with the correct number of chromosomes, which may reduce miscarriage risk and help you get pregnant faster by avoiding transfers of embryos unlikely to succeed. However, it doesn't create better embryos or guarantee pregnancy.",
-    "detailed_answer": "PGT-A (preimplantation genetic testing for aneuploidy) is like a screening test that checks whether each embryo has the right number of chromosomes - 46 total, 23 from each parent. Embryos with too many or too few chromosomes (aneuploid embryos) usually don't implant, or if they do, often result in miscarriage. This is increasingly common as egg quality declines with age.\n\nThe test involves removing a few cells from the outer layer of each day-5/6 blastocyst and sending them to a genetics lab while the embryo is frozen. Results typically come back in 1-2 weeks. For some patients - especially those over 35, those with recurrent miscarriage, or those with multiple failed transfers - PGT-A can help by identifying which embryos are most likely to succeed, potentially reducing the emotional and physical toll of failed transfers or miscarriages.\n\nHowever, PGT-A has limitations. It doesn't test the inner cells that become the baby, only the outer layer. It cannot improve egg or sperm quality, and some normal embryos may be incorrectly labeled as abnormal (false positives). It adds cost and requires freezing all embryos. Your doctor can help determine if PGT-A makes sense for your specific situation.",
-    "tags": ["PGT-A", "Genetic testing", "Aneuploidy", "Miscarriage prevention", "Embryo testing"],
+    "short_answer": "PGT-A helps identify embryos with the correct number of chromosomes and shows the most benefit for women over 35 and those with recurrent pregnancy loss. For younger women with good prognosis, the benefits are less clear.",
+    "detailed_answer": "The evidence on PGT-A (preimplantation genetic testing for aneuploidy) is nuanced and depends heavily on your age and medical history. Recent research provides important insights:\n\nFor women over 35 years old, a 2024 meta-analysis found that PGT-A significantly improved live birth rates per patient (risk ratio 1.65, 95% CI 1.18-2.30, P=0.004) and clinical pregnancy rates per embryo transfer (RR 1.44, 95% CI 1.19-1.75, P=0.0002). In this age group, chromosomal abnormalities affect 70-80% of eggs, so identifying the normal embryos can reduce time to pregnancy and miscarriage risk. A 2021 network meta-analysis confirmed that PGT-A improved live birth rates strictly when performed on blastocyst stage embryos of women over the 35-year-old mark.\n\nFor women aged 35 and under with good prognosis, the picture is different. While PGT-A improved live birth rates per embryo transfer (RR 1.32, 95% CI 1.11-1.57, P=0.002), no significant difference appeared when measuring outcomes per patient (RR 0.97, 95% CI 0.87-1.09, P=0.59). ASRM's 2024 committee opinion states that the value of PGT-A as a routine screening test for all patients has not been demonstrated, with recent multicenter trials showing similar overall pregnancy outcomes between PGT-A and conventional IVF.\n\nFor patients with recurrent pregnancy loss or repeated implantation failure, the 2024 meta-analysis found PGT-A improved live birth rates (RR 1.47, 95% CI 1.14-1.90, P=0.003), though the evidence quality was rated as limited.\n\nImportant limitations: PGT-A tests only cells from the outer layer (trophectoderm, future placenta), not the cells that become the baby. It cannot fix egg quality, and false results can occur where normal embryos are incorrectly classified as abnormal. The procedure requires freezing all embryos and adds significant cost. Your doctor can help determine if PGT-A makes sense given your age, embryo count, and specific circumstances.",
+    "tags": ["PGT-A", "Genetic testing", "Aneuploidy screening", "Miscarriage prevention", "Advanced maternal age"],
     "related_topics": [
       "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
       "Embryo Biopsy Techniques",
       "Blastocyst - Trophectoderm (TE)",
       "Embryo Cryopreservation",
-      "Embryo Grading",
+      "Advanced Maternal Age (AMA)",
       "Oocyte (Egg Cell)",
-      "Advanced Maternal Age (AMA)"
+      "Recurrent Pregnancy Loss"
     ],
     "reference": [
-      "https://doi.org/10.1016/j.fertnstert.2020.09.140",
-      "https://doi.org/10.1093/humrep/deaa288",
-      "https://doi.org/10.1016/j.fertnstert.2021.03.008",
-      "https://doi.org/10.1097/GCO.0000000000000728"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11266849/",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/the-use-of-preimplantation-genetic-testing-for-aneuploidy-a-committee-opinion-2024/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417193/"
     ]
   },
   {
-    "question": "Is embryo biopsy safe? Will it harm my embryo?",
-    "short_answer": "Modern blastocyst biopsy is considered safe when performed by experienced labs. The procedure removes only a few cells from the outer layer (which becomes placenta, not baby) and doesn't appear to harm the embryo's potential.",
-    "detailed_answer": "It's completely natural to worry about anything that might affect your precious embryos. Here's what you should know: embryo biopsy is performed on day-5 or day-6 blastocysts, when the embryo has two distinct cell types. The embryologist removes 5-7 cells from only the trophectoderm - the outer layer that will become the placenta, not the baby itself. The inner cell mass, which develops into your baby, is not touched.\n\nLarge studies and systematic reviews have found that when biopsy is performed by trained embryologists in experienced labs, it doesn't reduce the chance of a healthy baby being born. However, like any medical procedure, it's not entirely without risk. That's why strict quality control is essential, and your clinic should have specific training and protocols for embryo biopsy.\n\nAfter biopsy, embryos are immediately frozen while the genetic analysis is performed. This freeze-all approach also gives your body time to recover from stimulation medications and prepares your uterus optimally for transfer. If you're concerned, ask your clinic about their embryologists' experience with biopsy and their success rates with biopsied embryos.",
-    "tags": ["Embryo biopsy", "Safety", "PGT", "Trophectoderm biopsy"],
+    "question": "Is embryo biopsy safe for the embryo?",
+    "short_answer": "Modern blastocyst-stage biopsy (trophectoderm biopsy) is widely used and generally considered safe when performed by trained embryologists, though research shows some potential associations with pregnancy complications that may be due to other factors.",
+    "detailed_answer": "Embryo biopsy for genetic testing is now standard practice, but understanding what research shows about safety helps with informed decision-making. A 2023 scoping review of 31 studies found that while sound evidence is lacking to fully address all potential consequences, available data provides important information.\n\nFor trophectoderm (blastocyst-stage) biopsy - the current standard - research shows mixed findings. The biopsy removes a few cells from the outer layer that becomes the placenta, not from the inner cell mass that becomes the baby. Some studies found possible associations with increased preterm deliveries (adjusted OR 1.20, 95% CI 1.09–1.33), hypertensive disorders of pregnancy, and birth defects. However, a 2024 study of 1,008 women aged 35 and under found that blastocyst biopsy might not increase risks of hypertensive disorders (aOR 1.45, 95% CI 0.82–2.55, P=0.204) or other adverse maternal and neonatal outcomes in the short term, though findings may not apply to women over 35.\n\nFor older cleavage-stage biopsy (day 3) - now rarely used - limited evidence suggests possible associations with low birthweight (aOR 2.0, 95% CI 1.1–3.9) and small for gestational age babies, which is one reason this approach has been largely abandoned.\n\nImportantly, the 2023 review noted that findings may be explained by confounders - other embryo manipulation procedures, patient characteristics, or the underlying fertility issues themselves rather than the biopsy. Double biopsy (re-biopsy of previously tested embryos) appears to reduce clinical pregnancy rates compared to single biopsy and should be avoided when possible.\n\nSince long-term health outcomes following embryo biopsy remain inadequately studied, an invasive PGT strategy should be developed with a cautious approach. Discuss with your doctor whether the potential benefits of PGT outweigh the uncertainties for your specific situation.",
+    "tags": ["Embryo biopsy", "PGT safety", "Trophectoderm biopsy", "Neonatal outcomes"],
     "related_topics": [
       "Embryo Biopsy Techniques",
       "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
-      "Preimplantation Genetic Testing for Monogenic Disorders (PGT-M)",
-      "Preimplantation Genetic Testing for Structural Rearrangements (PGT-SR)",
       "Blastocyst - Trophectoderm (TE)",
-      "Blastocyst - Inner Cell Mass (ICM)",
-      "Embryo Cryopreservation"
+      "Embryo Cryopreservation",
+      "Preimplantation Genetic Testing for Monogenic Disorders (PGT-M)"
     ],
     "reference": [
-      "https://doi.org/10.1093/hropen/hoaa020",
-      "https://doi.org/10.1016/j.fertnstert.2020.11.003",
-      "https://doi.org/10.1093/humrep/deab214"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10152168/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11770986/"
     ]
   },
   {
-    "question": "What makes a 'good' embryo? How are embryos graded?",
-    "short_answer": "Embryologists grade embryos based on how they look under the microscope - including cell number, symmetry, and fragmentation on day 3, or expansion and cell quality on day 5/6. Higher grades generally have better success rates, but even 'average' embryos can result in healthy babies.",
-    "detailed_answer": "Embryo grading is like giving a report card based on appearance and development speed, but it's important to remember that grades are not destiny. For early embryos (day 2-3), embryologists count cells, check if they're evenly sized, and look for fragmentation (broken cell pieces). For blastocysts (day 5-6), grading assesses three features: how expanded the embryo is, the quality of the inner cell mass (future baby), and the quality of the trophectoderm (future placenta). Grades typically use numbers and letters, like '4AA' or '3BB'.\n\nHigher-quality embryos (like those graded 'AA') have higher implantation rates than lower-quality embryos, which is why they're prioritized for transfer. However, this doesn't mean lower-graded embryos can't work - many babies are born from embryos initially graded as 'fair' or 'poor'. Grading helps your medical team make educated decisions, but it's just one piece of information.\n\nSome clinics use time-lapse imaging, which takes pictures of embryos every few minutes to track development patterns, potentially providing more information than single-time-point grading. Ultimately, the decision of which embryo to transfer considers grade along with other factors like genetic testing results, your medical history, and embryo availability.",
-    "tags": ["Embryo grading", "Embryo quality", "Blastocyst grading", "Time-lapse imaging"],
+    "question": "What is a good embryo grade?",
+    "short_answer": "Embryo grades combine appearance and development characteristics. For blastocysts, the Gardner grading system uses expansion (1-6) and letter grades for inner cell mass and trophectoderm (A-C), with higher grades associated with better success rates, though grades don't guarantee outcomes.",
+    "detailed_answer": "Embryo grading helps embryologists select which embryos have the best chance of leading to pregnancy, though it's important to understand that grading is predictive, not deterministic - lower-graded embryos can still result in healthy babies.\n\nThe Gardner blastocyst grading system evaluates three components: expansion and hatching status (1-6, with higher numbers indicating more expansion), inner cell mass quality (A-C, with A being best), and trophectoderm quality (A-C). A top-quality blastocyst might be graded 5AA or 6AA, while 5AB, 5BA, or 5BB are also considered high-quality.\n\nA 2023 multinational study analyzing blastocyst transfers found substantial differences in success by grade. Good-grade blastocysts (both ICM and TE graded A or B) achieved 44.4% live birth rates, moderate-grade blastocysts 38.6%, low-grade blastocysts (C in either ICM or TE) 30.2%, and very low-grade CC blastocysts 13.7%. When measuring fetal heart rates, good-quality embryos showed 71.2% success compared to 54.8% for fair quality and 33.3% for poor quality.\n\nResearch from 2021 found that trophectoderm grade has greater predictive power than inner cell mass grade. Trophectoderm A grades showed 65.3% fetal heart rates compared to 29.6% for C grades. When comparing embryos of similar expansion, those with better trophectoderm grades (BA configuration) had higher live birth rates (40.9%) than those with better inner cell mass grades (AB configuration, 32.1%).\n\nGrading quality also correlates with chromosomal normality, with the ratio of normal (euploid) versus abnormal embryos significantly decreasing with lower grades. However, even low-grade blastocysts can result in live births - the 2023 study showed that low-grade blastocysts still achieved over 15% live birth rates even in older women. Your doctor will consider grading alongside other factors when making transfer decisions.",
+    "tags": ["Embryo grading", "Blastocyst grading", "Gardner score", "Embryo quality", "Selection"],
     "related_topics": [
       "Embryo Grading",
-      "Blastocyst Culture",
-      "Time-Lapse Embryo Imaging",
+      "Blastocyst",
       "Blastocyst - Inner Cell Mass (ICM)",
       "Blastocyst - Trophectoderm (TE)",
-      "Embryo",
-      "Blastocyst"
+      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
+      "Embryo Selection"
     ],
     "reference": [
-      "https://doi.org/10.1093/humrep/der037",
-      "https://doi.org/10.1016/j.fertnstert.2020.09.140",
-      "https://doi.org/10.1093/humupd/dmz038"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8244376/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10694400/"
     ]
   },
   {
-    "question": "Why would my doctor recommend freezing all embryos instead of a fresh transfer?",
-    "short_answer": "Freeze-all (where all embryos are frozen and transfer happens in a later cycle) is often recommended to reduce the risk of ovarian hyperstimulation, allow time for genetic testing, or optimize your uterine lining for better implantation.",
-    "detailed_answer": "There are several good medical reasons your doctor might recommend a freeze-all strategy. First, if you had a strong response to stimulation medications and developed many follicles, the high hormone levels can put you at risk for ovarian hyperstimulation syndrome (OHSS). Freezing all embryos and avoiding pregnancy that cycle dramatically reduces this risk.\n\nSecond, if you're doing genetic testing (PGT-A), results take 1-2 weeks, so all embryos must be frozen while waiting for results. Third, some studies suggest that frozen embryo transfer (FET) may have higher success rates than fresh transfer for some patients, possibly because the uterine lining is more receptive without the super-high hormone levels from stimulation.\n\nFinally, freeze-all gives your body time to recover from stimulation before attempting pregnancy. Your uterine lining can be optimized with natural cycle timing or programmed with medications to be perfectly receptive when your embryo is thawed and transferred. While it means waiting an extra 4-8 weeks before transfer, modern freezing techniques (vitrification) mean embryos survive thawing 95-99% of the time with no loss of quality. Your doctor will explain which specific reason applies to your situation.",
-    "tags": ["Freeze-all", "OHSS prevention", "FET", "Embryo freezing strategy"],
+    "question": "What is a 'freeze-all' cycle?",
+    "short_answer": "In a freeze-all cycle, all embryos are frozen after egg retrieval and fertilization, with transfer happening in a later cycle. This strategy prevents ovarian hyperstimulation, allows time for genetic testing, or optimizes uterine conditions.",
+    "detailed_answer": "A freeze-all (or elective embryo cryopreservation) strategy means no fresh embryo transfer occurs in the same cycle as egg retrieval. Instead, all viable embryos are frozen, and transfer happens in a subsequent frozen embryo transfer (FET) cycle. Recent research has clarified when this approach provides the most benefit.\n\nThe primary medical indication is preventing ovarian hyperstimulation syndrome (OHSS). A large randomized trial of 1,508 PCOS patients found that OHSS occurred in only 1.3% of freeze-all cycles versus 7.1% of fresh transfer cycles. In this same trial, live birth rate after first embryo transfer was higher with freeze-all (49.3% versus 42.0%). Research shows moderate to severe OHSS rates of 0.5–1.3% with freeze-all compared to 1.0–7.1% with fresh transfer in high-responder populations.\n\nFor pregnancy outcomes, a 2025 editorial reviewing recent evidence found freeze-all shows clear benefits for specific populations: women with polycystic ovary syndrome, high responders at risk for OHSS, and patients undergoing preimplantation genetic testing (where PGT-A results require time, making freeze-all necessary). In PCOS/high-responder groups, live birth rates improved with freeze-all. However, for normal responders, current evidence shows no significant benefit - multiple large randomized trials demonstrated no improvement in live birth rates with freeze-all compared to fresh transfer in this population.\n\nOther medical indications for freeze-all include: elevated progesterone levels at cycle end, endometrial polyps or pathology, hydrosalpinx (fluid-filled fallopian tube), day 6 blastocysts, or personal circumstances requiring delayed transfer.\n\nImportant consideration: While freeze-all reduces OHSS risk, frozen embryo transfer is associated with increased obstetric complications including pre-eclampsia and fetal overgrowth (macrosomia) in some studies. Your doctor will weigh these factors when recommending fresh versus freeze-all strategy based on your individual situation.",
+    "tags": ["Freeze-all", "Frozen embryo transfer", "FET", "OHSS prevention", "IVF strategy"],
     "related_topics": [
       "Embryo Cryopreservation",
       "Frozen Embryo Transfer (FET)",
       "Ovarian Hyperstimulation Syndrome (OHSS)",
-      "Vitrification",
-      "Endometrial Preparation for FET",
+      "Ovarian Stimulation",
+      "Polycystic Ovary Syndrome (PCOS)",
       "Preimplantation Genetic Testing for Aneuploidy (PGT-A)"
     ],
     "reference": [
-      "https://doi.org/10.1186/s12958-021-00869-z",
-      "https://doi.org/10.1093/humrep/dey298",
-      "https://doi.org/10.1016/j.fertnstert.2019.01.151"
+      "https://rbej.biomedcentral.com/articles/10.1186/s12958-025-01459-z",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7720992/"
     ]
   },
   {
-    "question": "How long can embryos stay frozen? Do they 'expire'?",
-    "short_answer": "Frozen embryos can remain viable for many years - even decades - without losing quality. The freezing process essentially stops time, preserving embryos at the exact same state they were in when frozen.",
-    "detailed_answer": "One of the most reassuring aspects of embryo freezing is that there's no expiration date. Embryos are stored in liquid nitrogen at -196°C (-321°F), a temperature so cold that all biological activity completely stops. Time essentially freezes for the embryo. Scientific studies have documented successful pregnancies and healthy babies from embryos frozen for 10, 15, even 20+ years.\n\nThe key is proper storage conditions, which fertility clinics maintain with sophisticated monitoring systems. Storage tanks are equipped with alarms and backup systems, and liquid nitrogen levels are checked regularly. Your clinic will ask you to complete annual storage consent forms and pay storage fees to maintain your embryos safely.\n\nThe only 'aging' that matters is your age when the eggs were collected. If you froze embryos at age 30, they remain 'biologically 30' even if you use them at age 40. This is why fertility preservation through egg or embryo freezing at a younger age can be so valuable. When you're ready to use your frozen embryos, they'll be carefully thawed using specialized warming techniques that result in 95-99% survival rates. Your clinic will walk you through all the storage logistics and help you plan for your future family timeline.",
-    "tags": ["Embryo freezing", "Long-term storage", "Vitrification", "Storage duration"],
+    "question": "How long do frozen embryos last?",
+    "short_answer": "Properly stored embryos in liquid nitrogen can remain viable for many years - research shows successful pregnancies and healthy births after storage periods of 10+ years, with no evidence of time limits affecting outcomes.",
+    "detailed_answer": "Embryos are stored in liquid nitrogen at extremely low temperatures (around -196°C or -321°F), which essentially pauses all biological activity. This cryopreservation preserves embryos indefinitely from a biological standpoint, and research continues to support the safety of long-term storage.\n\nA comprehensive 2024 study analyzing 58,001 vitrified blastocysts over 11 years demonstrated no association between storage duration and clinical outcomes. The multivariable analysis found no relationship between storage time and live birth rate in any group. The researchers concluded that variables like patient age, blastocyst quality, and body mass index were more responsible for outcomes than storage time, providing evidence for the safety of embryo vitrification even after long storage periods.\n\nA 2022 systematic review and meta-analysis examined 18,047 embryos across 5 studies, comparing storage beyond 12 months versus ≤12 months. The analysis found no significant differences in live birth rate, miscarriage rate, or major malformations among newborns between the two groups. The researchers concluded that embryo long-term cryopreservation is safe beyond 12 months, supporting its use for patients with surplus embryos or those seeking additional children later.\n\nA 2023 study tracking 1,037 women with embryo storage periods ranging from 1 to 84 months (up to 7 years) found that pregnancy and neonatal outcomes were not impaired by storage duration. No meaningful differences appeared in clinical pregnancy rates, live birth rates, preterm birth incidence, or neonatal health measures.\n\nPractically, this means you can safely store embryos while completing your family, waiting for the right time, or banking embryos while younger. Clinics follow strict storage and monitoring protocols, and you'll typically pay annual storage fees. The biological clock for stored embryos essentially stops at the age you were when they were created.",
+    "tags": ["Embryo freezing", "Cryopreservation", "Vitrification", "Storage duration", "Long-term storage"],
     "related_topics": [
       "Embryo Cryopreservation",
-      "Vitrification",
       "Frozen Embryo Transfer (FET)",
-      "Oocyte Cryopreservation (Egg Freezing)",
-      "Legal & Ethics in Third-Party Reproduction"
+      "Vitrification",
+      "Blastocyst"
     ],
     "reference": [
-      "https://doi.org/10.1093/humupd/dmw038",
-      "https://doi.org/10.1016/j.fertnstert.2018.09.006",
-      "https://doi.org/10.1093/humrep/dez019"
-    ]
-  },
-  {
-    "question": "What is AMH and what does my level mean for my fertility?",
-    "short_answer": "AMH (Anti-Müllerian Hormone) is a blood test that estimates your ovarian reserve - roughly how many eggs remain in your ovaries. It helps predict how you'll respond to stimulation medications but doesn't directly predict your ability to get pregnant naturally.",
-    "detailed_answer": "Think of AMH as a 'fuel gauge' for your egg supply, though it's not a perfect measure. AMH is produced by the small developing follicles in your ovaries, so higher levels suggest more eggs available, while lower levels suggest fewer eggs. This information is valuable for planning IVF treatment - it helps your doctor choose the right medication dose and set realistic expectations for how many eggs might be retrieved.\n\nHowever, AMH has important limitations. It tells quantity, not quality. You could have low AMH but still have high-quality eggs that fertilize and develop beautifully. Conversely, high AMH (often seen with PCOS) doesn't guarantee good egg quality. AMH also doesn't predict your natural fertility month to month - you only need one good egg to conceive naturally, regardless of your AMH.\n\nTypical ranges: Very low (<0.5 ng/mL) suggests diminished reserve; low (0.5-1.0 ng/mL) suggests low reserve; normal (1.0-3.0 ng/mL); high (>3.0 ng/mL) suggests strong reserve or possibly PCOS. Remember, these are guidelines, not strict cutoffs. Age, overall health, and other fertility factors matter just as much. If your AMH is low, it doesn't mean you can't conceive, but it may mean time is more important and you should pursue treatment sooner rather than later.",
-    "tags": ["AMH", "Ovarian reserve", "Fertility testing", "Egg supply"],
-    "related_topics": [
-      "Anti-Mullerian Hormone (AMH) Test",
-      "Ovarian Stimulation",
-      "Follicle",
-      "Oocyte (Egg Cell)",
-      "Antral Follicle Count (AFC) Ultrasound",
-      "Diminished Ovarian Reserve",
-      "Polycystic Ovary Syndrome (PCOS)"
-    ],
-    "reference": [
-      "https://doi.org/10.1093/humupd/dmy034",
-      "https://doi.org/10.1016/j.fertnstert.2020.11.008",
-      "https://doi.org/10.1093/humrep/deaa014"
-    ]
-  },
-  {
-    "question": "What's the difference between a day-3 and day-5 embryo transfer?",
-    "short_answer": "Day-3 embryos (cleavage stage) are younger with 6-8 cells, while day-5/6 embryos (blastocysts) are more developed with 100+ cells and clear structure. Most clinics prefer blastocyst transfer when possible because it allows better embryo selection.",
-    "detailed_answer": "This question gets to one of the strategic decisions in IVF. When eggs are fertilized, they begin dividing: 1 cell becomes 2, then 4, then 8, and so on. By day 3, a normally developing embryo has 6-8 cells (cleavage stage). By day 5 or 6, successful embryos have divided into 100-200 cells and formed a blastocyst with two distinct cell types.\n\nGrowing embryos to blastocyst stage has several advantages. It allows natural selection to identify embryos with the best developmental potential - not all embryos that look good on day 3 will make it to day 5. Blastocysts have higher implantation rates per transfer, and their developmental stage better matches the timing of natural implantation. Blastocyst culture also works better with genetic testing and embryo freezing.\n\nHowever, blastocyst culture isn't always the right choice. If you have very few embryos (typically fewer than 3-4), your doctor might recommend day-3 transfer, reasoning that the embryos might do better in your body than in the laboratory. Some patients have embryos that arrest (stop developing) between day 3 and 5, and waiting could mean having no embryos to transfer.\n\nYour clinic will recommend the approach most likely to succeed based on your egg count, embryo quality, and previous cycle outcomes. The goal is always to give you the best chance of a healthy pregnancy.",
-    "tags": ["Transfer timing", "Cleavage stage", "Blastocyst", "Day 3 vs day 5"],
-    "related_topics": [
-      "Blastocyst Culture",
-      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
-      "Embryo Grading",
-      "2-Cell Embryo",
-      "4-Cell Embryo",
-      "Morula",
-      "Blastocyst",
-      "In Vitro Fertilization (IVF)"
-    ],
-    "reference": [
-      "https://doi.org/10.1002/14651858.CD002118.pub6",
-      "https://doi.org/10.1093/humrep/dey347",
-      "https://doi.org/10.1016/j.fertnstert.2019.08.049"
-    ]
-  },
-  {
-    "question": "Can changing my lifestyle really improve my IVF success?",
-    "short_answer": "Yes. Smoking cessation, maintaining a healthy weight, limiting alcohol, reducing stress, and eating a balanced diet can all positively impact fertility treatment outcomes.",
-    "detailed_answer": "Your lifestyle choices directly affect the quality of eggs and sperm produced, which impacts IVF success. Here's what the science shows has the strongest effects:\n\nSmoking is the most harmful habit for fertility - it damages egg and sperm DNA, reduces ovarian reserve, and lowers IVF success rates by 30-50%. Quitting smoking for at least 3 months before treatment makes a real difference. Heavy alcohol use (more than 2 drinks daily) also reduces success rates, though moderate intake appears less harmful.\n\nBody weight significantly impacts outcomes. Both underweight (BMI <18.5) and overweight (BMI >30) conditions can reduce IVF success and increase pregnancy complications. Even modest weight loss of 5-10% can improve outcomes if you're overweight. Regular moderate exercise supports healthy weight and reduces stress, though extreme exercise may interfere with hormones.\n\nNutrition matters too. A Mediterranean-style diet rich in vegetables, fruits, whole grains, fish, and healthy fats has been associated with better fertility outcomes. Prenatal vitamins with folic acid are recommended for all women trying to conceive. For men, antioxidants like vitamin C, vitamin E, and CoQ10 may improve sperm quality, though research is mixed.\n\nStress management is valuable, not because stress prevents pregnancy, but because IVF is emotionally taxing. Mind-body practices, counseling, support groups, acupuncture, and good sleep hygiene can help you cope better with the treatment journey. Taking care of your overall health positions you for the best possible outcome.",
-    "tags": ["Lifestyle", "Diet", "Exercise", "Smoking", "Weight", "IVF success factors"],
-    "related_topics": [
-      "Oocyte (Egg Cell)",
-      "Sperm",
-      "Ovarian Stimulation",
-      "In Vitro Fertilization (IVF)",
-      "Semen Analysis",
-      "Body Mass Index (BMI) - Underweight",
-      "Body Mass Index (BMI) - Overweight or Obese"
-    ],
-    "reference": [
-      "https://doi.org/10.1093/humupd/dmaa014",
-      "https://doi.org/10.1016/j.fertnstert.2019.06.036",
-      "https://doi.org/10.1093/humrep/dey003",
-      "https://doi.org/10.1016/j.fertnstert.2020.08.090"
-    ]
-  },
-  {
-    "question": "What is OHSS and how worried should I be?",
-    "short_answer": "OHSS (Ovarian Hyperstimulation Syndrome) is when ovaries respond too strongly to fertility medications, causing them to swell and leak fluid. While concerning, severe OHSS is rare, and your clinic uses multiple strategies to prevent and manage it.",
-    "detailed_answer": "Let's demystify OHSS because while it sounds scary, modern protocols have made severe cases rare. OHSS occurs when ovaries over-respond to stimulation medications, developing many follicles and producing very high hormone levels. This causes the ovaries to swell significantly and leak fluid into the abdomen and sometimes the chest cavity.\n\nMild OHSS (bloating, mild discomfort) affects 20-33% of IVF patients and resolves on its own within a week. Moderate OHSS (more bloating, nausea, some weight gain) affects 3-6% of patients and needs close monitoring but typically resolves without hospitalization. Severe OHSS (difficulty breathing, severe pain, rapid weight gain, decreased urination) is rare (1-2%) but requires urgent medical care.\n\nWho's at higher risk? Women with PCOS, those under 35, previous OHSS, high AMH levels, or when many follicles develop during stimulation. Your clinic monitors you carefully with ultrasounds and blood tests to catch early warning signs. Prevention strategies include: using lower medication doses, triggering with Lupron instead of hCG, reducing physical activity, freezing all embryos instead of fresh transfer, or canceling the cycle if risk is very high.\n\nIf you develop OHSS symptoms - severe bloating, rapid weight gain (2+ pounds per day), difficulty breathing, decreased urination, or severe abdominal pain - contact your clinic immediately. Most cases are managed with rest, hydration, close monitoring, and sometimes medication. The condition typically resolves within 1-2 weeks. Your medical team's goal is keeping you safe while maximizing your chances of success.",
-    "tags": ["OHSS", "Safety", "Ovarian stimulation complications", "Prevention"],
-    "related_topics": [
-      "Ovarian Hyperstimulation Syndrome (OHSS)",
-      "Ovarian Stimulation",
-      "Gonadotropins (FSH, hMG)",
-      "Human Chorionic Gonadotropin (hCG) Trigger",
-      "GnRH Agonists",
-      "Polycystic Ovary Syndrome (PCOS)",
-      "Embryo Cryopreservation"
-    ],
-    "reference": [
-      "https://doi.org/10.1093/humupd/dmaa006",
-      "https://doi.org/10.1016/j.fertnstert.2019.09.027",
-      "https://doi.org/10.1093/humrep/dey218"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9050987/",
+      "https://pubmed.ncbi.nlm.nih.gov/38527601/",
+      "https://pubmed.ncbi.nlm.nih.gov/36998477/"
     ]
   },
   {
     "question": "Why does age matter so much for fertility?",
-    "short_answer": "Age affects both the quantity and quality of eggs. As women age, fewer eggs remain, and the eggs that remain have higher rates of chromosomal errors, which makes conception harder and miscarriage more likely.",
-    "detailed_answer": "Age is the single most important factor affecting female fertility, and understanding why helps with realistic planning. Women are born with all the eggs they'll ever have - about 1-2 million. By puberty, only about 300,000 remain. Every month, multiple eggs are recruited but typically only one matures and is released. This steady depletion continues regardless of birth control use, pregnancy, or health.\n\nBy the mid-30s, egg quantity declines noticeably. By 40, most women have only 3% of their original egg supply remaining. But quantity isn't the only issue - quality matters even more. As eggs age inside the body, they accumulate chromosomal errors. At age 25, about 25% of eggs have chromosomal abnormalities. By age 40, this rises to 70-80%. By age 43, over 90% of eggs are chromosomally abnormal. These abnormal eggs either don't fertilize, don't develop properly, don't implant, or result in miscarriage.\n\nThis explains why IVF success rates decline with age. At 35, about 40% of IVF cycles result in live birth. At 40, it drops to 20%. By 43, it's under 10%. More stimulation medication and more eggs retrieved can't overcome the core issue of egg quality. Male age also matters, but less dramatically - sperm quality declines gradually after 40.\n\nThe good news: if you're younger and not ready for children, egg freezing can preserve your eggs at their current quality. If you're older, treatments like IVF with genetic testing can help identify normal embryos. And donor eggs remain an excellent option with high success rates at any age. Your doctor can help you understand how your specific age affects your options and develop a personalized plan.",
-    "tags": ["Age", "Egg quality", "Ovarian reserve", "Success rates", "Chromosomal abnormalities"],
+    "short_answer": "Age affects both the quantity and quality of eggs. As women age, fewer eggs remain in the ovaries and chromosomal errors in eggs increase dramatically - from about 30% in women under 35 to over 90% in women over 44.",
+    "detailed_answer": "Maternal age is the single most significant factor affecting fertility outcomes, and understanding the science helps with realistic planning. Research shows that increased maternal age is highly correlated with increased aneuploidy (chromosomal abnormalities) in both naturally conceived embryos and IVF embryos.\n\nThe numbers tell a stark story: aneuploidy rates in human blastocysts increase from approximately 30% in women younger than 35 to over 90% in women older than 44. The threshold at age 35 marks when blastocyst aneuploidy rate shows a dramatic impact. By the mid-to-late 40s, the chance of producing a chromosomally normal blastocyst might be even lower than 5%. Over 90% of embryonic aneuploidies originate from maternal sources, primarily through errors during egg development (meiosis). These abnormal eggs either don't fertilize, don't develop into viable embryos, don't implant, or result in miscarriage.\n\nThe practical implications are significant: research shows that women aged 35–37 need approximately 5 eggs to identify one chromosomally normal embryo, women 38–40 need 7 eggs, women 41–42 need 10 eggs, and women over 42 need approximately 20 eggs. This explains why IVF success rates decline with age even when retrieving multiple eggs - more stimulation medication and more eggs cannot overcome the fundamental issue of chromosomal errors.\n\nBeyond egg quality, quantity also declines with age. Women are born with all the eggs they'll ever have - about 1-2 million at birth, declining to about 300,000-400,000 by puberty. By the mid-30s, egg quantity drops noticeably, and by age 40, only about 3% of the original supply remains. This depletion continues regardless of health, birth control use, or pregnancy.\n\nHowever, important points provide hope: If you're younger and not ready for children, egg freezing preserves eggs at their current quality. For older women, treatments like IVF with genetic testing can identify the normal embryos. Donor eggs provide excellent success rates at any recipient age because success depends on the donor's age (typically under 30), not yours.",
+    "tags": ["Maternal age", "Egg quality", "Aneuploidy", "Chromosomal abnormalities", "Ovarian reserve", "Age-related fertility decline"],
     "related_topics": [
       "Oocyte (Egg Cell)",
       "Advanced Maternal Age (AMA)",
@@ -251,165 +159,233 @@
       "Preimplantation Genetic Testing for Aneuploidy (PGT-A)",
       "Oocyte Cryopreservation (Egg Freezing)",
       "Donor Egg IVF",
-      "Anti-Mullerian Hormone (AMH) Test"
+      "Anti-Mullerian Hormone (AMH) Test",
+      "Antral Follicle Count (AFC) Ultrasound"
     ],
     "reference": [
-      "https://doi.org/10.1093/humrep/dex325",
-      "https://doi.org/10.1016/j.fertnstert.2020.11.008",
-      "https://doi.org/10.1093/humupd/dmx017",
-      "https://doi.org/10.1016/j.fertnstert.2019.06.011"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6033961/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6391863/"
     ]
   },
   {
-    "question": "What do the numbers in a semen analysis mean?",
-    "short_answer": "A semen analysis measures volume (amount of fluid), concentration (sperm per mL), motility (percentage moving forward), and morphology (percentage with normal shape). These factors together indicate sperm health and fertilization potential.",
-    "detailed_answer": "A semen analysis can feel like decoding a foreign language, so let's break down what matters. The World Health Organization (WHO) sets reference ranges based on men who recently achieved pregnancy:\n\nVolume: 1.5 mL or more. Lower volume might suggest incomplete collection, short abstinence period, or blockage in reproductive ducts.\n\nConcentration: 15 million sperm per mL or more (total count 39 million or more). Lower counts (oligospermia) make conception harder but not impossible - even low counts can succeed with ICSI.\n\nProgressive motility: 32% or more moving forward in straight lines. Sperm need to swim through the female reproductive tract, so movement matters. Poor motility suggests ICSI may help.\n\nMorphology: 4% or more with normal shape (strict Kruger criteria). This is the most variable parameter and hardest to interpret. Many healthy, fertile men have low normal morphology.\n\nOther factors: pH, white blood cells (infection), and vitality (percentage alive) provide additional information.\n\nImportant caveats: Results vary significantly between samples - lifestyle, illness, stress, and abstinence time all affect results. That's why abnormal results should be confirmed with a second test 2-3 months later. Reference ranges are not pass/fail cutoffs - they represent averages from fertile men. Many men with 'abnormal' values father children, especially with assisted reproduction. If values are concerning, your doctor may recommend lifestyle changes, further testing for causes, or treatment approaches like IUI or IVF with ICSI. The goal is finding the right path forward for your specific situation.",
-    "tags": ["Semen analysis", "Male fertility", "Sperm parameters", "WHO reference values"],
+    "question": "What is AMH and what does it tell me?",
+    "short_answer": "AMH (anti-Müllerian hormone) is a hormone produced by small growing follicles in the ovaries. It reflects your ovarian reserve - the number of eggs potentially available - and helps predict how your ovaries will respond to IVF stimulation, though it doesn't predict pregnancy success.",
+    "detailed_answer": "Anti-Müllerian hormone (AMH) is produced by granulosa cells in small, growing follicles in the ovary. Because serum AMH levels strongly correlate with the number of growing follicles, it has become the best available measure of ovarian reserve - essentially, how many eggs you have remaining.\n\nWhat AMH predicts well: Research consistently shows that AMH accurately predicts ovarian response to stimulation medications. Studies demonstrate that AMH has the highest accuracy in predicting excessive ovarian response and poor response, with area-under-curve values around 0.78-0.81 for poor response prediction. Higher AMH typically means more eggs will be retrieved during IVF, while lower AMH suggests fewer eggs will develop with stimulation.\n\nWhat AMH doesn't predict well: Despite its value for predicting egg numbers, AMH shows very low predictive value for pregnancy rate after IVF, with an AUC of only 0.50 and 0.55 - barely better than chance. A meta-analysis concluded that changing medication dosage based on AMH and other ovarian reserve tests does not significantly increase chances of pregnancy and live birth. This is because AMH measures quantity, not quality - and egg quality (largely determined by age) matters more for pregnancy success.\n\nImportant context: Even women with extremely low AMH values (<0.16 ng/mL) achieved a live birth rate of 9.5% per cycle in one analysis, which is why current guidelines state that data do not support using a low AMH value to refuse treatment. AMH levels can vary between testing methods, and the lack of an international AMH standard limits development of universal cutoff values.\n\nYour doctor uses AMH alongside other tests (like antral follicle count) to predict how many eggs you might retrieve and to personalize your medication dosing, but AMH alone doesn't predict whether IVF will succeed in achieving pregnancy.",
+    "tags": ["AMH", "Ovarian reserve", "Testing", "Egg supply", "Fertility testing"],
     "related_topics": [
-      "Semen Analysis",
-      "Sperm",
-      "Semen",
-      "Oligospermia",
-      "Teratozoospermia",
-      "Azoospermia",
-      "Fertilization - Intracytoplasmic Sperm Injection (ICSI)",
-      "Intrauterine Insemination (IUI)"
-    ],
-    "reference": [
-      "https://doi.org/10.1093/humupd/dmw048",
-      "https://www.who.int/publications/i/item/9789240030787",
-      "https://doi.org/10.1016/j.fertnstert.2020.11.015"
-    ]
-  },
-  {
-    "question": "How much will egg retrieval hurt? What should I expect?",
-    "short_answer": "Most people have minimal pain during egg retrieval itself because you're sedated or asleep. Afterward, expect cramping, bloating, and soreness similar to strong period cramps, typically manageable with over-the-counter pain medication and rest for 1-2 days.",
-    "detailed_answer": "Let's walk through what actually happens so you know what to expect. Egg retrieval is performed under IV sedation (twilight anesthesia) or general anesthesia, so you won't feel the procedure itself. You'll be drowsy or completely asleep. The doctor uses a thin needle guided by vaginal ultrasound to aspirate fluid and eggs from each follicle in both ovaries. The procedure typically takes 15-30 minutes depending on how many follicles you have.\n\nWhen you wake up, you'll feel groggy from anesthesia. As the sedation wears off over 30-60 minutes in recovery, you'll start feeling cramping and pressure in your pelvis. This feels like moderate to strong period cramps. Your ovaries are swollen from stimulation and now have small puncture sites from the needle, causing soreness. Some people also feel bloated or have mild nausea from anesthesia.\n\nFor the first 24-48 hours after retrieval, expect to feel tired, crampy, and bloated. Most people manage well with ibuprofen or Tylenol, heating pads, rest, and light activities. Avoid strenuous exercise, heavy lifting, and sexual intercourse for about a week. Bloating typically peaks 2-3 days after retrieval and gradually improves over the following week.\n\nWarning signs that need immediate attention: severe pain not controlled by medication, fever over 101°F, heavy vaginal bleeding, difficulty breathing, or rapid weight gain (sign of OHSS). These are rare but important to watch for. Most people feel back to normal within 3-5 days. Take the day of retrieval off work, and possibly the next day if you have a physically demanding job. You'll need someone to drive you home because of anesthesia. Your clinic will provide specific instructions and a phone number to call with concerns.",
-    "tags": ["Egg retrieval", "Pain management", "Recovery", "Procedure expectations"],
-    "related_topics": [
-      "Oocyte Pickup (OPU)",
+      "Anti-Mullerian Hormone (AMH) Test",
       "Ovarian Stimulation",
-      "Ovaries",
+      "Diminished Ovarian Reserve",
+      "Antral Follicle Count (AFC) Ultrasound",
       "Follicle",
       "Oocyte (Egg Cell)",
-      "OPU Drug - Midazolam",
-      "OPU Drug - Fentanyl",
       "Ovarian Hyperstimulation Syndrome (OHSS)"
     ],
     "reference": [
-      "https://doi.org/10.1016/j.fertnstert.2020.09.140",
-      "https://doi.org/10.1093/humrep/dey073"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7486884/",
+      "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/jog.15818",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/testing-and-interpreting-measures-of-ovarian-reserve-a-committee-opinion-2020/"
     ]
   },
   {
-    "question": "What's the difference between embryo donation and embryo adoption?",
-    "short_answer": "'Embryo donation' is the medical term for receiving embryos created by another couple/individual who completed their family building. 'Embryo adoption' is sometimes used by specific programs but legally, you're receiving a donation, not adopting in the traditional legal sense.",
-    "detailed_answer": "The terminology can be confusing because different programs and organizations use different words for the same process. Here's what's actually happening: couples or individuals who have completed their families through IVF sometimes have embryos remaining in frozen storage. Rather than discarding them or donating them to research, they may choose to donate them to another family hoping to have children.\n\nFrom a medical and legal standpoint, this is 'embryo donation.' You receive donated embryos, have them transferred to your uterus, and if pregnancy occurs, you carry the pregnancy and give birth. The child is legally yours from birth - no adoption process is required because you're the birth mother. However, some faith-based or private programs prefer the term 'embryo adoption' to emphasize the respect and dignity of the embryo, and they may structure the process similarly to traditional adoption with profiles, matching, and contact agreements.\n\nThe process typically involves: medical screening for you and your partner, psychological counseling, legal contracts clarifying parental rights and future contact (anonymous vs. known donors), infectious disease testing, and cycle coordination for embryo transfer. Success rates depend primarily on the embryo quality and your age/uterine health, not the donor's age (since embryos were created years earlier).\n\nKey considerations: Will you know the genetic parents? Will your child have access to genetic family medical history? How will you explain their origins? These are important family decisions to discuss during counseling. Whether you call it donation or adoption, the outcome is the same - the opportunity to experience pregnancy and build your family.",
-    "tags": ["Embryo donation", "Embryo adoption", "Third-party reproduction", "Legal considerations"],
+    "question": "What does day-3 vs day-5 transfer mean?",
+    "short_answer": "Day-3 transfer uses cleavage-stage embryos (6-8 cells), while day-5 transfer uses blastocysts (more developed with 100+ cells). The 2022 Cochrane review found day-5 transfer improves live birth rates slightly but increases risk of having no embryos to transfer.",
+    "detailed_answer": "The timing of embryo transfer represents a choice between transferring earlier-stage embryos versus allowing extended culture to select more developed embryos. Day-3 embryos are at the cleavage stage with typically 6-8 cells, while day-5 (or sometimes day-6) embryos have developed into blastocysts with distinct structures and 100+ cells.\n\nThe most comprehensive evidence comes from a 2022 Cochrane review including 32 randomized controlled trials with 5,821 women. The review found that fresh blastocyst-stage transfer showed higher live birth rates with an odds ratio of 1.27 (95% CI 1.06-1.51). This means if 31% of women achieve live birth after day-3 transfer, between 32-41% would do so after day-5 transfer - a modest but meaningful improvement.\n\nClinical pregnancy rates also favored day-5 transfer: OR 1.25 (95% CI 1.12-1.39), suggesting that if 39% achieve clinical pregnancy with day-3 transfer, 42-47% would with day-5 transfer.\n\nHowever, important tradeoffs exist: Day-5 transfer showed significantly higher cycle cancellation rates (OR 2.50, 95% CI 1.76-3.55), meaning 2-4% of patients had no embryos available for transfer versus 1% with day-3. Additionally, fewer embryos were available for freezing with extended culture (OR 0.48, 95% CI 0.40-0.57), reducing future pregnancy opportunities. The review found uncertainty about whether blastocyst transfer improves cumulative pregnancy rates when including frozen cycles.\n\nMost clinics now prefer blastocyst transfer when sufficient embryos are developing, as it allows better embryo selection and may improve fresh transfer success. However, for patients with few embryos, day-3 transfer ensures embryos can be transferred and avoids the risk of none surviving to day 5. Your doctor will recommend timing based on your embryo number and development.",
+    "tags": ["Transfer timing", "Blastocyst transfer", "Cleavage stage", "Day 3", "Day 5", "Embryo culture"],
     "related_topics": [
-      "Embryo Cryopreservation",
-      "Frozen Embryo Transfer (FET)",
-      "Legal & Ethics in Third-Party Reproduction",
-      "Donor Selection & Counseling",
-      "Endometrial Preparation for FET"
+      "Fresh Embryo Transfer - Day Three (Cleavage Stage)",
+      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
+      "Blastocyst",
+      "Embryo Development",
+      "Embryo Grading",
+      "In Vitro Fertilization (IVF)"
     ],
     "reference": [
-      "https://doi.org/10.1016/j.fertnstert.2020.09.020",
-      "https://doi.org/10.1093/humrep/dey063"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9119424/",
+      "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002118.pub6/abstract",
+      "https://www.cochrane.org/CD002118/MENSTR_blastocyst-versus-cleavage-stage-embryo-transfer-assisted-conception"
     ]
   },
   {
-    "question": "Do supplements actually help improve egg or sperm quality?",
-    "short_answer": "Some supplements show promise in research, particularly antioxidants like CoQ10 for eggs and vitamins C and E for sperm, but evidence is mixed and quality varies significantly. Always discuss with your doctor before taking supplements during fertility treatment.",
-    "detailed_answer": "This is one of the most common questions because we all want to feel like we're doing everything possible. Here's what we know from research:\n\nFor women: CoQ10 (ubiquinol form, 200-600mg daily) has the most promising evidence for potentially improving egg quality, particularly in women over 35. DHEA (25-75mg daily) may help some women with diminished ovarian reserve, though evidence is inconsistent. Myo-inositol (2-4g daily) may benefit women with PCOS. All women trying to conceive should take prenatal vitamins with at least 400-800mcg folic acid to prevent neural tube defects. Vitamin D deficiency should be corrected, as optimal levels support fertility and pregnancy.\n\nFor men: Antioxidants appear most beneficial, particularly for men with high sperm DNA fragmentation. Vitamin C (500-1000mg), Vitamin E (400-600 IU), CoQ10 (200-300mg), zinc (25-50mg), selenium (200mcg), and L-carnitine (1-3g) have shown some benefits in studies. However, results are inconsistent, and more isn't better - excessive doses can cause harm.\n\nThe challenges with supplements: They're not FDA-regulated for quality or potency, so brands vary widely. Most studies are small with conflicting results. Supplements can interact with medications (including fertility drugs). They typically require 3+ months to potentially show effects (one full sperm production cycle). Cost adds up, and insurance doesn't cover them.\n\nBottom line: Supplements may provide modest benefits but aren't magic bullets. They work best combined with lifestyle improvements - healthy diet, exercise, avoiding smoking/excessive alcohol, stress management, and adequate sleep. If you choose to try supplements, select reputable brands (USP or NSF certified), inform your doctor about everything you're taking, and maintain realistic expectations. For most people, a good prenatal vitamin plus healthy lifestyle provides the foundation needed.",
-    "tags": ["Supplements", "CoQ10", "Egg quality", "Sperm quality", "Antioxidants", "DHEA"],
+    "question": "Can lifestyle affect IVF success?",
+    "short_answer": "Yes. Research shows smoking, heavy alcohol consumption, and obesity reduce IVF success rates, while moderate exercise and healthy nutrition may improve outcomes. Specific lifestyle changes can meaningfully impact your treatment results.",
+    "detailed_answer": "A comprehensive 2020 systematic review examining lifestyle factors beyond BMI found that several modifiable behaviors significantly impact IVF outcomes:\n\nSmoking has the most dramatic negative effect. Women who smoke need up to twice the number of IVF cycles to conceive compared to non-smokers, with the impact comparable to an increase in female age of 10 years. Smoking impairs ovarian response, fertilization rate, implantation rates, and pregnancy probability. Male smoking also negatively affects sperm quality including count, motility, and morphology. The UK's NHS mandates non-smoking status for IVF access based on this evidence.\n\nAlcohol consumption shows dose-dependent effects. Women consuming more than 84g per week (about 6 drinks) showed reduced conception chances versus those who abstained. Importantly, women who abstained or reduced alcohol intake had twice the odds of becoming pregnant compared to those who maintained their drinking habits prior to treatment. Paternal alcohol consumption also negatively associates with live birth rates.\n\nBody Mass Index significantly affects outcomes. Women with BMI >30 have clinically and statistically significant decreased probability of live birth. Obesity interferes with hormonal and metabolic mechanisms, leading to lower ovulation frequency and reduced conception chances. Current NHS guidelines restrict access to those with BMI 19-30 kg/m².\n\nPhysical activity shows nuanced effects. Moderate-to-high intensity exercise improves clinical pregnancy chances versus inactive lifestyles and may increase live birth likelihood. However, excessive exercise can be counterproductive - women exercising daily had an odds ratio of 3.5 for infertility, and those doing cardiovascular exercise ≥4 hours weekly for one year showed 40% decreased live birth rates.\n\nDietary patterns matter. Mediterranean diet has been linked to increased live births and pregnancy rates, while trans fatty acid intake associates with reduced conception rates. Evidence for other dietary interventions remains inconsistent.\n\nCaffeine effects are unclear, with possible threshold effects around 200 mg/day, though moderate intake (<300 mg/day) appears safe. Your doctor can provide personalized recommendations based on these evidence-based findings.",
+    "tags": ["Lifestyle factors", "Smoking", "Alcohol", "BMI", "Exercise", "Diet", "IVF success"],
     "related_topics": [
+      "Ovarian Stimulation",
       "Oocyte (Egg Cell)",
       "Sperm",
       "Semen Analysis",
-      "Ovarian Stimulation",
-      "Diminished Ovarian Reserve",
-      "Sperm DNA Fragmentation Testing"
+      "In Vitro Fertilization (IVF)"
     ],
     "reference": [
-      "https://doi.org/10.1016/j.fertnstert.2020.11.008",
-      "https://doi.org/10.1093/humupd/dmaa048",
-      "https://doi.org/10.1016/j.fertnstert.2019.11.008",
-      "https://doi.org/10.1093/humupd/dmy034"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616016/",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion/"
     ]
   },
   {
-    "question": "Can stress prevent IVF from working?",
-    "short_answer": "While chronic severe stress isn't helpful for overall health, research doesn't show that normal stress levels prevent IVF from working. However, managing stress improves your quality of life during treatment and helps you cope with the emotional challenges.",
-    "detailed_answer": "This question touches on a common fear - that somehow your stress or anxiety is sabotaging your treatment. Let's be clear about the science: normal stress levels from daily life, work, or even the stress of IVF itself do not prevent embryos from implanting or cause IVF to fail. Multiple large studies have found no direct link between stress levels and IVF outcome rates.\n\nHowever, the fertility treatment journey is genuinely stressful. You're dealing with hormonal medications, invasive procedures, financial strain, scheduling challenges, uncertainty, and the emotional weight of wanting something so important. This stress is real and valid, even if it's not directly preventing pregnancy.\n\nWhere stress does matter: it affects your daily life quality, relationships, sleep, and decision-making. High stress may lead to behaviors that do affect fertility - poor sleep, unhealthy eating, skipping medications, smoking, excessive alcohol use. Stress can also make it harder to continue treatment after setbacks.\n\nBeneficial stress management approaches include: mind-body programs specifically for fertility (shown to help with coping), individual or couples counseling, support groups with others going through IVF, acupuncture (may reduce anxiety even if effects on pregnancy rates are unclear), meditation and mindfulness apps, gentle exercise like walking or yoga, good sleep hygiene, and maintaining activities and relationships that bring you joy.\n\nMost importantly, be compassionate with yourself. Feeling stressed doesn't mean you're doing something wrong. This journey is hard. You're not being 'punished' for having anxiety or difficult emotions. Seek support when you need it - mental health is as important as physical health during fertility treatment. Your clinic likely has a counselor or can refer you to one specialized in fertility issues.",
-    "tags": ["Stress", "Mental health", "Coping", "Emotional support", "Mind-body"],
+    "question": "What is OHSS and how worried should I be?",
+    "short_answer": "OHSS (Ovarian Hyperstimulation Syndrome) occurs when ovaries over-respond to fertility medications. Moderate-to-severe cases affect 1-5% of IVF cycles. Your clinic uses multiple evidence-based strategies to prevent it, making severe cases rare.",
+    "detailed_answer": "OHSS happens when ovaries respond too strongly to stimulation medications, becoming enlarged and leaking fluid into the abdomen. While concerning, modern prevention strategies have made severe OHSS uncommon. Research shows moderate-to-severe OHSS occurs in approximately 1-5% of IVF cycles, though exact incidence is difficult to determine due to varying definitions.\n\nMild OHSS (bloating, mild discomfort) is more common and resolves on its own within a week. Moderate OHSS (more bloating, nausea, weight gain) needs monitoring but typically doesn't require hospitalization. Severe OHSS (difficulty breathing, severe pain, rapid weight gain, decreased urination) is rare (1-2%) but requires urgent medical attention.\n\nRecent clinical guidelines identify specific risk factors: polycystic ovary syndrome (PCOS), elevated anti-Müllerian hormone levels, anticipated high egg yields, young age, low body mass index, previous OHSS episodes, and rapidly rising estradiol levels during stimulation.\n\nEvidence-based prevention strategies your clinic will use include: Using GnRH antagonist protocols instead of agonist protocols (strongly recommended for high-risk patients). Triggering final egg maturation with GnRH agonist (like Lupron) instead of hCG when using antagonist protocols. Freezing all embryos instead of fresh transfer if OHSS risk develops. Careful medication dosing based on your individual risk factors. Current guidelines specifically recommend against using volume expanders like albumin, as evidence doesn't support their effectiveness.\n\nIf you develop severe symptoms - significant bloating, rapid weight gain (2+ pounds per day), difficulty breathing, decreased urination, or severe abdominal pain - contact your clinic immediately. Most cases resolve within 1-2 weeks with rest, hydration, and monitoring.",
+    "tags": ["OHSS", "Ovarian hyperstimulation syndrome", "IVF safety", "Prevention", "Risk factors", "Complications"],
     "related_topics": [
-      "Emotional Impact & Support",
-      "In Vitro Fertilization (IVF)",
-      "Acupuncture",
-      "Initial Consult"
+      "Ovarian Hyperstimulation Syndrome (OHSS)",
+      "Ovarian Stimulation",
+      "Gonadotropins (FSH, hMG)",
+      "Human Chorionic Gonadotropin (hCG) Trigger",
+      "GnRH Agonists",
+      "GnRH Antagonist Protocol",
+      "Polycystic Ovary Syndrome (PCOS)",
+      "Anti-Mullerian Hormone (AMH) Test",
+      "Embryo Cryopreservation"
     ],
     "reference": [
-      "https://doi.org/10.1093/humrep/dex027",
-      "https://doi.org/10.1016/j.fertnstert.2020.11.008",
-      "https://doi.org/10.1016/j.fertnstert.2019.10.027"
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/prevention-and-treatment-of-moderate-and-severe-ovarian-hyperstimulation-syndrome-a-guideline/",
+      "https://www.tandfonline.com/doi/full/10.1080/14647273.2024.2441827",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5993897/",
+      "https://doi.org/10.1093/humupd/dmaa006"
     ]
   },
   {
-    "question": "What is implantation bleeding and how do I know if it's happening?",
-    "short_answer": "Implantation bleeding is light spotting that some people notice about 6-12 days after conception when the embryo attaches to the uterine lining. Not everyone experiences it, and many never notice it at all.",
-    "detailed_answer": "Implantation bleeding causes a lot of confusion and anxiety, so let's clarify what's normal. When an embryo successfully implants into the uterine lining (endometrium), this process sometimes causes minor disruption to tiny blood vessels, resulting in very light spotting. This typically occurs 6-12 days after ovulation or embryo transfer (for IVF), right around when a period would normally start, which is why it's easily confused with an early period.\n\nWhat implantation bleeding looks like: Very light spotting - typically pink, light brown, or rust-colored (not bright red). Only enough to notice on toilet paper or require a panty liner, never needing a pad or tampon. Lasting a few hours to 2 days maximum (not days of bleeding like a period). No accompanying severe cramps.\n\nHere's the truth: most pregnant people never notice implantation bleeding. Studies suggest only 15-25% of women report it. So if you don't have any spotting, that's perfectly normal too. Conversely, not all early pregnancy spotting is implantation bleeding - it could be from progesterone medications (very common with IVF), cervical irritation, or early miscarriage.\n\nWhat to do: Light spotting around implantation time doesn't require action, but mention it to your clinic at your next visit. Heavier bleeding (soaking through pads), bright red blood, severe cramping, or bleeding accompanied by fever or dizziness warrants a call to your doctor. During the two-week wait after embryo transfer, resist the urge to over-interpret every twinge or spot - it rarely provides useful information. The only reliable way to know if you're pregnant is a blood pregnancy test (beta-hCG) at your scheduled time, typically 9-12 days after blastocyst transfer. Home pregnancy tests can give false results too early, adding unnecessary stress.",
-    "tags": ["Implantation bleeding", "Early pregnancy", "Spotting", "Two-week wait"],
+    "question": "What are normal semen analysis values?",
+    "short_answer": "According to WHO 2021 reference values, normal semen shows: volume ≥1.4 mL, sperm concentration ≥16 million/mL, total count ≥39 million, progressive motility ≥30%, total motility ≥40%, normal morphology ≥4%, and vitality ≥54%.",
+    "detailed_answer": "The World Health Organization published updated reference values in 2021 (6th edition) based on data from 3,589 fertile men across 13 countries. These values represent the lower 5th percentile from men in couples who achieved pregnancy within one year of unprotected intercourse.\n\nKey WHO 2021 reference values:\n\n**Volume and Count:**\n- Semen volume: ≥1.4 mL (95% CI: 1.3-1.5)\n- Sperm concentration: ≥16 million/mL\n- Total sperm number: ≥39 million per ejaculate (95% CI: 35-40)\n\n**Motility:**\n- Progressive motility: ≥30% (95% CI: 29-31%)\n- Total motility: ≥40% (95% CI: 40-43%) - includes any movement\n- The 6th edition reverted to classifying progressive motile sperm into rapid and slow categories (grades a, b, c, d)\n\n**Morphology and Vitality:**\n- Normal morphology: ≥4% (95% CI: 3.9-4%)\n- Vitality (alive sperm): ≥54% (95% CI: 50-56%)\n\nImportant context: The WHO 2021 manual emphasizes that \"reference ranges and 5th centiles are insufficient to diagnose infertility\" and recommends replacing the concept of reference thresholds with \"decision limits.\" These values are ranges, not pass/fail criteria. Results below reference values don't necessarily mean pregnancy is impossible - many factors affect fertility.\n\nThe 6th edition suggests assessing sperm vitality when total motility is below 40%. Repeat testing is often needed since semen parameters can vary significantly between samples. Values should be interpreted alongside the female partner's fertility factors and couple's conception timeline. Your doctor will discuss what specific results mean for your treatment options, which might include IUI for mild abnormalities or ICSI for severe male factor issues.",
+    "tags": ["Semen analysis", "WHO reference values", "Male factor infertility", "Sperm parameters"],
+    "related_topics": [
+      "Semen Analysis",
+      "Sperm",
+      "Oligospermia",
+      "Asthenozoospermia",
+      "Teratozoospermia",
+      "Azoospermia",
+      "Fertilization - Intracytoplasmic Sperm Injection (ICSI)"
+    ],
+    "reference": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8706130/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10929669/",
+      "https://www.who.int/publications/i/item/9789240030787"
+    ]
+  },
+  {
+    "question": "How painful is egg retrieval?",
+    "short_answer": "Most patients receive IV sedation or anesthesia and don't feel the procedure. Afterward, you may experience cramping and bloating for a day or two, similar to menstrual discomfort, which typically responds well to pain medication and rest.",
+    "detailed_answer": "Egg retrieval (oocyte pickup) is performed using a thin needle guided by transvaginal ultrasound to aspirate follicles from each ovary. Understanding what to expect helps with preparation and anxiety management.\n\nDuring the procedure, most clinics use conscious sedation (twilight anesthesia) or general anesthesia with propofol. Research shows that conscious sedation is the most preferred mode of anesthesia owing to fewer adverse effects, faster recovery, better patient and specialist comfort, and the least effect on oocyte quality and embryo development. Studies found high patient satisfaction with conscious sedation, with mean satisfaction scores ranging between satisfactory to very good, and 86% of patients preferring the same method for future procedures.\n\nInterestingly, some patients choose to undergo retrieval with minimal or no sedation. A 2024 large-scale multicentre study of 2,290 cycles found that median pain intensity is mild (3/10 on visual analog scale) when one or few follicles are aspirated without anesthesia, and this intensity doesn't increase with repetitive aspirations. Surprisingly, women who chose to forgo sedation experienced more pain during retrieval, yet 98% stated they would still choose to undergo egg retrieval without sedation in future cycles - often due to fear of anesthesia or desire for faster recovery.\n\nAfter the procedure, recovery is usually quick. Common post-procedure symptoms include cramping, bloating, and mild-to-moderate pelvic discomfort lasting 1-2 days. Pain medicines (typically over-the-counter or prescription) and rest help manage discomfort. Most patients resume normal activities within 24-48 hours.\n\nRare complications include bleeding, infection, or injury to nearby structures, occurring in less than 1% of cases. If you experience severe pain, heavy bleeding, fever, or difficulty urinating after retrieval, contact your clinic immediately. Your anesthesiologist will review your medical history and discuss which sedation approach is safest and most comfortable for your situation.",
+    "tags": ["Egg retrieval", "Oocyte pickup", "Pain management", "Anesthesia", "Sedation", "Recovery"],
+    "related_topics": [
+      "Oocyte Retrieval",
+      "Ovarian Stimulation",
+      "In Vitro Fertilization (IVF)",
+      "Oocyte Cryopreservation (Egg Freezing)",
+      "Follicle"
+    ],
+    "reference": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5586085/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8812437/",
+      "https://www.sciencedirect.com/science/article/pii/S147264832400885X",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10256939/"
+    ]
+  },
+  {
+    "question": "What is the difference between embryo adoption and embryo donation?",
+    "short_answer": "Both terms refer to receiving embryos created by another family for your own use, though 'donation' is the preferred clinical and legal term. ASRM's 2023 guidance states that 'adoption' is inaccurate and should be avoided for embryos.",
+    "detailed_answer": "When couples have extra frozen embryos after completing their family, they may choose to donate those embryos to other patients who need them. The terminology around this practice has evolved, with important distinctions emerging.\n\nThe American Society for Reproductive Medicine published updated ethics guidance in 2023 affirming that embryo donation is ethically appropriate for patients wishing to donate embryos to other patients for family building or research. Importantly, the ASRM Ethics Committee explicitly states that the use of the term 'adoption' for embryos is inaccurate and should be avoided.\n\nWhy terminology matters: Embryos have the potential to become persons but should not be afforded the same legal status as a person. Using the term 'adoption' may lead to legal procedures required for adoption of born children that would unjustly burden both donors and recipients. The legal landscape is complex and varies significantly across jurisdictions, with laws still evolving. In many places, embryo donation falls under broader assisted reproductive technology laws rather than adoption statutes.\n\nThe donation process involves: Thorough screening of recipients per FDA, CDC, and ASRM standards for safety. Legal agreements addressing consent, parentage rights, and disclosure preferences. Counseling for both donors and recipients about emotional, legal, and medical aspects. Medical evaluation to optimize recipient's uterine environment. Success depends on embryo quality (including the age of the woman who created the eggs) and recipient health.\n\nASRM's 2024 gamete and embryo donation guidance provides comprehensive standards. Programs vary in their matching processes, disclosure policies (known versus anonymous donation), and support services. Some recipients seek embryos from specific donors, while others receive embryos from a pool. Discussing your preferences, values around disclosure, and questions about medical history with your clinic helps ensure the approach aligns with your family-building goals.",
+    "tags": ["Embryo donation", "Embryo adoption", "Third-party reproduction", "Ethics", "Legal issues"],
+    "related_topics": [
+      "Frozen Embryo Transfer (FET)",
+      "Embryo Cryopreservation",
+      "Donor Egg IVF",
+      "Donor Sperm IVF"
+    ],
+    "reference": [
+      "https://www.asrm.org/practice-guidance/ethics-opinions/defining-embryo-donation-an-ethics-committee-opinion-2023/",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/guidance-regarding-gamete-and-embryo-donation/"
+    ]
+  },
+  {
+    "question": "Do supplements improve egg or sperm quality?",
+    "short_answer": "Evidence for CoQ10 is strongest - meta-analyses show it improves clinical pregnancy rates in women undergoing IVF and improves sperm parameters in men. Other antioxidants show mixed results. Always discuss supplements with your doctor before use.",
+    "detailed_answer": "Research on fertility supplements has expanded significantly, with the strongest evidence supporting Coenzyme Q10 (CoQ10), though results vary by patient population and outcomes measured.\n\nFor female fertility and IVF outcomes, a 2020 systematic review and meta-analysis of five randomized controlled trials with 449 women found that CoQ10 supplementation significantly increased clinical pregnancy rates: 28.8% versus 14.1% in controls (OR 2.44, 95% CI 1.30-4.59, p=0.006). Benefits were particularly notable in specific populations - poor ovarian responders showed pregnancy rates of 27.3% versus 17.5% (OR 1.83, p=0.04), and PCOS patients achieved 31.3% versus 7.5% (OR 5.06, p=0.01).\n\nA 2024 meta-analysis of 1,529 participants with diminished ovarian reserve found that CoQ10 pretreatment significantly enhanced clinical pregnancy rates and increased the number of high-quality embryos and retrieved oocytes. The mechanism appears to involve improving mitochondrial function and decreasing oxidative stress in eggs, thereby enhancing oocyte quality and altering the ovarian environment to promote oocyte development.\n\nImportant limitation: While CoQ10 improved clinical pregnancy rates, the 2020 meta-analysis found no significant benefit for live births (28% vs 17.4%; OR 1.67, 95% CI 0.66-4.25, p=0.28) or miscarriage rates, though only 2-3 studies provided these outcomes versus 5 for pregnancy rates. This highlights the need for more research on clinical endpoints.\n\nFor male fertility, meta-analyses concluded that CoQ10 supplementation resulted in better sperm motility along with improved sperm concentrations and count. One study of 178 men with low sperm count/motility found that 6-month CoQ10 supplementation (200 mg daily) significantly improved semen parameters, increased antioxidant levels, reduced sperm DNA fragmentation, and achieved a pregnancy rate of 24.2%.\n\nAmong individual antioxidants studied, only CoQ10 (OR 4.28, 95% CI 1.79-10.26) and L-carnitine achieved statistically significant increases in clinical pregnancy rates. Evidence for other supplements remains mixed or insufficient.\n\nImportant considerations: Supplements can interact with medications and have variable quality between brands. Doses matter - studies typically used 200-600 mg CoQ10 daily for 2-6 months. Because supplements are not FDA-regulated like medications, discuss with your clinician before starting any regimen to ensure safety and appropriate expectations.",
+    "tags": ["Supplements", "CoQ10", "Antioxidants", "Egg quality", "Sperm quality", "Male fertility"],
+    "related_topics": [
+      "Oocyte (Egg Cell)",
+      "Sperm",
+      "Ovarian Stimulation",
+      "Semen Analysis",
+      "Diminished Ovarian Reserve"
+    ],
+    "reference": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7550497/",
+      "https://www.tandfonline.com/doi/full/10.1080/07853890.2024.2389469",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/the-clinical-utility-of-antioxidants-in-male-infertility/"
+    ]
+  },
+  {
+    "question": "Can stress stop IVF from working?",
+    "short_answer": "Stress doesn't 'turn off' fertility treatment, though research shows mixed findings. High stress may negatively affect egg retrieval outcomes, but the relationship to pregnancy success is less clear. Supportive care and counseling can help you cope.",
+    "detailed_answer": "The relationship between psychological stress and IVF outcomes is complex, with research showing nuanced findings rather than simple cause-and-effect.\n\nA 2024 systematic review examining stress effects at different IVF stages found that egg retrieval is the timepoint most affected by stress. Studies showed that higher anxiety and stress scores led to negative outcomes in the number of oocytes retrieved, with women experiencing elevated cortisol and norepinephrine showing poorer outcomes. Both chronic stress (baseline) and acute stress (during treatment) demonstrated negative effects at this stage.\n\nFor fertilization, chronic stress showed potential association with fertilization rates in some studies, though findings were inconsistent. Interestingly, stress appeared to decrease during the embryo transfer stage, possibly because women had grown more accustomed to the process or received positive news about earlier stages.\n\nFor pregnancy outcomes, the evidence is weakly associated and conflicting. A 2020 study found that if infertility-related stress levels are higher, IVF success rates are lower, with anxiety scores statistically significantly higher among women who didn't achieve pregnancy. However, other research found that acute stress showed no significant correlation with pregnancy achievement, and one study cautiously concluded that physiological and psychological stress do not negatively affect IVF outcomes.\n\nA surprising finding emerged regarding follicular cortisol - higher concentrations were associated with improved fertilization and pregnancy rates, contrary to typical stress hormone expectations. This suggests the stress-fertility relationship is more complex than initially assumed.\n\nImportant context: Even if stress affects some IVF stages, the magnitude and clinical significance remain debated. Many women experiencing high stress still achieve pregnancy, and those with low stress sometimes face disappointment. Studies show mixed results on whether stress impacts live birth, and no research suggests stress 'prevents' IVF from working entirely.\n\nWhat helps: Supportive care, counseling, good communication with your clinic, and stress management techniques can help you cope emotionally and stick with treatment. Mental health support during IVF is valuable regardless of whether stress directly affects outcomes, as the process itself is emotionally demanding.",
+    "tags": ["Stress", "Anxiety", "Mental health", "IVF outcomes", "Coping", "Psychological factors"],
+    "related_topics": [
+      "In Vitro Fertilization (IVF)",
+      "Oocyte Retrieval",
+      "Embryo Transfer",
+      "Ovarian Stimulation"
+    ],
+    "reference": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10815004/",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242024",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion/"
+    ]
+  },
+  {
+    "question": "What is implantation bleeding?",
+    "short_answer": "Light spotting that some people notice around the time an embryo attaches to the uterine lining, though research questions whether implantation actually causes bleeding. Not everyone experiences it, and its absence doesn't mean implantation failed.",
+    "detailed_answer": "Implantation bleeding refers to light vaginal spotting that some women notice approximately 6-12 days after ovulation or embryo transfer, coinciding with when the embryo would attach to the uterine lining. However, the scientific evidence for this concept is surprisingly limited.\n\nA research study published in Human Reproduction examined bleeding patterns in early pregnancy and found that 14 women (9%) recorded at least one day of vaginal bleeding during the first 8 weeks of pregnancy. Importantly, the researchers concluded: 'We found no support for the hypothesis that implantation can produce vaginal bleeding.' This challenges the common assumption that spotting around implantation time is caused by the embryo burrowing into the uterine lining.\n\nHealth information sources estimate that only about 15-25% of pregnant people experience any spotting in early pregnancy that might be attributed to implantation. This means the majority of successful pregnancies occur without any bleeding whatsoever.\n\nWhat you might notice if spotting occurs: Light pink, brown, or rust-colored discharge, lighter in volume than a period, lasting a few hours to 2-3 days. The timing is typically 6-12 days after ovulation or embryo transfer.\n\nImportant distinctions: If bleeding is heavier than light spotting, bright red, comes with cramping or pain, or lasts longer than a few days, contact your clinic. These symptoms could indicate something other than normal implantation. After embryo transfer, any bleeding warrants a call to your doctor for guidance.\n\nHome pregnancy tests usually turn positive a few days after implantation, which is why your clinic schedules blood testing (beta-hCG) approximately 9-12 days after blastocyst transfer. The absence of spotting does not mean implantation didn't occur - most successful pregnancies have no bleeding at all. Focus on following your clinic's testing timeline rather than interpreting spotting or its absence as a definitive sign.",
+    "tags": ["Implantation bleeding", "Spotting", "Early pregnancy", "Implantation"],
     "related_topics": [
       "Implantation",
       "Endometrium",
       "Embryo Transfer",
       "Frozen Embryo Transfer (FET)",
-      "Blastocyst",
-      "Serum hCG Pregnancy Test"
+      "Blastocyst"
     ],
     "reference": [
-      "https://doi.org/10.1093/humrep/deaa015",
-      "https://www.ncbi.nlm.nih.gov/books/NBK559217/"
+      "https://academic.oup.com/humrep/article/18/9/1944/708284"
     ]
   },
   {
-    "question": "When can I take a pregnancy test after embryo transfer?",
-    "short_answer": "Your clinic will schedule a blood pregnancy test (beta-hCG) typically 9-12 days after a blastocyst transfer or 14 days after a cleavage-stage transfer. Testing earlier often gives inaccurate results and causes unnecessary stress.",
-    "detailed_answer": "The waiting period after embryo transfer - often called the 'two-week wait' - is one of the hardest parts of IVF. Here's why timing matters for testing:\n\nAfter a blastocyst is transferred, it must 'hatch' out of its shell (zona pellucida), attach to the uterine lining, and begin producing hCG (the pregnancy hormone). This process takes several days. hCG levels start very low and double approximately every 48 hours in early pregnancy. Blood tests can detect hCG at levels of 5-10 mIU/mL, while most home pregnancy tests require 20-25 mIU/mL to show positive.\n\nYour clinic schedules the 'beta' (blood pregnancy test) based on when hCG should be reliably detectable: 9-12 days after day-5 blastocyst transfer (often called '10 days post 5-day transfer' or 10dp5dt). 12-14 days after day-3 embryo transfer. 14 days after ovulation or trigger shot (for IUI or timed intercourse).\n\nWhy not test earlier? Home tests before 9-10 days post-transfer often give false negatives because hCG levels aren't high enough yet, even if you are pregnant. This causes unnecessary heartbreak. Additionally, if you received an hCG trigger shot for egg retrieval, this hormone remains in your system for 7-14 days, potentially causing false positives on early home tests.\n\nSome patients choose to test at home before the official beta despite these risks. If you do: use first morning urine (most concentrated), understand early results may not be accurate, and confirm with the clinic's blood test regardless of home test results. Beta-hCG blood tests are much more sensitive and give a number (quantitative result) that helps your doctor assess early pregnancy health. A strong first beta (over 100 mIU/mL) suggests good early development. Your clinic will likely repeat the test 2 days later to confirm the number is appropriately doubling.\n\nDuring the wait, try to stay busy, lean on support, and know that obsessively analyzing symptoms (or lack thereof) doesn't provide reliable information. Many pregnant people have no symptoms early on, and progesterone medications cause symptoms that mimic both pregnancy and premenstrual syndrome. The blood test is the only reliable answer.",
-    "tags": ["Pregnancy testing", "hCG", "Beta test", "Two-week wait", "Home pregnancy test"],
+    "question": "How soon can I test after embryo transfer?",
+    "short_answer": "Most clinics perform blood testing (beta-hCG) approximately 9-12 days after a blastocyst transfer. Testing earlier can give false negatives because the pregnancy hormone hasn't risen to detectable levels yet.",
+    "detailed_answer": "The timing of pregnancy testing after embryo transfer balances the desire for early answers with the accuracy of results. Recent research provides specific guidance on optimal testing timing and what results mean.\n\nMost ART programs perform beta-hCG measurement 9-12 days after embryo transfer to detect pregnancy. More specifically, many clinics test 9 days after blastocyst transfer (day 5 embryo) or adjust timing for cleavage-stage transfers. Some research has explored testing as early as days 5-6 after transfer, though this is less standard and increases false negative risk.\n\nThe most common protocol uses day 14 testing. A 2025 study analyzing 424 women found that beta-hCG levels 14 days after embryo transfer effectively predict outcomes, with a threshold of 468 mIU/mL identified as the optimal predictor of live birth, showing 75% sensitivity and 72% specificity.\n\nImportant context for interpreting results: Research shows that beta-hCG parameters of 'doubling' and 'reaching 100' by 15 days after ovulation/retrieval are robust predictors of live birth. One study found initial positive serum beta-hCG levels on day 9 after transfer successfully predict outcomes.\n\nInteresting finding: Frozen embryo transfers show significantly higher hCG levels than fresh transfers at day 14 testing (1222.8 ± 946.7 mU/ml versus 862.7 ± 572.9 mU/ml; p<0.001), so your doctor will interpret results in context of your transfer type.\n\nWhy timing matters: Testing too early can give false negatives because the embryo hasn't produced enough hCG hormone to detect yet. This causes unnecessary anxiety and may lead to prematurely stopping medications. Your clinic's blood test is more reliable than home urine tests, as it can detect lower hCG levels and provide quantitative values that help predict pregnancy viability.\n\nResist the urge to test early at home - follow your clinic's recommended testing schedule. The wait is difficult, but accurate results are worth patience. If you get a positive result, your clinic will typically repeat the test 2-3 days later to ensure hCG is rising appropriately, which is a better indicator of pregnancy health than a single value.",
+    "tags": ["Pregnancy testing", "Beta hCG", "Embryo transfer", "Testing timing"],
     "related_topics": [
-      "Serum hCG Pregnancy Test",
-      "Human Chorionic Gonadotropin (hCG)",
       "Embryo Transfer",
       "Frozen Embryo Transfer (FET)",
       "Blastocyst",
-      "Implantation",
-      "Human Chorionic Gonadotropin (hCG) Trigger"
+      "Fresh Embryo Transfer - Day Five (Blastocyst Stage)",
+      "Implantation"
     ],
     "reference": [
-      "https://doi.org/10.1093/humrep/deaa015",
-      "https://doi.org/10.1016/j.fertnstert.2020.09.140"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10589581/",
+      "https://www.nature.com/articles/s41598-025-05851-y",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11339198/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9596620/"
     ]
   },
   {
-    "question": "What should I know about using donor eggs or donor sperm?",
-    "short_answer": "Donor eggs or sperm allow you to build a family when using your own gametes isn't possible or advisable. Donors are thoroughly screened medically and psychologically. You'll have choices about anonymity, and counseling helps you navigate the emotional and practical considerations.",
-    "detailed_answer": "Using donor gametes (eggs or sperm) is a significant decision that requires both practical and emotional consideration. Here's what to understand:\n\nWhen donors are recommended: Donor eggs may be suggested for severely diminished ovarian reserve, repeated IVF failure with poor egg quality, advanced maternal age (typically >43), genetic conditions you don't want to pass on, or premature menopause. Donor sperm is used for severe male factor infertility, azoospermia (no sperm), genetic conditions, single women, or same-sex female couples.\n\nThe donor selection process: Reputable donor agencies and sperm banks thoroughly screen donors through comprehensive medical history (multi-generational), genetic carrier screening, infectious disease testing, psychological evaluation, and in some cases IQ testing and personality assessments. You'll review donor profiles including physical characteristics, education, health history, family background, and sometimes childhood photos or audio interviews. This process can feel overwhelming - like choosing genes from a catalog - so give yourself time and consider working with a counselor.\n\nAnonymity considerations: Sperm banks and egg agencies offer different levels of donor contact. Anonymous donors: no identifying information shared; your child cannot contact the donor (though some agencies maintain medical update programs). Identity-release (open ID) donors: no contact during childhood, but donor agrees to be contacted when child reaches 18. Known donors: friends, family members, or donors you meet through specific programs; requires extensive legal agreements and counseling. Trends are moving toward more openness, as research suggests children benefit from knowing their genetic origins.\n\nSuccess rates: Donor eggs provide excellent success rates (often 50-60% per transfer) regardless of the recipient's age, because success depends on the donor's age (typically under 30). Donor sperm success depends on the female partner's fertility and treatment type (IUI vs IVF).\n\nEmotional considerations: Grief over not using your own genetics is normal and valid. These feelings may resurface at different life stages. Counseling helps process these emotions and develop plans for disclosure (telling your child their origins). Research strongly suggests disclosure from an early age is healthiest. Your child will be biologically related to one parent (or neither, if using both donor egg and sperm), but will be 100% YOUR child through love, nurture, and the legal parent-child relationship. Many families built this way are thriving and deeply connected.",
-    "tags": ["Donor eggs", "Donor sperm", "Third-party reproduction", "Anonymity", "Disclosure"],
+    "question": "Is donor gamete use anonymous?",
+    "short_answer": "Policies are shifting from anonymous donation toward identity-release programs where donor-conceived adults can access donor information. Laws vary by state and country, with recent trends favoring openness and disclosure to children.",
+    "detailed_answer": "The landscape of donor anonymity has undergone significant transformation in recent years, with marked shifts in both policy and practice between 2012 and 2022 toward greater openness.\n\nRecent legal developments in the United States show this trend clearly. In 2020, California and Rhode Island followed Washington's path with laws requiring egg and sperm banks to collect and retain donors' full names, dates of birth, and addresses. Colorado recently became the first state to ban donor anonymity entirely. These changes reflect growing recognition of donor-conceived individuals' rights to genetic information.\n\nCurrent donor selection patterns reveal interesting preferences. A 2023 Israeli study examining sperm donation from 2017-2021 found that single women had significantly higher probability of choosing identity-release donors than heterosexual couples (55.6% versus 33.3%). Among those using their own eggs, 51.3% chose identity-release. Overall, approximately one-quarter of recipients opted for identity-release while nearly 75% favored anonymous donation, though this is shifting.\n\nDisclosure trends show dramatic changes. Research indicates that disclosure rates among heterosexual couples rose from 11% historically to approximately 78% more recently. A review of 31 studies found that most parents who hadn't yet disclosed reported intentions to do so. Disclosure is particularly common among same-sex couples and single parents, while heterosexual couples were more likely to be unsure or decide never to disclose.\n\nWhen parents do disclose, most do so before age 10, with median disclosure age around 3.5 years. Factors influencing disclosure include family structure, beliefs about children's right to genetic information, fear of accidental discovery, and cultural values.\n\nPsychosocial outcomes are reassuring. Systematic reviews show that donors' psychosocial wellbeing was good across all donor types (anonymous, known, and open-identity), and families created through donor gametes appeared well-adjusted. Approximately 76% of adolescent offspring aware of their donor conception expressed comfort with their origins and planned to request donor identity upon reaching adulthood, though only about 35% of eligible adults actually requested identifying information.\n\nASRM's Ethics Committee now strongly encourages disclosure during childhood. Your clinic can discuss options available in your jurisdiction, matching preferences, and disclosure considerations to help align your choice with your values and your future child's interests.",
+    "tags": ["Donor anonymity", "Identity-release", "Disclosure", "Donor egg", "Donor sperm", "Ethics"],
     "related_topics": [
       "Donor Egg IVF",
       "Donor Sperm IVF",
-      "Donor Selection & Counseling",
-      "Legal & Ethics in Third-Party Reproduction",
-      "Genetic Counseling",
-      "Infectious Disease Screening (Male)",
-      "Infectious Disease Screening (Female)"
+      "Sperm",
+      "Oocyte (Egg Cell)"
     ],
     "reference": [
-      "https://doi.org/10.1016/j.fertnstert.2020.09.005",
-      "https://doi.org/10.1093/humrep/deaa067",
-      "https://doi.org/10.1016/j.fertnstert.2019.11.031"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11215159/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7720987/",
+      "https://www.asrm.org/practice-guidance/practice-committee-documents/guidance-regarding-gamete-and-embryo-donation/"
     ]
   }
 ]
