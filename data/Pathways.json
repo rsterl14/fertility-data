@@ -457,7 +457,7 @@
               "subtitle": "Preserve fertility - fertilized embryos",
               "icon": "square.stack.3d.up",
               "next_question": "embryo_sperm_source"
-            },
+            }
           ]
         },
         {
@@ -484,7 +484,7 @@
               ]
             }
           ]
-        },
+        }
       ],
       "paths": []
     },
@@ -641,7 +641,7 @@
           "overview": "You'll review and select a sperm donor from a donor bank or sperm bank database. You can search by physical characteristics, medical history, education, and other criteria that are important to you. Required counseling helps you understand the emotional and legal aspects of using donor sperm.",
           "topic_refs": [
             "Donor Selection & Counseling",
-            "Legal & Ethics in Third-Party Reproduction",
+            "Legal & Ethics in Third-Party Reproduction"
           ]
         },
         {
@@ -810,7 +810,7 @@
           "overview": "You'll complete required infectious disease screening and sign informed consent documents to ensure you understand the treatment process and risks. These screenings protect both you and any future pregnancy, while the consent process ensures you're making fully informed decisions. This is a required step before proceeding with any fertility treatment.",
           "topic_refs": [
             "Legal & Ethics in Third-Party Reproduction",
-            "Infectious Disease Screening (Female)",
+            "Infectious Disease Screening (Female)"
           ]
         },
         {
@@ -1125,7 +1125,7 @@
         },
         {
           "step": "Ovarian Stimulation & Monitoring (Egg Provider)",
-          "overview": "The egg-providing partner takes daily gonadotropin injections to stimulate her ovaries to produce multiple eggs. She attends frequent monitoring appointments (~every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels. Meanwhile, the carrying partner begins endometrial preparation with estrogen.",
+          "overview": "The egg-providing partner takes daily gonadotropin injections to stimulate their ovaries to produce multiple eggs. They attend frequent monitoring appointments (~every 2-3 days) where ultrasounds track follicle growth and blood tests measure hormone levels. Meanwhile, the carrying partner begins endometrial preparation with estrogen.",
           "topic_refs": [
             "Ovarian Stimulation",
             "Antral Follicle Count (AFC) Ultrasound",
@@ -1186,7 +1186,7 @@
         },
         {
           "step": "Pregnancy Testing & Follow-up",
-          "overview": "The carrying partner continues progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then she returns for a blood pregnancy test. If pregnant, she will have early monitoring ultrasounds before graduating to regular prenatal care. Both partners share in the emotional journey of pregnancy.",
+          "overview": "The carrying partner continues progesterone supplementation to support the uterine lining. Wait 9-14 days after transfer, then they return for a blood pregnancy test. If pregnant, they will have early monitoring ultrasounds before graduating to regular prenatal care. Both partners share in the emotional journey of pregnancy.",
           "topic_refs": [
             "Serum hCG Pregnancy Test"
           ]
@@ -1216,7 +1216,7 @@
         },
         {
           "step": "Medical Clearance & Legal Contracts",
-          "overview": "Complete required infectious disease screening and sign comprehensive legal contracts establishing parental rights. Your clinic coordinates with the gestational carrier to complete her medical and psychological screening.",
+          "overview": "Complete required infectious disease screening and sign comprehensive legal contracts establishing parental rights. Your clinic coordinates with the gestational carrier to complete their medical and psychological screening.",
           "topic_refs": [
             "Infectious Disease Screening (Female)",
             "Legal & Ethics in Third-Party Reproduction",
@@ -1274,7 +1274,7 @@
         },
         {
           "step": "Embryo Development & Assessment",
-          "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop. The embryology team monitors their growth daily and grades their quality. You may also choose genetic testing (PGT) during this time. Meanwhile, your gestational carrier prepares her uterine lining with medications.",
+          "overview": "Fertilized eggs (now embryos) are cultured in the lab for 3-6 days to allow them to develop. The embryology team monitors their growth daily and grades their quality. You may also choose genetic testing (PGT) during this time. Meanwhile, your gestational carrier prepares their uterine lining with medications.",
           "topic_refs": [
             "Zygote",
             "2-Cell Embryo",
@@ -1297,7 +1297,7 @@
         },
         {
           "step": "Pregnancy Testing & Follow-up",
-          "overview": "The gestational carrier continues progesterone supplementation. Wait 9-14 days after transfer, then she returns for a blood pregnancy test. If pregnant, she will have early monitoring ultrasounds and continue medications to support early pregnancy until graduating to regular prenatal care. You coordinate with your carrier throughout the pregnancy.",
+          "overview": "The gestational carrier continues progesterone supplementation. Wait 9-14 days after transfer, then they return for a blood pregnancy test. If pregnant, they will have early monitoring ultrasounds and continue medications to support early pregnancy until graduating to regular prenatal care. You coordinate with your carrier throughout the pregnancy.",
           "topic_refs": [
             "Serum hCG Pregnancy Test"
           ]
@@ -1321,7 +1321,7 @@
           "step": "Medical Clearance & Consent",
           "overview": "You'll complete required infectious disease screening and sign informed consent documents to ensure you understand the treatment process and risks.",
           "topic_refs": [
-            "Infectious Disease Screening (Male)",
+            "Infectious Disease Screening (Male)"
           ]
         },
         {
@@ -2691,7 +2691,7 @@
           ]
         },
         {
-          "overview": "Your partner will begin cycle monitoring or ovarian stimulation depending on whether you're doing IUI or IVF, as her cycle must be synchronized with the sperm thaw and procedure timing. The clinic tracks her follicle development and coordinates the timing of when to thaw your sperm sample with either her insemination date (IUI) or egg retrieval (IVF). This precise coordination is essential because thawed sperm must be used fresh and cannot be refrozen, so timing is critical for success.",
+          "overview": "Your partner will begin cycle monitoring or ovarian stimulation depending on whether you're doing IUI or IVF, as their cycle must be synchronized with the sperm thaw and procedure timing. The clinic tracks their follicle development and coordinates the timing of when to thaw your sperm sample with either their insemination date (IUI) or egg retrieval (IVF). This precise coordination is essential because thawed sperm must be used fresh and cannot be refrozen, so timing is critical for success.",
           "step": "Partner Cycle Coordination",
           "topic_refs": [
             "Ovarian Stimulation",
@@ -2737,6 +2737,6 @@
           ]
         }
       ]
-    },
+    }
   ]
 }
