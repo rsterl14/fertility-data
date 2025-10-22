@@ -83,18 +83,14 @@
               "title": "Anonymous Embryo Donation",
               "subtitle": "Embryos from unknown donors",
               "icon": "questionmark.square",
-              "path_ids": [
-                "embryo_donation_anonymous"
-              ]
+              "next_question": "ivf_surrogacy"
             },
             {
               "id": "embryo_directed",
               "title": "Directed Embryo Donation",
               "subtitle": "Embryos from known donors",
               "icon": "person.2.badge.plus",
-              "path_ids": [
-                "embryo_donation_directed"
-              ]
+              "next_question": "ivf_surrogacy"
             }
           ]
         },
@@ -129,9 +125,7 @@
               "title": "Reciprocal IVF (Partner's Eggs)",
               "subtitle": "One partner provides eggs, other carries",
               "icon": "heart.circle",
-              "path_ids": [
-                "reciprocal_ivf"
-              ]
+              "next_question": "ivf_pgt_testing"
             }
           ]
         },
@@ -187,14 +181,14 @@
               "title": "Partner Sperm",
               "subtitle": "Partner sperm with fresh directed donor eggs",
               "icon": "person.2",
-              "next_question": "ivf_fertilization_method_fresh_directed"
+              "next_question": "ivf_pgt_testing"
             },
             {
               "id": "donor_sperm_fresh_directed",
               "title": "Donor Sperm",
               "subtitle": "Donor sperm with fresh directed donor eggs",
               "icon": "drop.fill",
-              "next_question": "ivf_fertilization_method_fresh_directed"
+              "next_question": "ivf_pgt_testing"
             }
           ]
         },
@@ -215,9 +209,7 @@
               "title": "Donor Sperm",
               "subtitle": "Using donor sperm",
               "icon": "drop.fill",
-              "path_ids": [
-                "donor_sperm_ivf"
-              ]
+              "next_question": "ivf_pgt_testing"
             }
           ]
         },
@@ -231,18 +223,14 @@
               "title": "Partner Sperm",
               "subtitle": "Using sperm from your partner",
               "icon": "person.2",
-              "path_ids": [
-                "ivf_frozen_oocytes_partner_icsi"
-              ]
+              "next_question": "ivf_pgt_testing"
             },
             {
               "id": "donor_sperm_frozen",
               "title": "Donor Sperm",
               "subtitle": "Using donor sperm",
               "icon": "drop.fill",
-              "path_ids": [
-                "ivf_frozen_oocytes_donor_icsi"
-              ]
+              "next_question": "ivf_pgt_testing"
             }
           ]
         },
@@ -256,18 +244,14 @@
               "title": "Partner Sperm",
               "subtitle": "Partner sperm with donor eggs (ICSI required)",
               "icon": "person.2",
-              "path_ids": [
-                "donor_oocytes"
-              ]
+              "next_question": "ivf_surrogacy"
             },
             {
               "id": "donor_sperm_donor_eggs",
               "title": "Donor Sperm",
               "subtitle": "Double donation (donor eggs + sperm, ICSI required)",
               "icon": "square.stack.3d.up",
-              "path_ids": [
-                "double_donation"
-              ]
+              "next_question": "ivf_surrogacy"
             }
           ]
         },
@@ -302,14 +286,14 @@
               "title": "Conventional IVF",
               "subtitle": "Sperm and eggs mixed together",
               "icon": "drop.triangle",
-              "next_question": "ivf_pgt_testing"
+              "next_question": "ivf_surrogacy"
             },
             {
               "id": "icsi_fresh",
               "title": "ICSI",
               "subtitle": "Single sperm injected into each egg",
               "icon": "syringe",
-              "next_question": "ivf_pgt_testing"
+              "next_question": "ivf_surrogacy"
             }
           ]
         },
@@ -323,7 +307,7 @@
               "title": "No Genetic Testing",
               "subtitle": "Proceed with chosen fertilization method",
               "icon": "testtube.2",
-              "next_question": "ivf_surrogacy"
+              "next_question": "ivf_fertilization_method_fresh"
             },
             {
               "id": "pgt_a",
