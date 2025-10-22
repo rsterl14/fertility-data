@@ -442,14 +442,18 @@
               "title": "Sperm Freezing",
               "subtitle": "Preserve male fertility",
               "icon": "drop.fill",
-              "path_ids": "elective_sperm_freezing"
+              "path_ids": [
+                "elective_sperm_freezing"
+              ]
             },
             {
               "id": "oocyte_freezing",
               "title": "Oocyte/Egg Freezing",
               "subtitle": "Preserve female fertility - eggs only",
               "icon": "circle.dashed",
-              "path_ids": "elective_egg_freezing"
+              "path_ids": [
+                "elective_egg_freezing"
+              ]
             },
             {
               "id": "embryo_freezing",
