@@ -1,79 +1,138 @@
 [
   {
-    "title": "CFAS",
-    "subtitle": "Canadian Fertility & Andrology Society",
-    "description": "Canada's professional society for reproductive medicine. Publishes guidance statements, hosts the annual conference, and supports practice standards, education, and research across clinics and labs.",
-    "url": "https://cfas.ca",
-    "systemImage": "person.2.wave.2"
-  },
-  {
     "title": "Fertility Matters Canada",
     "subtitle": "Patient education & support",
     "description": "National patient organization offering evidence-based information, peer support, advocacy, webinars, and community resources for those facing infertility.",
     "url": "https://fertilitymatters.ca",
-    "systemImage": "heart.text.square"
+    "systemImage": "heart.text.square",
+    "category": "Getting Started"
   },
   {
-    "title": "CARTR-BORN Stats",
-    "subtitle": "National IVF outcomes (BORN Ontario)",
-    "description": "Public reporting portal summarizing assisted reproduction activity and outcomes contributed by Canadian clinics to CARTR-BORN. Useful for understanding trends at a national level.",
-    "url": "https://www.bornontario.ca/en/about-born/data-and-reports/cartr-born.aspx",
-    "systemImage": "chart.bar.doc.horizontal"
+    "title": "Fertility in Focus Podcast",
+    "subtitle": "Fertility Matters Canada",
+    "description": "Interviews with specialists and patient stories on infertility and fertility preservation — listen on your preferred platform.",
+    "url": "https://fertilitymatters.ca/involve/programs/podcast/",
+    "systemImage": "mic",
+    "category": "Getting Started"
   },
   {
-    "title": "Health Canada – AHR",
-    "subtitle": "Regulations & safety notices",
-    "description": "Assisted Human Reproduction (AHR) regulatory information, including safety of sperm/egg/embryo handling, inspections, guidance documents, and compliance updates.",
-    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/assisted-human-reproduction.html",
-    "systemImage": "checkmark.shield"
+    "title": "Find Support & Professionals",
+    "subtitle": "Counsellors, clinics, legal & groups",
+    "description": "Directory from Fertility Matters Canada to find mental health providers, support groups, clinics, legal help, and more — searchable by province and service type.",
+    "url": "https://fertilitymatters.ca/support/find/",
+    "systemImage": "person.3.sequence",
+    "category": "Find Help"
   },
   {
-    "title": "SOGC",
-    "subtitle": "Clinical guidelines & statements",
-    "description": "Society of Obstetricians and Gynaecologists of Canada. Access clinical practice guidelines, committee opinions, and patient resources related to reproductive health.",
-    "url": "https://sogc.org",
-    "systemImage": "doc.text.magnifyingglass"
+    "title": "Emotional Support",
+    "subtitle": "Support groups & peer connections",
+    "description": "Support groups, peer connections, and resources for the emotional and psychological dimensions of fertility challenges. Available across Canada.",
+    "url": "https://fertilitymatters.ca/support/",
+    "systemImage": "heart.fill",
+    "category": "Find Help"
+  },
+  {
+    "title": "Genetic Counselling",
+    "subtitle": "Canadian Association of Genetic Counsellors",
+    "description": "Find a genetics clinic near you. Learn about genetic counselling for fertility, carrier screening, and preimplantation genetic testing (PGT) across Canada.",
+    "url": "https://www.cagc-accg.ca/",
+    "systemImage": "staroflife",
+    "category": "Find Help"
+  },
+  {
+    "title": "Male Infertility Clinic",
+    "subtitle": "Sinai Health, Toronto",
+    "description": "Canada's leading referral centre for male infertility. Offers genetic testing, semen analysis, DNA fragmentation testing, surgical sperm retrieval, and varicocelectomy. Requires physician referral.",
+    "url": "https://www.sinaihealth.ca/areas-of-care/urology/male-infertility-clinic",
+    "systemImage": "person.fill",
+    "category": "Find Help"
   },
   {
     "title": "Fertility Funding by Province",
     "subtitle": "Government & insurance support",
     "description": "Overview of provincial programs, employer benefits, drug coverage and tax credits that can help pay for fertility treatment in Canada.",
     "url": "https://fertilitymatters.ca/learn/funding/",
-    "systemImage": "creditcard"
+    "systemImage": "creditcard",
+    "category": "Find Help"
   },
   {
-    "title": "Find Support & Professionals",
-    "subtitle": "Counsellors, clinics, legal & groups",
-    "description": "Directory from Fertility Matters Canada to find mental health providers, support groups, clinics, legal help, and more.",
-    "url": "https://fertilitymatters.ca/support/find/",
-    "systemImage": "person.3.sequence"
+    "title": "Fertile Future",
+    "subtitle": "Fertility preservation information",
+    "description": "Canadian non-profit providing fertility preservation information and support services. Guides on egg freezing, sperm banking, and embryo cryopreservation before medical treatments or by choice.",
+    "url": "https://fertilefuture.ca/",
+    "systemImage": "snowflake",
+    "category": "Building Your Family"
+  },
+  {
+    "title": "Surrogacy in Canada",
+    "subtitle": "Surrogacy education & support",
+    "description": "Canada's trusted surrogacy resource since 2001. Information for intended parents and surrogates, including legal requirements under the AHR Act, matching, and the surrogacy process.",
+    "url": "https://surrogacy.ca/",
+    "systemImage": "figure.2.and.child.holdinghands",
+    "category": "Building Your Family"
+  },
+  {
+    "title": "2SLGBTQ+ Family Building",
+    "subtitle": "Sherbourne Health, Toronto",
+    "description": "Workshops and consultations on surrogacy, adoption, assisted reproduction, and legal considerations for 2SLGBTQ+ individuals and couples building families in Canada.",
+    "url": "https://sherbourne.on.ca/community-health-programs/2slgbtq-family-resources/",
+    "systemImage": "house.and.flag",
+    "category": "Building Your Family"
+  },
+  {
+    "title": "LGBT+ Family Coalition",
+    "subtitle": "Quebec-based, bilingual",
+    "description": "Advocacy, workshops, and community resources for LGBT+ family building including surrogacy, adoption, and assisted reproduction. Supports trans, non-binary, and Indigenous families.",
+    "url": "https://familleslgbt.org/en/",
+    "systemImage": "rainbow",
+    "category": "Building Your Family"
   },
   {
     "title": "Canadian Cancer Society",
     "subtitle": "Fertility & cancer side effects",
-    "description": "Evidence-based info on how cancer treatments affect fertility and options for preservation before therapy.",
+    "description": "Evidence-based information on how cancer treatments affect fertility and options for preservation before therapy begins.",
     "url": "https://cancer.ca/en/treatments/side-effects/fertility-problems",
-    "systemImage": "bandage"
+    "systemImage": "bandage",
+    "category": "Cancer & Fertility"
   },
   {
     "title": "Young Adult Cancer Canada",
     "subtitle": "Oncofertility resources & stories",
-    "description": "Articles and lived experiences focused on fertility issues for adolescents and young adults with cancer.",
+    "description": "Articles and lived experiences focused on fertility issues for adolescents and young adults (15-39) with cancer.",
     "url": "https://youngadultcancer.ca/tag/fertility/",
-    "systemImage": "figure.2.and.child.holdinghands"
+    "systemImage": "heart.circle",
+    "category": "Cancer & Fertility"
   },
   {
-    "title": "MyFertilityChoices",
-    "subtitle": "Options & preservation primer",
-    "description": "Canadian site with plain-language guides on fertility testing, preservation (egg/sperm/embryo), and treatment pathways.",
-    "url": "https://myfertilitychoices.com/",
-    "systemImage": "books.vertical"
+    "title": "CARTR Plus Registry",
+    "subtitle": "National IVF outcomes data",
+    "description": "Public reporting portal summarizing assisted reproduction activity and outcomes contributed by Canadian clinics. Useful for understanding success rates and trends at a national level.",
+    "url": "https://www.bornontario.ca/initiatives-resources/perinatal-and-paediatric-care/canadian-assisted-reproductive-technologies-register-cartr-plus/",
+    "systemImage": "chart.bar.doc.horizontal",
+    "category": "Outcomes & Guidelines"
   },
   {
-    "title": "Fertility in Focus Podcast",
-    "subtitle": "Fertility Matters Canada",
-    "description": "Interviews with specialists and patient stories on infertility and fertility preservation—listen on your preferred platform.",
-    "url": "https://fertilitymatters.ca/involve/programs/podcast/",
-    "systemImage": "mic"
+    "title": "CFAS",
+    "subtitle": "Canadian Fertility & Andrology Society",
+    "description": "Canada's professional society for reproductive medicine. Publishes guidance statements, hosts the annual conference, and supports practice standards, education, and research.",
+    "url": "https://cfas.ca",
+    "systemImage": "person.2.wave.2",
+    "category": "Outcomes & Guidelines"
+  },
+  {
+    "title": "SOGC",
+    "subtitle": "Clinical guidelines & statements",
+    "description": "Society of Obstetricians and Gynaecologists of Canada. Access clinical practice guidelines, committee opinions, and patient resources related to reproductive health.",
+    "url": "https://sogc.org",
+    "systemImage": "doc.text.magnifyingglass",
+    "category": "Outcomes & Guidelines"
+  },
+  {
+    "title": "Health Canada – AHR",
+    "subtitle": "Regulations & safety notices",
+    "description": "Assisted Human Reproduction (AHR) regulatory information, including safety of sperm/egg/embryo handling, inspections, guidance documents, and compliance updates.",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/biologics-radiopharmaceuticals-genetic-therapies/legislation-guidelines/assisted-human-reproduction.html",
+    "systemImage": "checkmark.shield",
+    "category": "Outcomes & Guidelines"
   }
 ]
